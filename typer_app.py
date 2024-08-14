@@ -123,6 +123,7 @@ def get_product_data(
         progress.add_task(description=f"Validating the input", total=None)
         city = city_validator(driver, city)
         store = store_validator(driver, store, city)
+        product = parse_input(product)
 
     console.print(f"\nInput validation was successful.")
 
