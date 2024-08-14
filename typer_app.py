@@ -8,7 +8,8 @@ import unicodedata
 import typer
 
 app = typer.Typer(no_args_is_help=True)
-driver = initialize_webdriver()
+# The driver can't be headless on Linux
+driver = initialize_webdriver(headless=False)
 console = Console()
 
 def truncate_name(name, max_length=30):
