@@ -139,7 +139,7 @@ def get_product_data(
 
     table.add_column("City", justify="left", style="cyan", no_wrap=True)
     table.add_column("Store", justify="left", style="cyan", no_wrap=True)
-    table.add_column("url", justify="left", style="cyan", no_wrap=True)
+    table.add_column("URL", justify="left", style="cyan", no_wrap=True)
     table.add_column("Name", justify="left", style="cyan", no_wrap=True)
     table.add_column("Price", justify="left", style="cyan", no_wrap=True)
     table.add_column("Discount", justify="left", style="cyan", no_wrap=True)
