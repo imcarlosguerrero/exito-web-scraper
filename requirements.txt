@@ -1,3 +1,5 @@
 ua-generator
 selenium
 typer
+webdriver_manager
+bs4
