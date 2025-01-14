@@ -173,6 +173,7 @@ def get_product(driver, city, store, product_name):
             discount = article.find('div', {'data-fs-product-card-prices': 'true'}).find('span', {'data-percentage': 'true'}).text.strip()
         except AttributeError:
             discount = 0
+
         products.append({
             "city": city['city_name'],
             "store": store['store_name'],
@@ -180,14 +181,14 @@ def get_product(driver, city, store, product_name):
             "name": name,
             "price": price,
             "discount": float(discount),
-            "image": urllib.parse.parse_qs(urllib.parse.urlparse(image).query).get('url', [None])[0],
+            "image": image,
             "timestamp": datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=-5))).isoformat()
         })
     
-    with open(os.path.join('results', f'{product_name}.json'), 'w') as f:
+    with open(os.path.join('results', f'{product_name}.json'), 'w', encoding='utf-8') as f:
         json.dump(products, f, ensure_ascii=False, indent=4)
 
-    with open(os.path.join('results', 'products.csv'), 'a', newline='') as csvfile:
+    with open(os.path.join('results', 'products.csv'), 'a', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['city', 'store', 'url', 'name', 'price', 'discount', 'image', 'timestamp']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     
