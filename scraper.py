@@ -88,7 +88,7 @@ def list_cities():
             console.print("\n", table)
 
 @app.command()
-def list_stores(cities: List[str] = typer.Argument(..., help="The name of the city to search for.")):
+def list_stores(cities: List[str] = typer.Option(["Bogotá"], help="The name of the city to search for.")):
     """
     Retrieves the list of stores in a city.
     """
@@ -116,9 +116,9 @@ def list_stores(cities: List[str] = typer.Argument(..., help="The name of the ci
 
 @app.command()
 def get_product_data(
-    product: Optional[str] = typer.Argument("Huevo", help="The name of the product to search for."),
-    store: Optional[str] = typer.Argument("Éxito Álamos", help="The name of the store to search in."),
-    city: Optional[str] = typer.Argument("Bogotá", help="The name of the city to search in."),
+    product: Optional[str] = typer.Option("Huevo", help="The name of the product to search for."),
+    store: Optional[str] = typer.Option("Éxito Álamos", help="The name of the store to search in."),
+    city: Optional[str] = typer.Option("Bogotá", help="The name of the city to search in."),
 ):
     """
     Retrieves the price and discount of a product in a store in a city.
@@ -151,7 +151,7 @@ def get_product_data(
     table.add_column("URL", justify="left", style="cyan", no_wrap=True)
     table.add_column("Name", justify="left", style="cyan", no_wrap=True)
     table.add_column("Price", justify="left", style="cyan", no_wrap=True)
-    table.add_column("Discount", justify="left", style="cyan", no_wrap=True)
+    table.add_column("Discount (Percentage)", justify="left", style="cyan", no_wrap=True)
 
     console.print(f"\nResults for {product} in {city['city_name']} at {store['store_name']} have been saved in the results folder")
 
