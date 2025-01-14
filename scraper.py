@@ -150,8 +150,9 @@ def get_product_data(
     table.add_column("Store", justify="left", style="cyan", no_wrap=True)
     table.add_column("URL", justify="left", style="cyan", no_wrap=True)
     table.add_column("Name", justify="left", style="cyan", no_wrap=True)
+    table.add_column("Image", justify="left", style="cyan", no_wrap=True)
     table.add_column("Price", justify="left", style="cyan", no_wrap=True)
-    table.add_column("Discount (Percentage)", justify="left", style="cyan", no_wrap=True)
+    table.add_column("Discount", justify="left", style="cyan", no_wrap=True)
 
     console.print(f"\nResults for {product} in {city['city_name']} at {store['store_name']} have been saved in the results folder")
 
@@ -160,7 +161,8 @@ def get_product_data(
             product['city'],
             product['store'],
             create_clickable_link(product['url']),
-            truncate_name(product['name'], 30),
+            truncate_name(product['name'], 20),
+            create_clickable_link(product['image']),
             product['price'],
             str(product['discount']),
         )
