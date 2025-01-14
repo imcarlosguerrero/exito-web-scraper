@@ -9,7 +9,6 @@ import typer
 
 app = typer.Typer(no_args_is_help=True)
 # The driver can't be headless on Linux
-driver = initialize_webdriver(headless=False)
 console = Console()
 
 def truncate_name(name, max_length=30):
@@ -65,7 +64,10 @@ def store_validator(driver, store: str, city: dict):
 
 @app.command()
 def list_cities():
-    
+    """
+    Retrieves the list of cities available in the website.
+    """
+    driver = initialize_webdriver(headless=False)
     with Progress(
         SpinnerColumn(),
         TextColumn("[progress.description]{task.description}"),
@@ -86,7 +88,11 @@ def list_cities():
             console.print("\n", table)
 
 @app.command()
-def list_stores(cities: List[str]):
+def list_stores(cities: List[str] = typer.Argument(..., help="The name of the city to search for.")):
+    """
+    Retrieves the list of stores in a city.
+    """
+    driver = initialize_webdriver(headless=False)
     for city in cities:
         with Progress(
         SpinnerColumn(),
@@ -110,11 +116,14 @@ def list_stores(cities: List[str]):
 
 @app.command()
 def get_product_data(
-    product: Optional[str] = "Huevo",
-    store: Optional[str] = "Éxito Álamos",
-    city: Optional[str] = "Bogotá",
+    product: Optional[str] = typer.Argument("Huevo", help="The name of the product to search for."),
+    store: Optional[str] = typer.Argument("Éxito Álamos", help="The name of the store to search in."),
+    city: Optional[str] = typer.Argument("Bogotá", help="The name of the city to search in."),
 ):
-    
+    """
+    Retrieves the price and discount of a product in a store in a city.
+    """
+    driver = initialize_webdriver(headless=False)
     with Progress(
         SpinnerColumn(),
         TextColumn("[progress.description]{task.description}"),
