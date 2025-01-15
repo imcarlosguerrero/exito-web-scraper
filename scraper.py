@@ -8,7 +8,6 @@ import unicodedata
 import typer
 
 app = typer.Typer(no_args_is_help=True)
-# The driver can't be headless on Linux
 console = Console()
 
 def truncate_name(name, max_length=30):
@@ -152,6 +151,7 @@ def get_product_data(
     table.add_column("Name", justify="left", style="cyan", no_wrap=True)
     table.add_column("Image", justify="left", style="cyan", no_wrap=True)
     table.add_column("Price", justify="left", style="cyan", no_wrap=True)
+    table.add_column("Unit Price", justify="left", style="cyan", no_wrap=True)
     table.add_column("Discount", justify="left", style="cyan", no_wrap=True)
 
     console.print(f"\nResults for {product} in {city['city_name']} at {store['store_name']} have been saved in the results folder")
@@ -164,6 +164,7 @@ def get_product_data(
             truncate_name(product['name'], 20),
             create_clickable_link(product['image']),
             product['price'],
+            product['unit_price'],
             str(product['discount']),
         )
 

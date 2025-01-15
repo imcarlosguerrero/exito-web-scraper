@@ -3,7 +3,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from selenium.webdriver.common.by import By
 from selenium import webdriver
 from bs4 import BeautifulSoup
@@ -169,6 +169,8 @@ def get_product(driver, city, store, product_name):
         name = article.find('div', {'class': 'productCard_productInfo__yn2lK'}).find('p').text.strip()
         image = article.find('div', {'data-fs-product-card-image': 'true'}).find('a', {'data-testid': 'product-link'}).find('img')['src']
         price = article.find('div', {'data-fs-container-price-otros-geral': 'true'}).find('p').text.strip()
+        unit_price = article.find_all('a', {'data-testid': 'product-link'})[1].find('span').text.strip().replace('(', '').replace(')', '')
+
         try:
             discount = article.find('div', {'data-fs-product-card-prices': 'true'}).find('span', {'data-percentage': 'true'}).text.strip()
         except AttributeError:
@@ -180,16 +182,17 @@ def get_product(driver, city, store, product_name):
             "url": "https://www.exito.com" + url,
             "name": name,
             "price": price,
+            "unit_price": unit_price,
             "discount": float(discount),
             "image": image,
-            "timestamp": datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=-5))).isoformat()
+            "timestamp": datetime.now(timezone.utc).isoformat()
         })
     
     with open(os.path.join('results', f'{product_name}.json'), 'w', encoding='utf-8') as f:
         json.dump(products, f, ensure_ascii=False, indent=4)
 
     with open(os.path.join('results', 'products.csv'), 'a', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['city', 'store', 'url', 'name', 'price', 'discount', 'image', 'timestamp']
+        fieldnames = ['city', 'store', 'url', 'name', 'price', 'unit_price', 'discount', 'image', 'timestamp']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     
         for product in products:
@@ -199,6 +202,7 @@ def get_product(driver, city, store, product_name):
                 'url': product['url'],
                 'name': product['name'],
                 'price': product['price'],
+                'unit_price': product['unit_price'],
                 'discount': product['discount'],
                 'image': product['image'],
                 'timestamp': product['timestamp']
