@@ -1,0 +1,200 @@
+city,tcac_code,sipsa_name,exito_name
+Bogotá,N/A,Aceite girasol,Aceite girasol
+Bogotá,N/A,Aceite soya,Aceite soya
+Bogotá,D013,Aceite vegetal mezcla,Aceite vegetal mezcla
+Bogotá,N/A,Acelga,Acelga
+Bogotá,N/A,Aguacate Hass,Aguacate Hass
+Bogotá,C002,Aguacate papelillo,Aguacate papelillo
+Bogotá,B006,Ahuyama,Ahuyama
+Bogotá,N/A,Ahuyamín (Sakata),Ahuyamín (Sakata)
+Bogotá,N/A,Ajo,Ajo
+Bogotá,N/A,Ajo importado,Ajo importado
+Bogotá,F069,Alas de pollo con costillar,Alas de pollo con costillar
+Bogotá,N/A,Alas de pollo sin costillar,Alas de pollo sin costillar
+Bogotá,E001,Almejas con concha,Almejas con concha
+Bogotá,B014,Apio,Apio
+Bogotá,B015,Arracacha amarilla,Arracacha amarilla
+Bogotá,A010,Arroz de primera,Arroz de primera
+Bogotá,N/A,Arroz de segunda,Arroz de segunda
+Bogotá,N/A,Arroz excelso,Arroz excelso
+Bogotá,N/A,Arroz sopa cristal,Arroz sopa cristal
+Bogotá,N/A,Arveja amarilla seca importada,Arveja amarilla seca importada
+Bogotá,N/A,Arveja enlatada,Arveja enlatada
+Bogotá,N/A,Arveja verde en vaina,Arveja verde en vaina
+Bogotá,B019,Arveja verde en vaina pastusa,Arveja vaina
+Bogotá,T003,Arveja verde seca importada,Arveja
+Bogotá,A012,Avena en hojuelas,Avena en hojuelas
+Bogotá,A029,Avena molida,Avena molida
+Bogotá,K004,Azúcar morena,Azúcar morena
+Bogotá,N/A,Azúcar refinada,Azúcar refinada
+Bogotá,K003,Azúcar sulfitada,Azúcar sulfitada
+Bogotá,N/A,Bagre rayado en postas congelado,Bagre rayado en postas congelado
+Bogotá,E005,Bagre rayado entero congelado,Bagre
+Bogotá,N/A,Bagre rayado entero fresco,Bagre rayado entero fresco
+Bogotá,C009,Banano bocadillo,Banano bocadillo
+Bogotá,C010,Banano criollo,Banano criollo
+Bogotá,N/A,Banano Urabá,Banano Urabá
+Bogotá,E007,"Basa, entero congelado importado",Basa
+Bogotá,E030,"Basa, filete congelado importado",Filete basa
+Bogotá,N/A,Berenjena,Berenjena
+Bogotá,N/A,Bocachico criollo fresco,Bocachico criollo fresco
+Bogotá,N/A,Bocadillo veleño,Bocadillo veleño
+Bogotá,N/A,Borojó,Borojó
+Bogotá,B025,Brócoli,Brócoli
+Bogotá,N/A,Cachama de cultivo fresca,Cachama de cultivo fresca
+Bogotá,L005,Café instantáneo,Café instantáneo
+Bogotá,L006,Café molido,Café molido
+Bogotá,N/A,Calabacín,Calabacín
+Bogotá,N/A,Calabaza,Calabaza
+Bogotá,E015,Calamar anillos,Calamar anillos
+Bogotá,E017,Camarón tigre precocido seco,Camarón tigre
+Bogotá,N/A,Camarón tití precocido seco,Camarón tití precocido seco
+Bogotá,N/A,"Carne de cerdo, brazo con hueso","Carne de cerdo, brazo con hueso"
+Bogotá,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
+Bogotá,N/A,"Carne de cerdo, cabeza de lomo","Carne de cerdo, cabeza de lomo"
+Bogotá,F015,"Carne de cerdo, costilla",Costila cerdo
+Bogotá,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
+Bogotá,N/A,"Carne de cerdo, pernil con hueso","Carne de cerdo, pernil con hueso"
+Bogotá,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
+Bogotá,N/A,"Carne de cerdo, tocino barriga","Carne de cerdo, tocino barriga"
+Bogotá,F029,"Carne de cerdo, tocino papada",Papada cerdo
+Bogotá,N/A,"Carne de res molida, murillo","Carne de res molida, murillo"
+Bogotá,F118,"Carne de res, bola de brazo",Bola brazo res
+Bogotá,N/A,"Carne de res, bota","Carne de res, bota"
+Bogotá,F100,"Carne de res, cadera",Cadera res
+Bogotá,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Bogotá,F099,"Carne de res, chatas",Chatas res
+Bogotá,N/A,"Carne de res, cogote","Carne de res, cogote"
+Bogotá,F107,"Carne de res, costilla",Costilla res
+Bogotá,N/A,"Carne de res, lomo de brazo","Carne de res, lomo de brazo"
+Bogotá,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Bogotá,F098,"Carne de res, morrillo",Morrillo res
+Bogotá,N/A,"Carne de res, murillo","Carne de res, murillo"
+Bogotá,N/A,"Carne de res, paletero","Carne de res, paletero"
+Bogotá,N/A,Cazuela de mariscos (paquete),Cazuela de mariscos (paquete)
+Bogotá,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
+Bogotá,N/A,Cebolla cabezona roja,Cebolla cabezona roja
+Bogotá,B029,Cebolla junca Aquitania,Cebolla junca
+Bogotá,N/A,Cebolla puerro,Cebolla puerro
+Bogotá,N/A,Chocolate dulce,Chocolate dulce
+Bogotá,N/A,Chocolate instantáneo,Chocolate instantáneo
+Bogotá,A053,Chócolo mazorca,Chócolo mazorca
+Bogotá,N/A,Cidra,Cidra
+Bogotá,N/A,Cilantro,Cilantro
+Bogotá,N/A,Ciruela importada,Ciruela importada
+Bogotá,N/A,Ciruela roja,Ciruela roja
+Bogotá,C019,Coco,Coco
+Bogotá,N/A,Coles,Coles
+Bogotá,B039,Coliflor,Coliflor
+Bogotá,N/A,Cuchuco de cebada,Cuchuco de cebada
+Bogotá,A044,Cuchuco de maíz,Cuchuco de maíz
+Bogotá,C021,Curuba,Curuba
+Bogotá,N/A,Durazno importado,Durazno importado
+Bogotá,N/A,Durazno nacional,Durazno nacional
+Bogotá,B044,Espinaca,Espinaca
+Bogotá,N/A,Fécula de maíz,Fécula de maíz
+Bogotá,C025,Fresa,Fresa
+Bogotá,N/A,Fríjol bolón,Fríjol bolón
+Bogotá,N/A,Fríjol cargamanto rojo,Fríjol cargamanto rojo
+Bogotá,N/A,Fríjol enlatado,Fríjol enlatado
+Bogotá,N/A,Fríjol nima calima,Fríjol nima calima
+Bogotá,N/A,Fríjol radical,Fríjol radical
+Bogotá,B046,Fríjol verde cargamanto,Fríjol verde
+Bogotá,N/A,Galletas dulces redondas con crema,Galletas dulces redondas con crema
+Bogotá,A027,Galletas saladas,Galletas saladas
+Bogotá,N/A,Garbanzo importado,Garbanzo importado
+Bogotá,K018,Gelatina,Gelatina
+Bogotá,C028,Granadilla,Granadilla
+Bogotá,C030,Guanábana,Guanábana
+Bogotá,C032,Guayaba pera,Guayaba pera
+Bogotá,N/A,Gulupa,Gulupa
+Bogotá,N/A,Haba verde,Haba verde
+Bogotá,B052,Habichuela,Habichuela
+Bogotá,A040,Harina de trigo,Harina de trigo
+Bogotá,A034,Harina precocida de maíz,Harina precocida de maíz
+Bogotá,N/A,Higo,Higo
+Bogotá,J004,Huevo rojo A,Huevo A
+Bogotá,N/A,Huevo rojo B,Huevo rojo B
+Bogotá,C042,Kiwi,Kiwi
+Bogotá,B059,Lechuga Batavia,Lechuga Batavia
+Bogotá,B060,Lechuga crespa verde,Lechuga crespa verde
+Bogotá,T026,Lenteja importada,Lenteja importada
+Bogotá,C044,Limón Tahití,Limón Tahití
+Bogotá,E003,Lomitos de atún en lata,Lomitos de atún en lata
+Bogotá,C045,Lulo,Lulo
+Bogotá,N/A,Maíz amarillo cáscara,Maíz amarillo cáscara
+Bogotá,A046,Maíz blanco trillado,Maíz blanco trillado
+Bogotá,N/A,Maíz pira,Maíz pira
+Bogotá,C050,Mandarina Arrayana,Mandarina Arrayana
+Bogotá,C051,Mango común,Mango
+Bogotá,C052,Mango Tommy,Mango Tommy
+Bogotá,N/A,Manteca,Manteca
+Bogotá,N/A,Manzana nacional,Manzana nacional
+Bogotá,C054,Manzana roja importada,Manzana roja importada
+Bogotá,C056,Maracuyá,Maracuyá
+Bogotá,D018,Margarina,Margarina
+Bogotá,D020,Mayonesa doy pack,Mayonesa doy pack
+Bogotá,C060,Melón Cantalup,Melón Cantalup
+Bogotá,C061,Mora de Castilla,Mora de Castilla
+Bogotá,N/A,Muslos de pollo sin rabadilla,Muslos de pollo sin rabadilla
+Bogotá,C062,Naranja Sweet,Naranja Sweet
+Bogotá,N/A,Naranja Valencia,Naranja Valencia
+Bogotá,N/A,Nicuro fresco,Nicuro fresco
+Bogotá,N/A,Palmitos de mar,Palmitos de mar
+Bogotá,N/A,Panela cuadrada morena,Panela cuadrada morena
+Bogotá,B071,Papa criolla limpia,Papa criolla lavada
+Bogotá,B074,Papa parda pastusa,Papa parda pastusa
+Bogotá,N/A,Papa R-12 negra,Papa R-12 negra
+Bogotá,N/A,Papa R-12 roja,Papa R-12 roja
+Bogotá,N/A,Papa rubí,Papa rubí
+Bogotá,N/A,Papa sabanera,Papa sabanera
+Bogotá,N/A,Papa superior,Papa superior
+Bogotá,N/A,Papaya Paulina,Papaya Paulina
+Bogotá,N/A,Papaya tainung,Papaya tainung
+Bogotá,E043,Pargo rojo entero congelado,Pargo
+Bogotá,A072,Pastas alimenticias,Pastas alimenticias
+Bogotá,C079,Patilla,Sandía
+Bogotá,F085,Pechuga de pollo,Pechuga de pollo
+Bogotá,B077,Pepino cohombro,Pepino cohombro
+Bogotá,N/A,Pepino de rellenar,Pepino de rellenar
+Bogotá,C071,Pera importada,Pera importada
+Bogotá,N/A,Pera nacional,Pera nacional
+Bogotá,N/A,Perejil,Perejil
+Bogotá,E002,Pescado cabezas,Pescado cabezas
+Bogotá,F091,Pierna pernil con rabadilla,Pierna pernil con rabadilla
+Bogotá,N/A,Pierna pernil sin rabadilla,Pierna pernil sin rabadilla
+Bogotá,B080,Pimentón,Pimentón
+Bogotá,C072,Piña gold,Piña gold
+Bogotá,N/A,Piña perolera,Piña perolera
+Bogotá,N/A,Pitahaya,Pitahaya
+Bogotá,N/A,Plátano guineo,Plátano guineo
+Bogotá,N/A,Plátano hartón maduro,Plátano hartón maduro
+Bogotá,B092,Plátano hartón verde,Plátano verde
+Bogotá,N/A,Plátano hartón verde llanero,Plátano hartón verde llanero
+Bogotá,N/A,Pollo entero fresco sin vísceras,Pollo entero fresco sin vísceras
+Bogotá,G017,Queso campesino,Queso campesino
+Bogotá,G018,Queso costeño,Queso costeño
+Bogotá,G016,Queso cuajada,Queso cuajada
+Bogotá,G021,Queso doble crema,Queso doble crema
+Bogotá,N/A,Rábano rojo,Rábano rojo
+Bogotá,N/A,Remolacha,Remolacha
+Bogotá,N/A,Repollo morado,Repollo morado
+Bogotá,N/A,Repollo verde,Repollo verde
+Bogotá,N/A,"Róbalo, filete congelado","Róbalo, filete congelado"
+Bogotá,L015,Sal yodada,Sal yodada
+Bogotá,E038,"Salmón, filete congelado",Filete salmón
+Bogotá,L017,Salsa de tomate doy pack,Salsa de tomate doy pack
+Bogotá,E039,Sardinas en lata,Sardinas en lata
+Bogotá,E041,Sierra entera congelada,Sierra
+Bogotá,N/A,Sopa de pollo (caja),Sopa de pollo (caja)
+Bogotá,N/A,Tangelo,Tangelo
+Bogotá,N/A,Tilapia roja entera fresca,Tilapia roja entera fresca
+Bogotá,B103,Tomate chonto,Tomate chonto
+Bogotá,C082,Tomate de árbol,Tomate de árbol
+Bogotá,E047,Trucha en corte mariposa,Trucha en corte mariposa
+Bogotá,N/A,Uchuva con cáscara,Uchuva con cáscara
+Bogotá,C085,Uva importada,Uva importada
+Bogotá,C086,Uva Isabela,Uva Isabela
+Bogotá,N/A,Uva verde,Uva verde
+Bogotá,N/A,Yuca llanera,Yuca llanera
+Bogotá,B110,Zanahoria,Zanahoria

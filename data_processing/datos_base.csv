@@ -1,0 +1,1799 @@
+"Year","Month","City","Codigo_TCAC","Alimento","Precio_kg"
+2023,12,"Barranquilla",NA,"Aceite girasol",18355
+2023,12,"Barranquilla","D013","Aceite vegetal mezcla",8948
+2023,12,"Barranquilla","B006","Ahuyama",1359
+2023,12,"Barranquilla",NA,"Ajo importado",8689.5
+2023,12,"Barranquilla","F069","Alas de pollo con costillar",8319
+2023,12,"Barranquilla","B014","Apio",1617.5
+2023,12,"Barranquilla","A010","Arroz de primera",3887
+2023,12,"Barranquilla",NA,"Arroz de segunda",3481
+2023,12,"Barranquilla",NA,"Arroz excelso",4090
+2023,12,"Barranquilla",NA,"Arveja verde en vaina",9869
+2023,12,"Barranquilla","A012","Avena en hojuelas",8923
+2023,12,"Barranquilla","A029","Avena molida",11643.5
+2023,12,"Barranquilla",NA,"Azúcar refinada",4498
+2023,12,"Barranquilla","K003","Azúcar sulfitada",4047
+2023,12,"Barranquilla","C010","Banano criollo",1216
+2023,12,"Barranquilla",NA,"Banano Urabá",1270
+2023,12,"Barranquilla","E007","Basa, entero congelado importado",10853
+2023,12,"Barranquilla",NA,"Berenjena",2994
+2023,12,"Barranquilla","E010","Bocachico importado congelado",10653
+2023,12,"Barranquilla","B025","Brócoli",8068.5
+2023,12,"Barranquilla","L005","Café instantáneo",122261.5
+2023,12,"Barranquilla","L006","Café molido",34009.5
+2023,12,"Barranquilla",NA,"Carne de cerdo, brazo con hueso",17167
+2023,12,"Barranquilla","F008","Carne de cerdo, brazo sin hueso",19167
+2023,12,"Barranquilla","F015","Carne de cerdo, costilla",17083
+2023,12,"Barranquilla",NA,"Carne de cerdo, lomo con hueso",17167
+2023,12,"Barranquilla","F019","Carne de cerdo, lomo sin hueso",20917
+2023,12,"Barranquilla",NA,"Carne de cerdo, pernil con hueso",17167
+2023,12,"Barranquilla","F118","Carne de res, bola de brazo",25912.5
+2023,12,"Barranquilla","F118","Carne de res, bola de pierna",25908.5
+2023,12,"Barranquilla",NA,"Carne de res, bota",25912.5
+2023,12,"Barranquilla","F100","Carne de res, cadera",26850
+2023,12,"Barranquilla",NA,"Carne de res, centro de pierna",25892
+2023,12,"Barranquilla","F099","Carne de res, chatas",27875
+2023,12,"Barranquilla","F107","Carne de res, costilla",16417
+2023,12,"Barranquilla","F100","Carne de res, falda",20842
+2023,12,"Barranquilla",NA,"Carne de res, lomo fino",41625
+2023,12,"Barranquilla","F118","Carne de res, muchacho",26412.5
+2023,12,"Barranquilla","F100","Carne de res, punta de anca",26842
+2023,12,"Barranquilla","F098","Carne de res, sobrebarriga",22362.5
+2023,12,"Barranquilla",NA,"Cebolla cabezona blanca",2203
+2023,12,"Barranquilla",NA,"Cebolla cabezona roja peruana",2339
+2023,12,"Barranquilla",NA,"Cebolla junca Berlín",2461
+2023,12,"Barranquilla",NA,"Cebollín chino",5455
+2023,12,"Barranquilla",NA,"Chocolate dulce",21070.5
+2023,12,"Barranquilla",NA,"Cilantro",6442
+2023,12,"Barranquilla","C019","Coco",5100
+2023,12,"Barranquilla",NA,"Coles",4376
+2023,12,"Barranquilla","B039","Coliflor",7904.5
+2023,12,"Barranquilla",NA,"Color (bolsita)",18960
+2023,12,"Barranquilla","C021","Curuba",2458
+2023,12,"Barranquilla","B044","Espinaca",8210
+2023,12,"Barranquilla",NA,"Fécula de maíz",23671
+2023,12,"Barranquilla",NA,"Fríjol cabeza negra importado",7092
+2023,12,"Barranquilla",NA,"Fríjol cabeza negra nacional",6688
+2023,12,"Barranquilla",NA,"Fríjol palomito importado",7356.5
+2023,12,"Barranquilla",NA,"Fríjol verde en vaina",8835
+2023,12,"Barranquilla",NA,"Fríjol Zaragoza",7844
+2023,12,"Barranquilla",NA,"Galletas dulces redondas con crema",18646
+2023,12,"Barranquilla","A027","Galletas saladas",12470.5
+2023,12,"Barranquilla","K018","Gelatina",38352.5
+2023,12,"Barranquilla",NA,"Guayaba Atlántico",2075
+2023,12,"Barranquilla",NA,"Guayaba común",2619
+2023,12,"Barranquilla","C032","Guayaba pera",4060.5
+2023,12,"Barranquilla","B052","Habichuela",3445
+2023,12,"Barranquilla",NA,"Habichuela larga",4733
+2023,12,"Barranquilla","A040","Harina de trigo",2907
+2023,12,"Barranquilla","A034","Harina precocida de maíz",3358
+2023,12,"Barranquilla",NA,"Jugo de frutas",8938
+2023,12,"Barranquilla","K018","Jugo instantáneo (sobre)",33685
+2023,12,"Barranquilla","G008","Leche en polvo",50636
+2023,12,"Barranquilla","B059","Lechuga Batavia",2952.5
+2023,12,"Barranquilla","T026","Lenteja importada",6668.5
+2023,12,"Barranquilla",NA,"Limón común Ciénaga",6384
+2023,12,"Barranquilla","C044","Limón Tahití",2045
+2023,12,"Barranquilla","E003","Lomitos de atún en lata",38859
+2023,12,"Barranquilla","C045","Lulo",4600
+2023,12,"Barranquilla","A044","Maíz amarillo trillado",2017.5
+2023,12,"Barranquilla","A046","Maíz blanco trillado",2180.5
+2023,12,"Barranquilla",NA,"Mandarina común",2306
+2023,12,"Barranquilla",NA,"Mango de azúcar",3872
+2023,12,"Barranquilla","C052","Mango Tommy",3404
+2023,12,"Barranquilla","C056","Maracuyá",2550
+2023,12,"Barranquilla",NA,"Maracuyá valluno",2536
+2023,12,"Barranquilla","D018","Margarina",17895
+2023,12,"Barranquilla","D020","Mayonesa doy pack",16181.5
+2023,12,"Barranquilla",NA,"Mojarra lora entera congelada",17067
+2023,12,"Barranquilla",NA,"Mojarra lora entera fresca",13667
+2023,12,"Barranquilla","C061","Mora de Castilla",5734
+2023,12,"Barranquilla",NA,"Mostaza doy pack",13925
+2023,12,"Barranquilla",NA,"Panela cuadrada blanca",3992
+2023,12,"Barranquilla","B071","Papa criolla limpia",3847.5
+2023,12,"Barranquilla","B074","Papa única",1549
+2023,12,"Barranquilla","A072","Pastas alimenticias",6960
+2023,12,"Barranquilla","F085","Pechuga de pollo",11460.5
+2023,12,"Barranquilla","B077","Pepino cohombro",964
+2023,12,"Barranquilla",NA,"Perejil",10788
+2023,12,"Barranquilla","F091","Pierna pernil con rabadilla",6762.5
+2023,12,"Barranquilla","B080","Pimentón",3494.5
+2023,12,"Barranquilla",NA,"Piña perolera",3810
+2023,12,"Barranquilla","B092","Plátano hartón verde",2373
+2023,12,"Barranquilla","F077","Pollo entero congelado sin vísceras",8748
+2023,12,"Barranquilla","G018","Queso costeño",18750
+2023,12,"Barranquilla",NA,"Rábano rojo",6952
+2023,12,"Barranquilla",NA,"Remolacha",1596
+2023,12,"Barranquilla","B099","Repollo blanco",2134.5
+2023,12,"Barranquilla","L015","Sal yodada",1983.5
+2023,12,"Barranquilla","L017","Salsa de tomate doy pack",16279
+2023,12,"Barranquilla","E039","Sardinas en lata",14893
+2023,12,"Barranquilla","E043","Tilapia roja entera congelada",18733
+2023,12,"Barranquilla",NA,"Tilapia roja entera fresca",15733
+2023,12,"Barranquilla","B103","Tomate chonto",3592
+2023,12,"Barranquilla","C082","Tomate de árbol",1844.5
+2023,12,"Barranquilla",NA,"Tomate Riogrande bumangués",4009.5
+2023,12,"Barranquilla",NA,"Vinagre",1936
+2023,12,"Barranquilla",NA,"Yuca criolla",1326
+2023,12,"Barranquilla","B110","Zanahoria",1880
+2023,12,"Bogotá",NA,"Aceite girasol",16629.5
+2023,12,"Bogotá",NA,"Aceite soya",8329.75
+2023,12,"Bogotá","D013","Aceite vegetal mezcla",3217
+2023,12,"Bogotá",NA,"Acelga",744
+2023,12,"Bogotá",NA,"Aguacate Hass",7011
+2023,12,"Bogotá","C002","Aguacate papelillo",10392
+2023,12,"Bogotá","B006","Ahuyama",2229
+2023,12,"Bogotá",NA,"Ahuyamín (Sakata)",1894
+2023,12,"Bogotá",NA,"Ajo",12874
+2023,12,"Bogotá",NA,"Ajo importado",8668
+2023,12,"Bogotá","F069","Alas de pollo con costillar",8188.75
+2023,12,"Bogotá",NA,"Alas de pollo sin costillar",10421.8
+2023,12,"Bogotá","E001","Almejas con concha",7269.66666666667
+2023,12,"Bogotá","E001","Almejas sin concha",15818
+2023,12,"Bogotá","B014","Apio",893
+2023,12,"Bogotá","B015","Arracacha amarilla",2776
+2023,12,"Bogotá","A010","Arroz de primera",3896.25
+2023,12,"Bogotá",NA,"Arroz de segunda",3726.33333333333
+2023,12,"Bogotá",NA,"Arroz excelso",5773
+2023,12,"Bogotá",NA,"Arroz sopa cristal",3624
+2023,12,"Bogotá",NA,"Arveja amarilla seca importada",4637
+2023,12,"Bogotá",NA,"Arveja enlatada",12537
+2023,12,"Bogotá",NA,"Arveja verde en vaina",5036
+2023,12,"Bogotá","B019","Arveja verde en vaina pastusa",4503
+2023,12,"Bogotá","T003","Arveja verde seca importada",4453
+2023,12,"Bogotá","A012","Avena en hojuelas",9925.66666666667
+2023,12,"Bogotá","A029","Avena molida",10007
+2023,12,"Bogotá","K004","Azúcar morena",5368.75
+2023,12,"Bogotá",NA,"Azúcar refinada",5203.66666666667
+2023,12,"Bogotá","K003","Azúcar sulfitada",5006.66666666667
+2023,12,"Bogotá",NA,"Bagre rayado en postas congelado",30290.5
+2023,12,"Bogotá","E005","Bagre rayado entero congelado",26055.6666666667
+2023,12,"Bogotá",NA,"Bagre rayado entero fresco",23373
+2023,12,"Bogotá","C009","Banano bocadillo",3400
+2023,12,"Bogotá","C010","Banano criollo",2248
+2023,12,"Bogotá",NA,"Banano Urabá",1731
+2023,12,"Bogotá","E007","Basa, entero congelado importado",12350.3333333333
+2023,12,"Bogotá","E030","Basa, filete congelado importado",12833.3333333333
+2023,12,"Bogotá",NA,"Berenjena",2367
+2023,12,"Bogotá",NA,"Bocachico criollo fresco",20898
+2023,12,"Bogotá",NA,"Bocadillo veleño",409
+2023,12,"Bogotá",NA,"Borojó",5298
+2023,12,"Bogotá","B025","Brócoli",3150
+2023,12,"Bogotá",NA,"Cachama de cultivo fresca",11771
+2023,12,"Bogotá","L005","Café instantáneo",124609
+2023,12,"Bogotá","L006","Café molido",32660.25
+2023,12,"Bogotá",NA,"Calabacín",937
+2023,12,"Bogotá",NA,"Calabaza",436
+2023,12,"Bogotá","E015","Calamar anillos",34075.3333333333
+2023,12,"Bogotá","E015","Calamar blanco entero",15499.3333333333
+2023,12,"Bogotá","E017","Camarón tigre precocido seco",34912
+2023,12,"Bogotá",NA,"Camarón tití precocido seco",29401
+2023,12,"Bogotá",NA,"Carne de cerdo, brazo con hueso",16995.8
+2023,12,"Bogotá","F008","Carne de cerdo, brazo sin hueso",17960.8
+2023,12,"Bogotá",NA,"Carne de cerdo, cabeza de lomo",18575.4
+2023,12,"Bogotá","F015","Carne de cerdo, costilla",19288.6
+2023,12,"Bogotá","F019","Carne de cerdo, lomo sin hueso",21589.6
+2023,12,"Bogotá",NA,"Carne de cerdo, pernil con hueso",17884.75
+2023,12,"Bogotá","F025","Carne de cerdo, pernil sin hueso",19037.25
+2023,12,"Bogotá",NA,"Carne de cerdo, tocino barriga",20168.75
+2023,12,"Bogotá","F029","Carne de cerdo, tocino papada",15289.75
+2023,12,"Bogotá",NA,"Carne de res molida, murillo",19390.75
+2023,12,"Bogotá","F118","Carne de res, bola de brazo",26510
+2023,12,"Bogotá","F118","Carne de res, bola de pierna",25287.5
+2023,12,"Bogotá",NA,"Carne de res, bota",25287.5
+2023,12,"Bogotá","F100","Carne de res, cadera",25287.5
+2023,12,"Bogotá",NA,"Carne de res, centro de pierna",25287.5
+2023,12,"Bogotá","F099","Carne de res, chatas",32718.75
+2023,12,"Bogotá",NA,"Carne de res, cogote",20279.75
+2023,12,"Bogotá","F107","Carne de res, costilla",20443.75
+2023,12,"Bogotá","F100","Carne de res, falda",22223.75
+2023,12,"Bogotá",NA,"Carne de res, lomo de brazo",24771
+2023,12,"Bogotá",NA,"Carne de res, lomo fino",42271.5
+2023,12,"Bogotá","F098","Carne de res, morrillo",23034
+2023,12,"Bogotá","F118","Carne de res, muchacho",29375.25
+2023,12,"Bogotá",NA,"Carne de res, murillo",19362.25
+2023,12,"Bogotá",NA,"Carne de res, paletero",23927
+2023,12,"Bogotá","F100","Carne de res, pecho",22870
+2023,12,"Bogotá","F100","Carne de res, punta de anca",31880.25
+2023,12,"Bogotá","F098","Carne de res, sobrebarriga",22794
+2023,12,"Bogotá",NA,"Cazuela de mariscos (paquete)",15802
+2023,12,"Bogotá",NA,"Cebolla cabezona blanca",1738
+2023,12,"Bogotá",NA,"Cebolla cabezona roja",1938
+2023,12,"Bogotá","B029","Cebolla junca Aquitania",2485
+2023,12,"Bogotá",NA,"Cebolla puerro",2304
+2023,12,"Bogotá",NA,"Chocolate dulce",18947.75
+2023,12,"Bogotá",NA,"Chocolate instantáneo",35865
+2023,12,"Bogotá","A053","Chócolo mazorca",1720
+2023,12,"Bogotá",NA,"Cidra",1649
+2023,12,"Bogotá",NA,"Cilantro",2193
+2023,12,"Bogotá",NA,"Ciruela importada",14638
+2023,12,"Bogotá",NA,"Ciruela roja",1642
+2023,12,"Bogotá","C019","Coco",6641
+2023,12,"Bogotá",NA,"Coles",2744
+2023,12,"Bogotá","B039","Coliflor",3985
+2023,12,"Bogotá",NA,"Cuchuco de cebada",4883.33333333333
+2023,12,"Bogotá","A044","Cuchuco de maíz",4305
+2023,12,"Bogotá","C021","Curuba",1622
+2023,12,"Bogotá",NA,"Durazno importado",16444
+2023,12,"Bogotá",NA,"Durazno nacional",7063
+2023,12,"Bogotá","B044","Espinaca",2848
+2023,12,"Bogotá",NA,"Fécula de maíz",27885
+2023,12,"Bogotá","C025","Fresa",7546
+2023,12,"Bogotá",NA,"Fríjol bolón",11138.25
+2023,12,"Bogotá",NA,"Fríjol cargamanto rojo",9564.33333333333
+2023,12,"Bogotá",NA,"Fríjol enlatado",18542
+2023,12,"Bogotá",NA,"Fríjol nima calima",8213.66666666667
+2023,12,"Bogotá",NA,"Fríjol radical",7362
+2023,12,"Bogotá","B046","Fríjol verde cargamanto",4737
+2023,12,"Bogotá",NA,"Galletas dulces redondas con crema",19670
+2023,12,"Bogotá","A027","Galletas saladas",15052
+2023,12,"Bogotá",NA,"Garbanzo importado",10198.5
+2023,12,"Bogotá","K018","Gelatina",39752
+2023,12,"Bogotá","C028","Granadilla",6669
+2023,12,"Bogotá","C030","Guanábana",4545
+2023,12,"Bogotá","C032","Guayaba pera",1881
+2023,12,"Bogotá",NA,"Gulupa",1839
+2023,12,"Bogotá",NA,"Haba verde",1870
+2023,12,"Bogotá","B052","Habichuela",2074
+2023,12,"Bogotá","A040","Harina de trigo",3859
+2023,12,"Bogotá","A034","Harina precocida de maíz",4610.25
+2023,12,"Bogotá",NA,"Higo",7466
+2023,12,"Bogotá","J004","Huevo rojo A",550.333333333333
+2023,12,"Bogotá","J004","Huevo rojo AA",588.333333333333
+2023,12,"Bogotá",NA,"Huevo rojo B",521.333333333333
+2023,12,"Bogotá","J004","Huevo rojo extra",633.333333333333
+2023,12,"Bogotá","K018","Jugo instantáneo (sobre)",34237.3333333333
+2023,12,"Bogotá","C042","Kiwi",15126
+2023,12,"Bogotá","B059","Lechuga Batavia",2498
+2023,12,"Bogotá","B060","Lechuga crespa verde",3013
+2023,12,"Bogotá","T026","Lenteja importada",7026
+2023,12,"Bogotá","C044","Limón común",1417
+2023,12,"Bogotá","C044","Limón Tahití",1936
+2023,12,"Bogotá","E003","Lomitos de atún en lata",30354
+2023,12,"Bogotá","C045","Lulo",3603
+2023,12,"Bogotá",NA,"Maíz amarillo cáscara",2253.66666666667
+2023,12,"Bogotá","A044","Maíz amarillo trillado",2832
+2023,12,"Bogotá","A046","Maíz blanco trillado",2646.33333333333
+2023,12,"Bogotá",NA,"Maíz pira",5296.66666666667
+2023,12,"Bogotá","C050","Mandarina Arrayana",2326
+2023,12,"Bogotá","C051","Mango común",1369
+2023,12,"Bogotá","C052","Mango Tommy",2129
+2023,12,"Bogotá",NA,"Manteca",7378.75
+2023,12,"Bogotá",NA,"Manzana nacional",3800
+2023,12,"Bogotá","C054","Manzana roja importada",8396
+2023,12,"Bogotá","C054","Manzana royal gala importada",8302
+2023,12,"Bogotá","C054","Manzana verde importada",10035
+2023,12,"Bogotá","C056","Maracuyá",2758
+2023,12,"Bogotá","D018","Margarina",15330
+2023,12,"Bogotá","D020","Mayonesa doy pack",18887.5
+2023,12,"Bogotá","C060","Melón Cantalup",2893
+2023,12,"Bogotá","E030","Merluza, filete nacional",53121
+2023,12,"Bogotá","C061","Mora de Castilla",5981
+2023,12,"Bogotá",NA,"Muslos de pollo sin rabadilla",11335.6
+2023,12,"Bogotá","C062","Naranja Sweet",1549
+2023,12,"Bogotá",NA,"Naranja Valencia",1549
+2023,12,"Bogotá",NA,"Nicuro fresco",10600
+2023,12,"Bogotá",NA,"Palmitos de mar",14863
+2023,12,"Bogotá",NA,"Panela cuadrada morena",3525.25
+2023,12,"Bogotá","B071","Papa criolla limpia",4060
+2023,12,"Bogotá","B071","Papa criolla sucia",3247
+2023,12,"Bogotá","B074","Papa parda pastusa",1931
+2023,12,"Bogotá",NA,"Papa R-12 negra",1666
+2023,12,"Bogotá",NA,"Papa R-12 roja",1533
+2023,12,"Bogotá",NA,"Papa rubí",1418
+2023,12,"Bogotá",NA,"Papa sabanera",3250
+2023,12,"Bogotá",NA,"Papa superior",1811
+2023,12,"Bogotá","B074","Papa única",1430
+2023,12,"Bogotá",NA,"Papaya Paulina",1104
+2023,12,"Bogotá",NA,"Papaya tainung",2000
+2023,12,"Bogotá","E043","Pargo rojo entero congelado",44513
+2023,12,"Bogotá","A072","Pastas alimenticias",7827
+2023,12,"Bogotá","C079","Patilla",1621
+2023,12,"Bogotá","C079","Patilla baby",2521
+2023,12,"Bogotá","F085","Pechuga de pollo",15099.4
+2023,12,"Bogotá","B077","Pepino cohombro",1683
+2023,12,"Bogotá",NA,"Pepino de rellenar",4292
+2023,12,"Bogotá","C071","Pera importada",7948
+2023,12,"Bogotá",NA,"Pera nacional",5781
+2023,12,"Bogotá",NA,"Perejil",9652
+2023,12,"Bogotá","E002","Pescado cabezas",10229
+2023,12,"Bogotá","F091","Pierna pernil con rabadilla",10131.3333333333
+2023,12,"Bogotá",NA,"Pierna pernil sin rabadilla",11800.4
+2023,12,"Bogotá","F091","Piernas de pollo",12149.6
+2023,12,"Bogotá","B080","Pimentón",4072
+2023,12,"Bogotá","C072","Piña gold",3802
+2023,12,"Bogotá",NA,"Piña perolera",3100
+2023,12,"Bogotá",NA,"Pitahaya",18858
+2023,12,"Bogotá",NA,"Plátano guineo",1389
+2023,12,"Bogotá",NA,"Plátano hartón maduro",2305
+2023,12,"Bogotá","B092","Plátano hartón verde",2305
+2023,12,"Bogotá",NA,"Plátano hartón verde llanero",2748
+2023,12,"Bogotá",NA,"Pollo entero fresco sin vísceras",11414
+2023,12,"Bogotá","G017","Queso campesino",15919.25
+2023,12,"Bogotá","G018","Queso costeño",22240.25
+2023,12,"Bogotá","G016","Queso cuajada",16153.6666666667
+2023,12,"Bogotá","G021","Queso doble crema",17977
+2023,12,"Bogotá",NA,"Rábano rojo",3346
+2023,12,"Bogotá",NA,"Remolacha",1173
+2023,12,"Bogotá",NA,"Repollo morado",2151
+2023,12,"Bogotá",NA,"Repollo verde",1927
+2023,12,"Bogotá",NA,"Róbalo, filete congelado",53198
+2023,12,"Bogotá","L015","Sal yodada",2125.75
+2023,12,"Bogotá","E038","Salmón, filete congelado",52104.3333333333
+2023,12,"Bogotá","L017","Salsa de tomate doy pack",18810.5
+2023,12,"Bogotá","E039","Sardinas en lata",17287.5
+2023,12,"Bogotá","E041","Sierra entera congelada",21551.6666666667
+2023,12,"Bogotá",NA,"Sopa de pollo (caja)",26964.3333333333
+2023,12,"Bogotá",NA,"Tangelo",3249
+2023,12,"Bogotá","E043","Tilapia roja entera congelada",13602
+2023,12,"Bogotá",NA,"Tilapia roja entera fresca",13418.5
+2023,12,"Bogotá","E030","Tilapia, filete congelado",18736.3333333333
+2023,12,"Bogotá","B103","Tomate chonto",3523
+2023,12,"Bogotá","C082","Tomate de árbol",1552
+2023,12,"Bogotá","B103","Tomate larga vida",4240
+2023,12,"Bogotá","E047","Trucha en corte mariposa",21312.6666666667
+2023,12,"Bogotá",NA,"Uchuva con cáscara",5398
+2023,12,"Bogotá","C085","Uva importada",15980
+2023,12,"Bogotá","C086","Uva Isabela",4164
+2023,12,"Bogotá","C085","Uva red globe nacional",7653
+2023,12,"Bogotá",NA,"Uva verde",9074
+2023,12,"Bogotá",NA,"Yuca llanera",1731
+2023,12,"Bogotá","B110","Zanahoria",1915
+2023,12,"Bucaramanga","D013","Aceite vegetal mezcla",9008.5
+2023,12,"Bucaramanga",NA,"Acelga",2000
+2023,12,"Bucaramanga","C002","Aguacate papelillo",8481
+2023,12,"Bucaramanga","B006","Ahuyama",1452
+2023,12,"Bucaramanga",NA,"Ahuyamín (Sakata)",885
+2023,12,"Bucaramanga",NA,"Ajo importado",8467
+2023,12,"Bucaramanga",NA,"Alas de pollo sin costillar",12803
+2023,12,"Bucaramanga","B014","Apio",1409
+2023,12,"Bucaramanga","B015","Arracacha amarilla",3426
+2023,12,"Bucaramanga","A010","Arroz de primera",4280
+2023,12,"Bucaramanga",NA,"Arroz excelso",4195
+2023,12,"Bucaramanga",NA,"Arroz sopa cristal",3115.5
+2023,12,"Bucaramanga",NA,"Arveja amarilla seca importada",4255
+2023,12,"Bucaramanga",NA,"Arveja verde en vaina",4952
+2023,12,"Bucaramanga","T003","Arveja verde seca importada",4304
+2023,12,"Bucaramanga","A012","Avena en hojuelas",7675
+2023,12,"Bucaramanga",NA,"Azúcar refinada",4803.5
+2023,12,"Bucaramanga","K003","Azúcar sulfitada",4200
+2023,12,"Bucaramanga",NA,"Bagre rayado entero fresco",19358
+2023,12,"Bucaramanga","C010","Banano criollo",2033
+2023,12,"Bucaramanga",NA,"Banano Urabá",1921
+2023,12,"Bucaramanga","E007","Basa, entero congelado importado",9000
+2023,12,"Bucaramanga",NA,"Borojó",5056
+2023,12,"Bucaramanga","B025","Brócoli",6712
+2023,12,"Bucaramanga",NA,"Cachama de cultivo fresca",10171
+2023,12,"Bucaramanga","L006","Café molido",34302.5
+2023,12,"Bucaramanga",NA,"Calabacín",2658
+2023,12,"Bucaramanga",NA,"Carne de res, bota",34600
+2023,12,"Bucaramanga","F100","Carne de res, cadera",42150
+2023,12,"Bucaramanga",NA,"Carne de res, centro de pierna",38700
+2023,12,"Bucaramanga","F099","Carne de res, chatas",58750
+2023,12,"Bucaramanga","F107","Carne de res, costilla",45500
+2023,12,"Bucaramanga",NA,"Carne de res, lomo fino",80900
+2023,12,"Bucaramanga","F118","Carne de res, muchacho",40050
+2023,12,"Bucaramanga",NA,"Carne de res, murillo",27800
+2023,12,"Bucaramanga","F100","Carne de res, pecho",31075
+2023,12,"Bucaramanga","F100","Carne de res, punta de anca",61950
+2023,12,"Bucaramanga","F098","Carne de res, sobrebarriga",33950
+2023,12,"Bucaramanga",NA,"Cebolla cabezona blanca",1689
+2023,12,"Bucaramanga","B027","Cebolla cabezona roja importada",1932
+2023,12,"Bucaramanga",NA,"Cebolla cabezona roja ocañera",1708
+2023,12,"Bucaramanga",NA,"Cebolla junca",1712
+2023,12,"Bucaramanga",NA,"Chocolate dulce",16679
+2023,12,"Bucaramanga","A053","Chócolo mazorca",954
+2023,12,"Bucaramanga",NA,"Cilantro",5647
+2023,12,"Bucaramanga",NA,"Ciruela roja",3182
+2023,12,"Bucaramanga","B039","Coliflor",6115
+2023,12,"Bucaramanga",NA,"Cuchuco de cebada",4232
+2023,12,"Bucaramanga","A044","Cuchuco de maíz",4312
+2023,12,"Bucaramanga","C021","Curuba",1432
+2023,12,"Bucaramanga",NA,"Durazno nacional",5687
+2023,12,"Bucaramanga","B044","Espinaca",5454
+2023,12,"Bucaramanga",NA,"Fécula de maíz",30403
+2023,12,"Bucaramanga","C025","Fresa",11121
+2023,12,"Bucaramanga",NA,"Fríjol radical",7957
+2023,12,"Bucaramanga",NA,"Fríjol verde en vaina",3396
+2023,12,"Bucaramanga",NA,"Galletas dulces redondas con crema",19965
+2023,12,"Bucaramanga","A027","Galletas saladas",15711
+2023,12,"Bucaramanga",NA,"Garbanzo importado",7654
+2023,12,"Bucaramanga","K018","Gelatina",38938.5
+2023,12,"Bucaramanga","C028","Granadilla",7639
+2023,12,"Bucaramanga","C030","Guanábana",5050
+2023,12,"Bucaramanga","C032","Guayaba pera",2316
+2023,12,"Bucaramanga","B052","Habichuela",2429
+2023,12,"Bucaramanga","A040","Harina de trigo",4168
+2023,12,"Bucaramanga","A034","Harina precocida de maíz",3403
+2023,12,"Bucaramanga","J004","Huevo rojo A",533
+2023,12,"Bucaramanga",NA,"Huevo rojo B",503
+2023,12,"Bucaramanga",NA,"Jugo de frutas",8851
+2023,12,"Bucaramanga","C042","Kiwi",15472
+2023,12,"Bucaramanga","G008","Leche en polvo",52431
+2023,12,"Bucaramanga","B059","Lechuga Batavia",2538
+2023,12,"Bucaramanga","B060","Lechuga crespa verde",5576
+2023,12,"Bucaramanga","T026","Lenteja importada",7308.5
+2023,12,"Bucaramanga","C044","Limón común",1844.5
+2023,12,"Bucaramanga","C044","Limón Tahití",1691.5
+2023,12,"Bucaramanga","E003","Lomitos de atún en lata",33213
+2023,12,"Bucaramanga","C045","Lulo",3386
+2023,12,"Bucaramanga",NA,"Maíz pira",5916
+2023,12,"Bucaramanga",NA,"Mandarina común",1711
+2023,12,"Bucaramanga","C052","Mango Tommy",2426
+2023,12,"Bucaramanga","C054","Manzana roja importada",8141
+2023,12,"Bucaramanga","C054","Manzana royal gala importada",7609
+2023,12,"Bucaramanga","C054","Manzana verde importada",9333
+2023,12,"Bucaramanga","C056","Maracuyá",2563
+2023,12,"Bucaramanga","D018","Margarina",16430.5
+2023,12,"Bucaramanga","D020","Mayonesa doy pack",14052
+2023,12,"Bucaramanga","C060","Melón Cantalup",3757
+2023,12,"Bucaramanga","C061","Mora de Castilla",4217
+2023,12,"Bucaramanga",NA,"Muslos de pollo sin rabadilla",12662
+2023,12,"Bucaramanga",NA,"Naranja Valencia",906.5
+2023,12,"Bucaramanga",NA,"Panela cuadrada blanca",3643
+2023,12,"Bucaramanga",NA,"Panela cuadrada morena",4065.5
+2023,12,"Bucaramanga","B071","Papa criolla limpia",2712
+2023,12,"Bucaramanga","B074","Papa parda pastusa",1792.5
+2023,12,"Bucaramanga","B074","Papa única",1354
+2023,12,"Bucaramanga","C065","Papaya Maradol",1245
+2023,12,"Bucaramanga",NA,"Papaya Paulina",1245
+2023,12,"Bucaramanga","A072","Pastas alimenticias",7296.5
+2023,12,"Bucaramanga","C079","Patilla",2046
+2023,12,"Bucaramanga","C079","Patilla baby",2329
+2023,12,"Bucaramanga","F085","Pechuga de pollo",16833
+2023,12,"Bucaramanga","B077","Pepino cohombro",1036
+2023,12,"Bucaramanga","C071","Pera importada",8328
+2023,12,"Bucaramanga",NA,"Perejil",3707
+2023,12,"Bucaramanga","F091","Pierna pernil con rabadilla",9397
+2023,12,"Bucaramanga",NA,"Pierna pernil sin rabadilla",11420
+2023,12,"Bucaramanga","F091","Piernas de pollo",13050
+2023,12,"Bucaramanga","B080","Pimentón",5008
+2023,12,"Bucaramanga",NA,"Pimentón verde",2686
+2023,12,"Bucaramanga","C072","Piña gold",3677
+2023,12,"Bucaramanga",NA,"Piña perolera",3054
+2023,12,"Bucaramanga",NA,"Pitahaya",14500
+2023,12,"Bucaramanga","B092","Plátano hartón verde",2813
+2023,12,"Bucaramanga","G017","Queso campesino",21500
+2023,12,"Bucaramanga","G018","Queso costeño",22250
+2023,12,"Bucaramanga","G016","Queso cuajada",19938
+2023,12,"Bucaramanga","G021","Queso doble crema",21250
+2023,12,"Bucaramanga",NA,"Rábano rojo",4000
+2023,12,"Bucaramanga",NA,"Remolacha",1178
+2023,12,"Bucaramanga","B099","Repollo blanco",1203
+2023,12,"Bucaramanga",NA,"Repollo morado",4336
+2023,12,"Bucaramanga","L015","Sal yodada",1942
+2023,12,"Bucaramanga","L017","Salsa de tomate doy pack",13934.5
+2023,12,"Bucaramanga",NA,"Tangelo",2400
+2023,12,"Bucaramanga",NA,"Tilapia roja entera fresca",12621
+2023,12,"Bucaramanga","C082","Tomate de árbol",1407
+2023,12,"Bucaramanga",NA,"Tomate riñón",2517
+2023,12,"Bucaramanga",NA,"Tomate Riogrande",3228
+2023,12,"Bucaramanga","C085","Uva importada",15809
+2023,12,"Bucaramanga","C086","Uva Isabela",3784
+2023,12,"Bucaramanga","C085","Uva red globe nacional",8316
+2023,12,"Bucaramanga",NA,"Vinagre",2641.5
+2023,12,"Bucaramanga",NA,"Yuca criolla",2018.5
+2023,12,"Bucaramanga","B110","Zanahoria",1420
+2023,12,"Cali","D013","Aceite vegetal mezcla",12159.3333333333
+2023,12,"Cali","C002","Aguacate papelillo",9415
+2023,12,"Cali","B006","Ahuyama",1602.5
+2023,12,"Cali",NA,"Ajo importado",8407
+2023,12,"Cali","F069","Alas de pollo con costillar",8761.5
+2023,12,"Cali","E001","Almejas con concha",7411
+2023,12,"Cali","B014","Apio",1170.5
+2023,12,"Cali","B015","Arracacha amarilla",3113
+2023,12,"Cali","A010","Arroz de primera",3852
+2023,12,"Cali","B019","Arveja verde en vaina pastusa",5164.5
+2023,12,"Cali","T003","Arveja verde seca importada",4527
+2023,12,"Cali","A012","Avena en hojuelas",11465.3333333333
+2023,12,"Cali","A029","Avena molida",10960.6666666667
+2023,12,"Cali","K004","Azúcar morena",4532
+2023,12,"Cali","K003","Azúcar sulfitada",4414.33333333333
+2023,12,"Cali","E005","Bagre rayado entero congelado",28333
+2023,12,"Cali","C010","Banano criollo",1587.5
+2023,12,"Cali","E007","Basa, entero congelado importado",13183
+2023,12,"Cali","E030","Basa, filete congelado importado",15262.5
+2023,12,"Cali","E010","Bocachico importado congelado",13729
+2023,12,"Cali","B025","Brócoli",4234
+2023,12,"Cali","L005","Café instantáneo",171589.333333333
+2023,12,"Cali","L006","Café molido",31862.3333333333
+2023,12,"Cali","E015","Calamar anillos",29108
+2023,12,"Cali","E015","Calamar blanco entero",15616.5
+2023,12,"Cali","E017","Camarón tigre precocido seco",31800
+2023,12,"Cali","F008","Carne de cerdo, brazo sin hueso",21335
+2023,12,"Cali","F015","Carne de cerdo, costilla",21395
+2023,12,"Cali","F015","Carne de cerdo, espinazo",11425
+2023,12,"Cali","F019","Carne de cerdo, lomo sin hueso",25660
+2023,12,"Cali","F025","Carne de cerdo, pernil sin hueso",22465
+2023,12,"Cali","F029","Carne de cerdo, tocino papada",17625
+2023,12,"Cali","F118","Carne de res, bola de brazo",28370
+2023,12,"Cali","F118","Carne de res, bola de pierna",30835
+2023,12,"Cali","F100","Carne de res, cadera",30535
+2023,12,"Cali","F099","Carne de res, chatas",40310
+2023,12,"Cali","F107","Carne de res, costilla",17235
+2023,12,"Cali","F100","Carne de res, falda",18435
+2023,12,"Cali","F098","Carne de res, morrillo",27525
+2023,12,"Cali","F118","Carne de res, muchacho",29455
+2023,12,"Cali","F100","Carne de res, pecho",28635
+2023,12,"Cali","F100","Carne de res, punta de anca",41045
+2023,12,"Cali","F098","Carne de res, sobrebarriga",28565
+2023,12,"Cali","B027","Cebolla cabezona blanca bogotana",2120.5
+2023,12,"Cali","B027","Cebolla cabezona roja importada",2141
+2023,12,"Cali","B029","Cebolla junca Aquitania",1588
+2023,12,"Cali","B029","Cebolla junca Tenerife",1874
+2023,12,"Cali","L008","Chocolate amargo",33606.6666666667
+2023,12,"Cali","A053","Chócolo mazorca",927.5
+2023,12,"Cali",NA,"Cilantro",2237.5
+2023,12,"Cali","C019","Coco",4026.5
+2023,12,"Cali","B039","Coliflor",4234
+2023,12,"Cali","E021","Corvina, filete congelado nacional",57000
+2023,12,"Cali","A044","Cuchuco de maíz",2382.66666666667
+2023,12,"Cali","C021","Curuba",1833
+2023,12,"Cali","C025","Fresa",5998
+2023,12,"Cali","T015","Fríjol calima",8118.66666666667
+2023,12,"Cali","B046","Fríjol verde cargamanto",4656
+2023,12,"Cali","A027","Galletas saladas",15950.6666666667
+2023,12,"Cali","K018","Gelatina",42209
+2023,12,"Cali","C028","Granadilla",6131
+2023,12,"Cali","C030","Guanábana",4987
+2023,12,"Cali","C032","Guayaba pera",2409.5
+2023,12,"Cali","B052","Habichuela",2097
+2023,12,"Cali","A040","Harina de trigo",5022.33333333333
+2023,12,"Cali","A034","Harina precocida de maíz",5089.66666666667
+2023,12,"Cali","J004","Huevo rojo A",550.5
+2023,12,"Cali","J004","Huevo rojo AA",589
+2023,12,"Cali","J004","Huevo rojo extra",624.333333333333
+2023,12,"Cali","K018","Jugo instantáneo (sobre)",34946
+2023,12,"Cali","C042","Kiwi",14430.5
+2023,12,"Cali","E024","Langostino 16-20",63933
+2023,12,"Cali","E024","Langostino U12",71667
+2023,12,"Cali","G008","Leche en polvo",45885.6666666667
+2023,12,"Cali","B059","Lechuga Batavia",1121.5
+2023,12,"Cali","B060","Lechuga crespa verde",3319
+2023,12,"Cali","T026","Lenteja importada",6776
+2023,12,"Cali","C044","Limón común",1584
+2023,12,"Cali","C044","Limón Tahití",1335.5
+2023,12,"Cali","E003","Lomitos de atún en lata",31839
+2023,12,"Cali","C045","Lulo",3402.5
+2023,12,"Cali","A044","Maíz amarillo trillado",2421.66666666667
+2023,12,"Cali","A046","Maíz blanco trillado",2363
+2023,12,"Cali","C050","Mandarina Arrayana",2640.5
+2023,12,"Cali","C050","Mandarina Oneco",2370
+2023,12,"Cali","C051","Mango común",1742
+2023,12,"Cali","C052","Mango Tommy",2166.5
+2023,12,"Cali","C054","Manzana roja importada",7654
+2023,12,"Cali","C054","Manzana royal gala importada",7554.5
+2023,12,"Cali","C054","Manzana verde importada",9816
+2023,12,"Cali","C056","Maracuyá",2816
+2023,12,"Cali","D018","Margarina",26550
+2023,12,"Cali","D020","Mayonesa doy pack",21356.3333333333
+2023,12,"Cali","C060","Melón Cantalup",3932
+2023,12,"Cali","E030","Merluza, filete importado",19000
+2023,12,"Cali","E030","Merluza, filete nacional",56000
+2023,12,"Cali","C061","Mora de Castilla",5192.5
+2023,12,"Cali","C062","Naranja Sweet",1062.5
+2023,12,"Cali","K033","Panela redonda morena",5491.66666666667
+2023,12,"Cali","B074","Papa capira",1975
+2023,12,"Cali","B071","Papa criolla limpia",2868
+2023,12,"Cali","B071","Papa criolla sucia",2710
+2023,12,"Cali","B074","Papa parda pastusa",1892
+2023,12,"Cali","B074","Papa suprema",1840
+2023,12,"Cali","B074","Papa única",1683.5
+2023,12,"Cali","C065","Papaya Maradol",1465
+2023,12,"Cali","E043","Pargo rojo entero congelado",29900
+2023,12,"Cali","A072","Pastas alimenticias",7699
+2023,12,"Cali","C079","Patilla",1947.5
+2023,12,"Cali","C079","Patilla baby",2314
+2023,12,"Cali","F085","Pechuga de pollo",13364
+2023,12,"Cali","B077","Pepino cohombro",948.5
+2023,12,"Cali","C071","Pera importada",7562
+2023,12,"Cali","E002","Pescado cabezas",6891.5
+2023,12,"Cali","F091","Pierna pernil con rabadilla",8431.5
+2023,12,"Cali","F091","Piernas de pollo",8660
+2023,12,"Cali","B080","Pimentón",2699.5
+2023,12,"Cali","C072","Piña gold",3245.5
+2023,12,"Cali","C072","Piña manzana",2304
+2023,12,"Cali","B092","Plátano hartón verde",2190
+2023,12,"Cali","F077","Pollo entero congelado sin vísceras",10680
+2023,12,"Cali","G017","Queso campesino",19783.25
+2023,12,"Cali","G020","Queso Caquetá",21306.5
+2023,12,"Cali","G018","Queso costeño",21285.5
+2023,12,"Cali","G016","Queso cuajada",13778.75
+2023,12,"Cali","G021","Queso doble crema",19856.25
+2023,12,"Cali","B098","Remolacha bogotana",1441
+2023,12,"Cali","B099","Repollo blanco",661.5
+2023,12,"Cali","L015","Sal yodada",2080.33333333333
+2023,12,"Cali","E038","Salmón, filete congelado",54750
+2023,12,"Cali","L017","Salsa de tomate doy pack",21389.6666666667
+2023,12,"Cali","E039","Sardinas en lata",15632.3333333333
+2023,12,"Cali","E041","Sierra entera congelada",21867
+2023,12,"Cali","E043","Tilapia roja entera congelada",15616.5
+2023,12,"Cali","E030","Tilapia, filete congelado",19066.5
+2023,12,"Cali","B103","Tomate chonto",3457
+2023,12,"Cali","C082","Tomate de árbol",1350
+2023,12,"Cali","B103","Tomate larga vida",4082
+2023,12,"Cali","E047","Trucha en corte mariposa",24158.5
+2023,12,"Cali","C085","Uva importada",14971.5
+2023,12,"Cali","C086","Uva Isabela",3141.5
+2023,12,"Cali","C085","Uva red globe nacional",7511
+2023,12,"Cali","B107","Yuca ICA",1130
+2023,12,"Cali","B110","Zanahoria",1051
+2023,12,"Cali","B110","Zanahoria bogotana",1663.5
+2023,12,"Cartagena",NA,"Aceite girasol",13093
+2023,12,"Cartagena","D013","Aceite vegetal mezcla",9271
+2023,12,"Cartagena",NA,"Ají topito dulce",5608
+2023,12,"Cartagena",NA,"Ajo importado",8683
+2023,12,"Cartagena","F069","Alas de pollo con costillar",7844
+2023,12,"Cartagena","B014","Apio",1541
+2023,12,"Cartagena","A010","Arroz de primera",3950
+2023,12,"Cartagena",NA,"Arroz de segunda",3497
+2023,12,"Cartagena",NA,"Arroz excelso",4068
+2023,12,"Cartagena","T003","Arveja verde seca importada",4406
+2023,12,"Cartagena",NA,"Azúcar refinada",4620
+2023,12,"Cartagena","K003","Azúcar sulfitada",4089
+2023,12,"Cartagena","E007","Basa, entero congelado importado",8875
+2023,12,"Cartagena","E010","Bocachico importado congelado",10125
+2023,12,"Cartagena","B025","Brócoli",6648
+2023,12,"Cartagena","L005","Café instantáneo",123039
+2023,12,"Cartagena","F008","Carne de cerdo, brazo sin hueso",20333
+2023,12,"Cartagena","F015","Carne de cerdo, costilla",19240
+2023,12,"Cartagena","F019","Carne de cerdo, lomo sin hueso",18981
+2023,12,"Cartagena",NA,"Carne de cerdo, pernil con hueso",18208
+2023,12,"Cartagena","F118","Carne de res, bola de brazo",25938
+2023,12,"Cartagena","F118","Carne de res, bola de pierna",25938
+2023,12,"Cartagena",NA,"Carne de res, bota",25938
+2023,12,"Cartagena","F100","Carne de res, cadera",25938
+2023,12,"Cartagena",NA,"Carne de res, centro de pierna",25938
+2023,12,"Cartagena","F099","Carne de res, chatas",26875
+2023,12,"Cartagena","F107","Carne de res, costilla",13854
+2023,12,"Cartagena","F100","Carne de res, falda",23500
+2023,12,"Cartagena",NA,"Carne de res, lomo fino",43944
+2023,12,"Cartagena","F118","Carne de res, muchacho",23000
+2023,12,"Cartagena","F100","Carne de res, punta de anca",27375
+2023,12,"Cartagena","F098","Carne de res, sobrebarriga",22313
+2023,12,"Cartagena",NA,"Cebolla cabezona blanca",2245
+2023,12,"Cartagena",NA,"Cebolla cabezona roja",1963
+2023,12,"Cartagena","B027","Cebolla cabezona roja importada",2312
+2023,12,"Cartagena",NA,"Cebolla junca Berlín",3184
+2023,12,"Cartagena",NA,"Chocolate dulce",23375
+2023,12,"Cartagena","A053","Chócolo mazorca",1263
+2023,12,"Cartagena",NA,"Cilantro",5057
+2023,12,"Cartagena","C019","Coco",4914
+2023,12,"Cartagena","B039","Coliflor",8295
+2023,12,"Cartagena","B044","Espinaca",6250
+2023,12,"Cartagena",NA,"Fécula de maíz",31710
+2023,12,"Cartagena",NA,"Fríjol cabeza negra importado",7031
+2023,12,"Cartagena",NA,"Fríjol palomito importado",8031
+2023,12,"Cartagena",NA,"Fríjol Zaragoza",8406
+2023,12,"Cartagena",NA,"Galletas dulces redondas con crema",19931
+2023,12,"Cartagena","A027","Galletas saladas",13447
+2023,12,"Cartagena","K018","Gelatina",39449
+2023,12,"Cartagena",NA,"Guayaba común",2896
+2023,12,"Cartagena","C032","Guayaba pera",3432
+2023,12,"Cartagena","B052","Habichuela",3271
+2023,12,"Cartagena","A040","Harina de trigo",3084
+2023,12,"Cartagena","A034","Harina precocida de maíz",4086
+2023,12,"Cartagena","J004","Huevo rojo A",545
+2023,12,"Cartagena","J004","Huevo rojo AA",589
+2023,12,"Cartagena",NA,"Jugo de frutas",8595
+2023,12,"Cartagena","K018","Jugo instantáneo (sobre)",33594
+2023,12,"Cartagena","B059","Lechuga Batavia",2863
+2023,12,"Cartagena","T026","Lenteja importada",7063
+2023,12,"Cartagena","C044","Limón común",2240
+2023,12,"Cartagena","C044","Limón Tahití",2308
+2023,12,"Cartagena","C045","Lulo",4579
+2023,12,"Cartagena","A044","Maíz amarillo trillado",2250
+2023,12,"Cartagena","A046","Maíz blanco trillado",2479
+2023,12,"Cartagena",NA,"Mandarina común",2326
+2023,12,"Cartagena","C052","Mango Tommy",2810
+2023,12,"Cartagena","C054","Manzana roja importada",8979
+2023,12,"Cartagena","C054","Manzana verde importada",10282
+2023,12,"Cartagena","D020","Mayonesa doy pack",17817
+2023,12,"Cartagena",NA,"Mojarra lora entera fresca",10969
+2023,12,"Cartagena","C061","Mora de Castilla",5030
+2023,12,"Cartagena",NA,"Naranja común",863
+2023,12,"Cartagena",NA,"Naranja Valencia",1260
+2023,12,"Cartagena",NA,"Ñame espino",4014
+2023,12,"Cartagena",NA,"Panela redonda blanca",3838
+2023,12,"Cartagena","B071","Papa criolla limpia",4153
+2023,12,"Cartagena","B074","Papa única",1693
+2023,12,"Cartagena",NA,"Papaya tainung",1350
+2023,12,"Cartagena","A072","Pastas alimenticias",6635
+2023,12,"Cartagena","C079","Patilla",1934
+2023,12,"Cartagena","F085","Pechuga de pollo",12400
+2023,12,"Cartagena","B077","Pepino cohombro",1238
+2023,12,"Cartagena","C071","Pera importada",8673
+2023,12,"Cartagena","F091","Pierna pernil con rabadilla",6919
+2023,12,"Cartagena","B080","Pimentón",4434
+2023,12,"Cartagena","C072","Piña gold",3729
+2023,12,"Cartagena","B092","Plátano hartón verde",1388
+2023,12,"Cartagena","F077","Pollo entero congelado sin vísceras",9006
+2023,12,"Cartagena","G018","Queso costeño",19917
+2023,12,"Cartagena",NA,"Rábano rojo",5659
+2023,12,"Cartagena",NA,"Remolacha",1686
+2023,12,"Cartagena","B099","Repollo blanco",2231
+2023,12,"Cartagena","L015","Sal yodada",895
+2023,12,"Cartagena","L017","Salsa de tomate doy pack",17817
+2023,12,"Cartagena","E039","Sardinas en lata",11233
+2023,12,"Cartagena","E041","Sierra entera congelada",20250
+2023,12,"Cartagena",NA,"Tilapia roja entera fresca",12781
+2023,12,"Cartagena","B103","Tomate chonto",3709
+2023,12,"Cartagena","C082","Tomate de árbol",1618
+2023,12,"Cartagena","C085","Uva red globe nacional",9170
+2023,12,"Cartagena",NA,"Vinagre",1466
+2023,12,"Cartagena",NA,"Yuca criolla",1120
+2023,12,"Cartagena","B110","Zanahoria bogotana",1980
+2023,12,"Cúcuta",NA,"Aceite de palma",7040.5
+2023,12,"Cúcuta","B006","Ahuyama",1652
+2023,12,"Cúcuta",NA,"Ajo",2681
+2023,12,"Cúcuta",NA,"Ajo importado",8981
+2023,12,"Cúcuta",NA,"Alas de pollo sin costillar",10983
+2023,12,"Cúcuta","B014","Apio",1591
+2023,12,"Cúcuta","B015","Arracacha amarilla",3845
+2023,12,"Cúcuta","A010","Arroz de primera",3978
+2023,12,"Cúcuta",NA,"Arveja amarilla seca importada",4159
+2023,12,"Cúcuta",NA,"Arveja verde en vaina",7319
+2023,12,"Cúcuta","T003","Arveja verde seca importada",3981
+2023,12,"Cúcuta","A012","Avena en hojuelas",8086.5
+2023,12,"Cúcuta",NA,"Azúcar refinada",4645
+2023,12,"Cúcuta",NA,"Bagre rayado entero fresco",18370
+2023,12,"Cúcuta","C010","Banano criollo",1901.5
+2023,12,"Cúcuta","E007","Basa, entero congelado importado",10056
+2023,12,"Cúcuta",NA,"Bocachico criollo fresco",12944
+2023,12,"Cúcuta",NA,"Bocadillo veleño",344
+2023,12,"Cúcuta",NA,"Borojó",7745
+2023,12,"Cúcuta","B025","Brócoli",6696
+2023,12,"Cúcuta",NA,"Cachama de cultivo fresca",9704
+2023,12,"Cúcuta","L005","Café instantáneo",125899
+2023,12,"Cúcuta","L006","Café molido",33703
+2023,12,"Cúcuta",NA,"Calabaza",784
+2023,12,"Cúcuta",NA,"Carne de cerdo, brazo con hueso",18875
+2023,12,"Cúcuta",NA,"Carne de cerdo, cabeza de lomo",20073
+2023,12,"Cúcuta","F015","Carne de cerdo, costilla",19802
+2023,12,"Cúcuta","F015","Carne de cerdo, espinazo",6521
+2023,12,"Cúcuta",NA,"Carne de cerdo, lomo con hueso",19979.5
+2023,12,"Cúcuta","F019","Carne de cerdo, lomo sin hueso",21458.5
+2023,12,"Cúcuta",NA,"Carne de cerdo, pernil con hueso",19770.5
+2023,12,"Cúcuta","F025","Carne de cerdo, pernil sin hueso",20448
+2023,12,"Cúcuta","F029","Carne de cerdo, tocino papada",17000
+2023,12,"Cúcuta","F118","Carne de res, bola de brazo",27020.5
+2023,12,"Cúcuta","F118","Carne de res, bola de pierna",26896
+2023,12,"Cúcuta",NA,"Carne de res, bota",26958
+2023,12,"Cúcuta","F100","Carne de res, cadera",26583
+2023,12,"Cúcuta",NA,"Carne de res, centro de pierna",26625
+2023,12,"Cúcuta","F099","Carne de res, chatas",35208.5
+2023,12,"Cúcuta","F107","Carne de res, costilla",20270.5
+2023,12,"Cúcuta","F100","Carne de res, falda",24604.5
+2023,12,"Cúcuta",NA,"Carne de res, lomo de brazo",24916.5
+2023,12,"Cúcuta",NA,"Carne de res, lomo fino",35375
+2023,12,"Cúcuta","F098","Carne de res, morrillo",25250
+2023,12,"Cúcuta","F118","Carne de res, muchacho",25917
+2023,12,"Cúcuta",NA,"Carne de res, murillo",25125
+2023,12,"Cúcuta",NA,"Carne de res, paletero",24812.5
+2023,12,"Cúcuta","F100","Carne de res, pecho",25208
+2023,12,"Cúcuta","F100","Carne de res, punta de anca",34041.5
+2023,12,"Cúcuta","F098","Carne de res, sobrebarriga",25250
+2023,12,"Cúcuta",NA,"Cebolla cabezona blanca",1940
+2023,12,"Cúcuta",NA,"Cebolla cabezona roja",1846
+2023,12,"Cúcuta",NA,"Cebolla junca Berlín",1775
+2023,12,"Cúcuta",NA,"Cebolla puerro",4755
+2023,12,"Cúcuta",NA,"Chocolate dulce",20106.5
+2023,12,"Cúcuta","A053","Chócolo mazorca",1295
+2023,12,"Cúcuta",NA,"Cilantro",7627
+2023,12,"Cúcuta",NA,"Ciruela roja",4118
+2023,12,"Cúcuta","B039","Coliflor",6676
+2023,12,"Cúcuta","C021","Curuba",2110
+2023,12,"Cúcuta",NA,"Durazno nacional",5563
+2023,12,"Cúcuta","B044","Espinaca",8157
+2023,12,"Cúcuta",NA,"Fécula de maíz",32802.5
+2023,12,"Cúcuta","C025","Fresa",10195
+2023,12,"Cúcuta",NA,"Fríjol verde bolo",5218
+2023,12,"Cúcuta",NA,"Fríjol Zaragoza",7350
+2023,12,"Cúcuta",NA,"Galletas dulces redondas con crema",21300.5
+2023,12,"Cúcuta","A027","Galletas saladas",14330.5
+2023,12,"Cúcuta",NA,"Garbanzo importado",6942
+2023,12,"Cúcuta","K018","Gelatina",39642.5
+2023,12,"Cúcuta","C028","Granadilla",6555
+2023,12,"Cúcuta","C030","Guanábana",4948
+2023,12,"Cúcuta","C032","Guayaba pera",2608
+2023,12,"Cúcuta","B052","Habichuela",3751
+2023,12,"Cúcuta","A040","Harina de trigo",3413.5
+2023,12,"Cúcuta","A034","Harina precocida de maíz",3177
+2023,12,"Cúcuta","J004","Huevo rojo A",521
+2023,12,"Cúcuta","J004","Huevo rojo AA",533
+2023,12,"Cúcuta",NA,"Huevo rojo B",482
+2023,12,"Cúcuta","J004","Huevo rojo extra",579.5
+2023,12,"Cúcuta","C042","Kiwi",19269
+2023,12,"Cúcuta","G008","Leche en polvo",28242
+2023,12,"Cúcuta","B059","Lechuga Batavia",2252
+2023,12,"Cúcuta","B060","Lechuga crespa verde",5294
+2023,12,"Cúcuta","T026","Lenteja importada",6815
+2023,12,"Cúcuta","C044","Limón común",3810
+2023,12,"Cúcuta","C044","Limón Tahití",2139
+2023,12,"Cúcuta","E003","Lomitos de atún en lata",30604.5
+2023,12,"Cúcuta","C045","Lulo",4962
+2023,12,"Cúcuta","A046","Maíz blanco trillado",2950.5
+2023,12,"Cúcuta",NA,"Maíz pira",4999
+2023,12,"Cúcuta",NA,"Mandarina común",1969
+2023,12,"Cúcuta","C052","Mango Tommy",3245
+2023,12,"Cúcuta",NA,"Manteca",11146
+2023,12,"Cúcuta","C054","Manzana roja importada",8697
+2023,12,"Cúcuta","C054","Manzana royal gala importada",8771
+2023,12,"Cúcuta","C054","Manzana verde importada",11403
+2023,12,"Cúcuta","C056","Maracuyá",4309
+2023,12,"Cúcuta","D020","Mayonesa doy pack",14134
+2023,12,"Cúcuta","C060","Melón Cantalup",3270
+2023,12,"Cúcuta","C061","Mora de Castilla",3902
+2023,12,"Cúcuta",NA,"Naranja común",989
+2023,12,"Cúcuta",NA,"Panela cuadrada morena",2989
+2023,12,"Cúcuta","B071","Papa criolla limpia",2839
+2023,12,"Cúcuta",NA,"Papa superior",1618
+2023,12,"Cúcuta","B074","Papa única",1365
+2023,12,"Cúcuta","C065","Papaya Maradol",1787.5
+2023,12,"Cúcuta","A072","Pastas alimenticias",4209.5
+2023,12,"Cúcuta","C079","Patilla",1767
+2023,12,"Cúcuta","F085","Pechuga de pollo",12600
+2023,12,"Cúcuta","B077","Pepino cohombro",1086
+2023,12,"Cúcuta","C071","Pera importada",8515
+2023,12,"Cúcuta",NA,"Perejil",8147
+2023,12,"Cúcuta","F091","Pierna pernil con rabadilla",8500
+2023,12,"Cúcuta","F091","Piernas de pollo",9413
+2023,12,"Cúcuta","B080","Pimentón",4895
+2023,12,"Cúcuta","C072","Piña gold",4301
+2023,12,"Cúcuta",NA,"Piña perolera",3142
+2023,12,"Cúcuta",NA,"Pitahaya",16704
+2023,12,"Cúcuta",NA,"Plátano hartón maduro",3054
+2023,12,"Cúcuta","B092","Plátano hartón verde",3050
+2023,12,"Cúcuta",NA,"Pollo entero fresco sin vísceras",11300
+2023,12,"Cúcuta","G017","Queso campesino",19900
+2023,12,"Cúcuta","G018","Queso costeño",24700
+2023,12,"Cúcuta","G016","Queso cuajada",19600
+2023,12,"Cúcuta","G021","Queso doble crema",20750
+2023,12,"Cúcuta",NA,"Remolacha regional",1625
+2023,12,"Cúcuta",NA,"Repollo morado",2884
+2023,12,"Cúcuta",NA,"Repollo verde",1244
+2023,12,"Cúcuta","L015","Sal yodada",1946
+2023,12,"Cúcuta","L017","Salsa de tomate doy pack",14240
+2023,12,"Cúcuta","E039","Sardinas en lata",17968.5
+2023,12,"Cúcuta",NA,"Tilapia roja entera fresca",12778
+2023,12,"Cúcuta","B103","Tomate chonto",3608
+2023,12,"Cúcuta","C082","Tomate de árbol",4000
+2023,12,"Cúcuta",NA,"Tomate Riogrande",3480
+2023,12,"Cúcuta",NA,"Uchuva con cáscara",4186
+2023,12,"Cúcuta","C085","Uva importada",17813
+2023,12,"Cúcuta","C086","Uva Isabela",6261
+2023,12,"Cúcuta",NA,"Vinagre",2221
+2023,12,"Cúcuta",NA,"Yuca criolla",2148
+2023,12,"Cúcuta","B110","Zanahoria",1612
+2023,12,"Cúcuta","B110","Zanahoria bogotana",1954
+2023,12,"Ibagué","D013","Aceite vegetal mezcla",7141
+2023,12,"Ibagué",NA,"Acelga",1604
+2023,12,"Ibagué","C002","Aguacate común",6000
+2023,12,"Ibagué","C002","Aguacate papelillo",8021
+2023,12,"Ibagué","B006","Ahuyama",1522
+2023,12,"Ibagué",NA,"Ahuyamín (Sakata)",1904
+2023,12,"Ibagué",NA,"Ajo importado",9170
+2023,12,"Ibagué","F069","Alas de pollo con costillar",7700
+2023,12,"Ibagué","B014","Apio",1609
+2023,12,"Ibagué","B015","Arracacha amarilla",2490
+2023,12,"Ibagué",NA,"Arroz excelso",3747
+2023,12,"Ibagué",NA,"Arveja amarilla seca importada",3274
+2023,12,"Ibagué",NA,"Arveja verde en vaina",4688
+2023,12,"Ibagué","A012","Avena en hojuelas",10038
+2023,12,"Ibagué","A029","Avena molida",10043
+2023,12,"Ibagué","K004","Azúcar morena",4775
+2023,12,"Ibagué",NA,"Azúcar refinada",4784
+2023,12,"Ibagué","K003","Azúcar sulfitada",4358
+2023,12,"Ibagué",NA,"Bagre rayado entero fresco",22533
+2023,12,"Ibagué","C010","Banano criollo",1326
+2023,12,"Ibagué",NA,"Breva",6939
+2023,12,"Ibagué","B025","Brócoli",1972
+2023,12,"Ibagué",NA,"Cachama de cultivo fresca",10300
+2023,12,"Ibagué","L006","Café molido",30038
+2023,12,"Ibagué","F008","Carne de cerdo, brazo sin hueso",18917
+2023,12,"Ibagué",NA,"Carne de cerdo, cabeza de lomo",19000
+2023,12,"Ibagué","F015","Carne de cerdo, costilla",19683
+2023,12,"Ibagué","F019","Carne de cerdo, lomo sin hueso",22667
+2023,12,"Ibagué",NA,"Carne de cerdo, pernil con hueso",19958
+2023,12,"Ibagué","F025","Carne de cerdo, pernil sin hueso",20433
+2023,12,"Ibagué",NA,"Carne de cerdo, tocino barriga",17467
+2023,12,"Ibagué","F029","Carne de cerdo, tocino papada",16133
+2023,12,"Ibagué",NA,"Carne de res molida, murillo",20333
+2023,12,"Ibagué","F118","Carne de res, bola de brazo",25883
+2023,12,"Ibagué","F118","Carne de res, bola de pierna",26225
+2023,12,"Ibagué",NA,"Carne de res, bota",26458
+2023,12,"Ibagué","F100","Carne de res, cadera",26383
+2023,12,"Ibagué",NA,"Carne de res, centro de pierna",26700
+2023,12,"Ibagué","F099","Carne de res, chatas",31825
+2023,12,"Ibagué",NA,"Carne de res, cogote",13625
+2023,12,"Ibagué","F107","Carne de res, costilla",16800
+2023,12,"Ibagué","F100","Carne de res, falda",21633
+2023,12,"Ibagué",NA,"Carne de res, lomo fino",38742
+2023,12,"Ibagué","F098","Carne de res, morrillo",21150
+2023,12,"Ibagué","F118","Carne de res, muchacho",27033
+2023,12,"Ibagué",NA,"Carne de res, murillo",20408
+2023,12,"Ibagué",NA,"Carne de res, paletero",14217
+2023,12,"Ibagué","F100","Carne de res, pecho",23725
+2023,12,"Ibagué","F100","Carne de res, punta de anca",31392
+2023,12,"Ibagué","F098","Carne de res, sobrebarriga",22050
+2023,12,"Ibagué",NA,"Cebolla cabezona blanca",1913
+2023,12,"Ibagué","B029","Cebolla junca Aquitania",2170
+2023,12,"Ibagué","L008","Chocolate amargo",32650
+2023,12,"Ibagué",NA,"Chocolate dulce",17125
+2023,12,"Ibagué","A053","Chócolo mazorca",1561
+2023,12,"Ibagué",NA,"Cilantro",3259
+2023,12,"Ibagué",NA,"Color (bolsita)",25350
+2023,12,"Ibagué","A044","Cuchuco de maíz",3613
+2023,12,"Ibagué","B044","Espinaca",4244
+2023,12,"Ibagué",NA,"Fríjol cargamanto rojo",7444
+2023,12,"Ibagué",NA,"Fríjol verde en vaina",4476
+2023,12,"Ibagué",NA,"Galletas dulces redondas con crema",16604
+2023,12,"Ibagué","A027","Galletas saladas",13950
+2023,12,"Ibagué","K018","Gelatina",37649
+2023,12,"Ibagué","C028","Granadilla",4769
+2023,12,"Ibagué","C030","Guanábana",4242
+2023,12,"Ibagué","C032","Guayaba pera",2488
+2023,12,"Ibagué",NA,"Gulupa",2129
+2023,12,"Ibagué","B052","Habichuela",1614
+2023,12,"Ibagué","A040","Harina de trigo",3126
+2023,12,"Ibagué","A034","Harina precocida de maíz",3531
+2023,12,"Ibagué","J004","Huevo rojo A",554
+2023,12,"Ibagué","J004","Huevo rojo AA",587
+2023,12,"Ibagué",NA,"Huevo rojo B",504
+2023,12,"Ibagué","J004","Huevo rojo extra",623
+2023,12,"Ibagué","K018","Jugo instantáneo (sobre)",32856
+2023,12,"Ibagué","C042","Kiwi",16184
+2023,12,"Ibagué","G008","Leche en polvo",38639
+2023,12,"Ibagué","B059","Lechuga Batavia",2313
+2023,12,"Ibagué","T026","Lenteja importada",6338
+2023,12,"Ibagué","C044","Limón común",1187
+2023,12,"Ibagué","C044","Limón mandarino",1629
+2023,12,"Ibagué","C044","Limón Tahití",1183
+2023,12,"Ibagué","C045","Lulo",3196
+2023,12,"Ibagué","A046","Maíz blanco trillado",1860
+2023,12,"Ibagué","C050","Mandarina Arrayana",1705
+2023,12,"Ibagué","C050","Mandarina Oneco",1550
+2023,12,"Ibagué","C052","Mango Tommy",1244
+2023,12,"Ibagué",NA,"Manteca",7850
+2023,12,"Ibagué","C054","Manzana roja importada",8539
+2023,12,"Ibagué","C054","Manzana royal gala importada",8286
+2023,12,"Ibagué","C054","Manzana verde importada",9613
+2023,12,"Ibagué","C056","Maracuyá",2999
+2023,12,"Ibagué","D018","Margarina",14130
+2023,12,"Ibagué","D020","Mayonesa doy pack",18227
+2023,12,"Ibagué","C060","Melón Cantalup",2982
+2023,12,"Ibagué",NA,"Menudencias de pollo",2500
+2023,12,"Ibagué","C061","Mora de Castilla",4457
+2023,12,"Ibagué","C062","Naranja Sweet",1377
+2023,12,"Ibagué",NA,"Panela cuadrada blanca",3269
+2023,12,"Ibagué","B071","Papa criolla limpia",3171
+2023,12,"Ibagué",NA,"Papa superior",1808
+2023,12,"Ibagué",NA,"Papaya Paulina",1224
+2023,12,"Ibagué","A072","Pastas alimenticias",8109
+2023,12,"Ibagué","C079","Patilla",1500
+2023,12,"Ibagué","F085","Pechuga de pollo",13100
+2023,12,"Ibagué","B077","Pepino cohombro",1175
+2023,12,"Ibagué",NA,"Pepino de rellenar",3014
+2023,12,"Ibagué","C071","Pera importada",8074
+2023,12,"Ibagué",NA,"Perejil",10299
+2023,12,"Ibagué","F091","Pierna pernil con rabadilla",9158
+2023,12,"Ibagué","B080","Pimentón",2648
+2023,12,"Ibagué","C072","Piña gold",3748
+2023,12,"Ibagué",NA,"Plátano hartón maduro",2004
+2023,12,"Ibagué","B092","Plátano hartón verde",2004
+2023,12,"Ibagué",NA,"Pollo entero fresco sin vísceras",10608
+2023,12,"Ibagué","G017","Queso campesino",15625
+2023,12,"Ibagué","G021","Queso doble crema",19583
+2023,12,"Ibagué",NA,"Remolacha",1554
+2023,12,"Ibagué","L015","Sal yodada",1973
+2023,12,"Ibagué","L017","Salsa de tomate doy pack",18875
+2023,12,"Ibagué",NA,"Tilapia roja entera fresca",12933
+2023,12,"Ibagué","B103","Tomate chonto",2635
+2023,12,"Ibagué","C082","Tomate de árbol",1602
+2023,12,"Ibagué",NA,"Uchuva con cáscara",3920
+2023,12,"Ibagué","C086","Uva Isabela",2962
+2023,12,"Ibagué","C085","Uva red globe nacional",8044
+2023,12,"Ibagué",NA,"Yuca chirosa",1102
+2023,12,"Ibagué","B110","Zanahoria",1838
+2023,12,"Manizales","D013","Aceite vegetal mezcla",8861
+2023,12,"Manizales","B006","Ahuyama",2000
+2023,12,"Manizales",NA,"Ajo",8177
+2023,12,"Manizales",NA,"Ajo importado",9667
+2023,12,"Manizales","B014","Apio",1827
+2023,12,"Manizales",NA,"Arracacha blanca",3098
+2023,12,"Manizales","A010","Arroz de primera",4140
+2023,12,"Manizales",NA,"Arveja verde en vaina",5971
+2023,12,"Manizales","T003","Arveja verde seca importada",4537
+2023,12,"Manizales","K003","Azúcar sulfitada",4453
+2023,12,"Manizales","C010","Banano criollo",1519
+2023,12,"Manizales",NA,"Berenjena",3000
+2023,12,"Manizales","E010","Bocachico importado congelado",13000
+2023,12,"Manizales","B025","Brócoli",4014
+2023,12,"Manizales","L006","Café molido",31278
+2023,12,"Manizales","F015","Carne de cerdo, costilla",19833
+2023,12,"Manizales","F015","Carne de cerdo, espinazo",13000
+2023,12,"Manizales","F019","Carne de cerdo, lomo sin hueso",23000
+2023,12,"Manizales","F025","Carne de cerdo, pernil sin hueso",20125
+2023,12,"Manizales",NA,"Carne de cerdo, tocineta plancha",20875
+2023,12,"Manizales","F029","Carne de cerdo, tocino papada",16625
+2023,12,"Manizales","F118","Carne de res, bola de brazo",25042
+2023,12,"Manizales","F118","Carne de res, bola de pierna",26417
+2023,12,"Manizales",NA,"Carne de res, bota",25292
+2023,12,"Manizales","F100","Carne de res, cadera",26292
+2023,12,"Manizales",NA,"Carne de res, centro de pierna",26583
+2023,12,"Manizales","F107","Carne de res, costilla",16917
+2023,12,"Manizales","F100","Carne de res, falda",19250
+2023,12,"Manizales",NA,"Carne de res, lomo fino",31750
+2023,12,"Manizales","F118","Carne de res, muchacho",26333
+2023,12,"Manizales",NA,"Carne de res, murillo",21042
+2023,12,"Manizales",NA,"Carne de res, paletero",23792
+2023,12,"Manizales","F100","Carne de res, pecho",21333
+2023,12,"Manizales","F100","Carne de res, punta de anca",31750
+2023,12,"Manizales","F098","Carne de res, sobrebarriga",23117
+2023,12,"Manizales",NA,"Cebolla cabezona blanca",2128
+2023,12,"Manizales",NA,"Cebolla junca",2600
+2023,12,"Manizales","L008","Chocolate amargo",32400
+2023,12,"Manizales","A053","Chócolo mazorca",1075
+2023,12,"Manizales",NA,"Cilantro",10083
+2023,12,"Manizales","C019","Coco",6452
+2023,12,"Manizales","B039","Coliflor",4321
+2023,12,"Manizales","B044","Espinaca",4250
+2023,12,"Manizales","C025","Fresa",7267
+2023,12,"Manizales",NA,"Fríjol cargamanto rojo",9940
+2023,12,"Manizales",NA,"Fríjol nima calima",8968
+2023,12,"Manizales",NA,"Fríjol verde en vaina",5104
+2023,12,"Manizales","A027","Galletas saladas",14507
+2023,12,"Manizales","K018","Gelatina",39695
+2023,12,"Manizales","C028","Granadilla",7381
+2023,12,"Manizales","C030","Guanábana",3706
+2023,12,"Manizales",NA,"Guayaba agria",4375
+2023,12,"Manizales",NA,"Guayaba manzana",3500
+2023,12,"Manizales","C032","Guayaba pera",2608
+2023,12,"Manizales","B052","Habichuela",2503
+2023,12,"Manizales","A040","Harina de trigo",3174
+2023,12,"Manizales","A034","Harina precocida de maíz",4500
+2023,12,"Manizales",NA,"Huevo blanco A",551
+2023,12,"Manizales",NA,"Huevo blanco AA",583
+2023,12,"Manizales",NA,"Huevo blanco extra",638
+2023,12,"Manizales","C042","Kiwi",16250
+2023,12,"Manizales","B059","Lechuga Batavia",2650
+2023,12,"Manizales","T026","Lenteja importada",7401
+2023,12,"Manizales","C044","Limón Tahití",1744
+2023,12,"Manizales","C045","Lulo",3788
+2023,12,"Manizales",NA,"Maíz amarillo cáscara",1831
+2023,12,"Manizales","A046","Maíz blanco trillado",2360
+2023,12,"Manizales","C050","Mandarina Oneco",1858
+2023,12,"Manizales","C052","Mango Tommy",2317
+2023,12,"Manizales",NA,"Manteca",11689
+2023,12,"Manizales","C054","Manzana roja importada",8421
+2023,12,"Manizales","C054","Manzana royal gala importada",8265
+2023,12,"Manizales","C054","Manzana verde importada",10461
+2023,12,"Manizales","C056","Maracuyá",2306
+2023,12,"Manizales","D018","Margarina",16250
+2023,12,"Manizales","D020","Mayonesa doy pack",17847
+2023,12,"Manizales","C060","Melón Cantalup",3781
+2023,12,"Manizales","C061","Mora de Castilla",6000
+2023,12,"Manizales",NA,"Naranja Valencia",1050
+2023,12,"Manizales","K033","Panela redonda morena",3946
+2023,12,"Manizales","B074","Papa capira",2027
+2023,12,"Manizales","B071","Papa criolla limpia",3587
+2023,12,"Manizales","B074","Papa parda pastusa",1918
+2023,12,"Manizales",NA,"Papa R-12 negra",2027
+2023,12,"Manizales","B074","Papa única",1542
+2023,12,"Manizales","C065","Papaya Maradol",1347
+2023,12,"Manizales","F085","Pechuga de pollo",14233
+2023,12,"Manizales","B077","Pepino cohombro",884
+2023,12,"Manizales","C071","Pera importada",7891
+2023,12,"Manizales",NA,"Perejil",7733
+2023,12,"Manizales","F091","Piernas de pollo",8975
+2023,12,"Manizales","B080","Pimentón",2900
+2023,12,"Manizales","C072","Piña gold",3900
+2023,12,"Manizales",NA,"Plátano dominico hartón maduro",2575
+2023,12,"Manizales",NA,"Plátano dominico hartón verde",2575
+2023,12,"Manizales","G017","Queso campesino",16333
+2023,12,"Manizales","G018","Queso costeño",20550
+2023,12,"Manizales",NA,"Rabadillas de pollo",4750
+2023,12,"Manizales",NA,"Rábano rojo",6500
+2023,12,"Manizales",NA,"Remolacha",1750
+2023,12,"Manizales",NA,"Repollo verde",1133
+2023,12,"Manizales","L015","Sal yodada",2040
+2023,12,"Manizales","L017","Salsa de tomate doy pack",17847
+2023,12,"Manizales","E039","Sardinas en lata",16503
+2023,12,"Manizales",NA,"Tangelo",1825
+2023,12,"Manizales","B103","Tomate chonto",3520
+2023,12,"Manizales","C082","Tomate de árbol",1091
+2023,12,"Manizales","E047","Trucha en corte mariposa",23500
+2023,12,"Manizales","C085","Uva red globe nacional",7513
+2023,12,"Manizales","B107","Yuca ICA",1227
+2023,12,"Manizales","B110","Zanahoria bogotana",1851
+2023,12,"Medellin",NA,"Aceite de palma",7943
+2023,12,"Medellin",NA,"Aceite girasol",18433
+2023,12,"Medellin","D013","Aceite vegetal mezcla",7721
+2023,12,"Medellin",NA,"Acelga",2157
+2023,12,"Medellin",NA,"Aguacate Hass",3933
+2023,12,"Medellin","C002","Aguacate papelillo",8335
+2023,12,"Medellin","B006","Ahuyama",1148
+2023,12,"Medellin",NA,"Ají topito dulce",4203
+2023,12,"Medellin",NA,"Ajo",9594
+2023,12,"Medellin",NA,"Ajo importado",8651
+2023,12,"Medellin",NA,"Alas de pollo sin costillar",10198
+2023,12,"Medellin","E001","Almejas con concha",7450
+2023,12,"Medellin","E001","Almejas sin concha",25167
+2023,12,"Medellin","B014","Apio",971
+2023,12,"Medellin",NA,"Arracacha blanca",2879.5
+2023,12,"Medellin","A010","Arroz de primera",3975.5
+2023,12,"Medellin",NA,"Arveja enlatada",10943.5
+2023,12,"Medellin",NA,"Arveja verde en vaina",3151
+2023,12,"Medellin","T003","Arveja verde seca importada",4074.5
+2023,12,"Medellin","A012","Avena en hojuelas",8674.5
+2023,12,"Medellin","K004","Azúcar morena",4653
+2023,12,"Medellin",NA,"Azúcar refinada",4727
+2023,12,"Medellin","K003","Azúcar sulfitada",4433
+2023,12,"Medellin",NA,"Bagre rayado en postas congelado",35406
+2023,12,"Medellin","E005","Bagre rayado entero congelado",32269
+2023,12,"Medellin","C009","Banano bocadillo",1523
+2023,12,"Medellin","C010","Banano criollo",1821.5
+2023,12,"Medellin",NA,"Banano Urabá",1635
+2023,12,"Medellin","E007","Basa, entero congelado importado",11175
+2023,12,"Medellin","E030","Basa, filete congelado importado",15875
+2023,12,"Medellin",NA,"Berenjena",1926
+2023,12,"Medellin","E010","Bocachico importado congelado",12350
+2023,12,"Medellin",NA,"Borojó",4238
+2023,12,"Medellin",NA,"Breva",4843
+2023,12,"Medellin","B025","Brócoli",2506.5
+2023,12,"Medellin",NA,"Cachama de cultivo fresca",13525
+2023,12,"Medellin","L005","Café instantáneo",146297
+2023,12,"Medellin","L006","Café molido",30410
+2023,12,"Medellin",NA,"Calabacín",1779
+2023,12,"Medellin",NA,"Calabaza",1870
+2023,12,"Medellin","E015","Calamar anillos",42225
+2023,12,"Medellin","E017","Camarón tigre precocido seco",41750
+2023,12,"Medellin","F008","Carne de cerdo, brazo sin hueso",19788
+2023,12,"Medellin","F015","Carne de cerdo, costilla",21990.5
+2023,12,"Medellin","F015","Carne de cerdo, espinazo",9647
+2023,12,"Medellin","F019","Carne de cerdo, lomo sin hueso",23856.5
+2023,12,"Medellin","F025","Carne de cerdo, pernil sin hueso",21548.5
+2023,12,"Medellin",NA,"Carne de cerdo, tocino barriga",26333
+2023,12,"Medellin","F029","Carne de cerdo, tocino papada",17231.5
+2023,12,"Medellin","F118","Carne de res, bola de brazo",32450
+2023,12,"Medellin","F118","Carne de res, bola de pierna",31853
+2023,12,"Medellin",NA,"Carne de res, bota",31822
+2023,12,"Medellin","F100","Carne de res, cadera",31847
+2023,12,"Medellin",NA,"Carne de res, centro de pierna",31853
+2023,12,"Medellin","F099","Carne de res, chatas",49503.5
+2023,12,"Medellin","F107","Carne de res, costilla",18822
+2023,12,"Medellin","F100","Carne de res, falda",29103.5
+2023,12,"Medellin",NA,"Carne de res, lomo fino",52175.5
+2023,12,"Medellin","F098","Carne de res, morrillo",27297
+2023,12,"Medellin","F118","Carne de res, muchacho",31737.5
+2023,12,"Medellin",NA,"Carne de res, murillo",26463
+2023,12,"Medellin",NA,"Carne de res, paletero",28387.5
+2023,12,"Medellin","F100","Carne de res, pecho",25512.5
+2023,12,"Medellin","F100","Carne de res, punta de anca",48551.5
+2023,12,"Medellin","F098","Carne de res, sobrebarriga",27265.5
+2023,12,"Medellin",NA,"Cazuela de mariscos (paquete)",17638
+2023,12,"Medellin",NA,"Cebolla cabezona blanca",1974
+2023,12,"Medellin","B027","Cebolla cabezona roja importada",1995.5
+2023,12,"Medellin",NA,"Cebolla junca",2440
+2023,12,"Medellin",NA,"Cebolla puerro",3388
+2023,12,"Medellin","L008","Chocolate amargo",29227.5
+2023,12,"Medellin",NA,"Chocolate instantáneo",34844
+2023,12,"Medellin","A053","Chócolo mazorca",1511.5
+2023,12,"Medellin",NA,"Cidra",656
+2023,12,"Medellin",NA,"Cilantro",2612.5
+2023,12,"Medellin",NA,"Ciruela roja",2997
+2023,12,"Medellin","C019","Coco",8448
+2023,12,"Medellin",NA,"Coles",1659.5
+2023,12,"Medellin","B039","Coliflor",2754.5
+2023,12,"Medellin",NA,"Color (bolsita)",19460.5
+2023,12,"Medellin","C021","Curuba",2403
+2023,12,"Medellin",NA,"Durazno importado",15808
+2023,12,"Medellin",NA,"Durazno nacional",6197
+2023,12,"Medellin","B044","Espinaca",1857.5
+2023,12,"Medellin",NA,"Fécula de maíz",27605
+2023,12,"Medellin","C025","Fresa",8821.5
+2023,12,"Medellin",NA,"Fríjol cargamanto blanco",10494
+2023,12,"Medellin",NA,"Fríjol cargamanto rojo",8453.5
+2023,12,"Medellin",NA,"Fríjol enlatado",17972
+2023,12,"Medellin",NA,"Fríjol nima calima",6775
+2023,12,"Medellin",NA,"Fríjol radical",6838
+2023,12,"Medellin",NA,"Fríjol Uribe rosado",6694
+2023,12,"Medellin","B046","Fríjol verde cargamanto",3627.5
+2023,12,"Medellin","A027","Galletas saladas",13583
+2023,12,"Medellin",NA,"Garbanzo importado",7175
+2023,12,"Medellin","K018","Gelatina",34782.5
+2023,12,"Medellin","C028","Granadilla",6447
+2023,12,"Medellin","C030","Guanábana",4423.5
+2023,12,"Medellin",NA,"Guayaba manzana",4483
+2023,12,"Medellin","C032","Guayaba pera",2314
+2023,12,"Medellin",NA,"Guayaba pera valluna",3125
+2023,12,"Medellin",NA,"Gulupa",1389
+2023,12,"Medellin","B052","Habichuela",1842.5
+2023,12,"Medellin","A040","Harina de trigo",4009
+2023,12,"Medellin",NA,"Higo",4165
+2023,12,"Medellin","J004","Huevo rojo A",500
+2023,12,"Medellin","J004","Huevo rojo AA",522
+2023,12,"Medellin",NA,"Huevo rojo B",483.5
+2023,12,"Medellin","J004","Huevo rojo extra",581
+2023,12,"Medellin","K018","Jugo instantáneo (sobre)",32422
+2023,12,"Medellin","C042","Kiwi",14534
+2023,12,"Medellin","E024","Langostino 16-20",67500
+2023,12,"Medellin","E024","Langostino U12",108000
+2023,12,"Medellin","G008","Leche en polvo",31625
+2023,12,"Medellin","B059","Lechuga Batavia",1234
+2023,12,"Medellin","B060","Lechuga crespa verde",2211.5
+2023,12,"Medellin","T026","Lenteja importada",6531
+2023,12,"Medellin","C044","Limón común",1547.5
+2023,12,"Medellin","C044","Limón mandarino",2099.5
+2023,12,"Medellin","C044","Limón Tahití",1841.5
+2023,12,"Medellin","E003","Lomitos de atún en lata",32595
+2023,12,"Medellin","C045","Lulo",3085.5
+2023,12,"Medellin",NA,"Maíz amarillo cáscara",1840.5
+2023,12,"Medellin",NA,"Maíz amarillo cáscara importado",1441
+2023,12,"Medellin","A044","Maíz amarillo trillado",2338
+2023,12,"Medellin",NA,"Maíz blanco cáscara",1856
+2023,12,"Medellin","A046","Maíz blanco trillado",2331
+2023,12,"Medellin",NA,"Maíz enlatado",19098
+2023,12,"Medellin",NA,"Maíz pira",5177
+2023,12,"Medellin","C050","Mandarina Oneco",3085.5
+2023,12,"Medellin","C051","Mango común",1593
+2023,12,"Medellin","C052","Mango Tommy",1877
+2023,12,"Medellin",NA,"Mango Yulima",1608
+2023,12,"Medellin",NA,"Manzana nacional",5310
+2023,12,"Medellin","C054","Manzana roja importada",8033
+2023,12,"Medellin","C054","Manzana royal gala importada",7654
+2023,12,"Medellin","C054","Manzana verde importada",9534
+2023,12,"Medellin","C056","Maracuyá",1739
+2023,12,"Medellin",NA,"Maracuyá antioqueño",1593
+2023,12,"Medellin","D018","Margarina",14429
+2023,12,"Medellin","D020","Mayonesa doy pack",25219
+2023,12,"Medellin","C060","Melón Cantalup",4524
+2023,12,"Medellin","E030","Merluza, filete importado",21206
+2023,12,"Medellin","C061","Mora de Castilla",3947
+2023,12,"Medellin",NA,"Muslos de pollo con rabadilla",8363
+2023,12,"Medellin",NA,"Muslos de pollo sin rabadilla",10553
+2023,12,"Medellin",NA,"Naranja Valencia",1659.5
+2023,12,"Medellin",NA,"Palmitos de mar",14500
+2023,12,"Medellin",NA,"Panela cuadrada blanca",4290
+2023,12,"Medellin",NA,"Panela redonda blanca",3581
+2023,12,"Medellin","K033","Panela redonda morena",3450.5
+2023,12,"Medellin","B074","Papa capira",2272
+2023,12,"Medellin","B071","Papa criolla limpia",2597.5
+2023,12,"Medellin",NA,"Papa nevada",2129
+2023,12,"Medellin",NA,"Papa R-12 negra",1848
+2023,12,"Medellin","C065","Papaya Maradol",2488
+2023,12,"Medellin",NA,"Papaya Paulina",1022
+2023,12,"Medellin",NA,"Papaya tainung",1564
+2023,12,"Medellin","E043","Pargo rojo entero congelado",47563
+2023,12,"Medellin","A072","Pastas alimenticias",7931
+2023,12,"Medellin","C079","Patilla",1253
+2023,12,"Medellin","C079","Patilla baby",3379
+2023,12,"Medellin","F085","Pechuga de pollo",12900
+2023,12,"Medellin","B077","Pepino cohombro",1173.5
+2023,12,"Medellin",NA,"Pepino de rellenar",3515
+2023,12,"Medellin","C071","Pera importada",7664
+2023,12,"Medellin",NA,"Pera nacional",6078
+2023,12,"Medellin",NA,"Perejil",5914.5
+2023,12,"Medellin","F091","Pierna pernil con rabadilla",8356.5
+2023,12,"Medellin","F091","Piernas de pollo",9444
+2023,12,"Medellin","B080","Pimentón",3204
+2023,12,"Medellin",NA,"Pimentón verde",4141
+2023,12,"Medellin","C072","Piña gold",3767
+2023,12,"Medellin",NA,"Pitahaya",17720
+2023,12,"Medellin",NA,"Plátano comino",1626
+2023,12,"Medellin",NA,"Plátano dominico verde",1475
+2023,12,"Medellin",NA,"Plátano guineo",1539.5
+2023,12,"Medellin",NA,"Plátano hartón maduro",2165.5
+2023,12,"Medellin","B092","Plátano hartón verde",2167
+2023,12,"Medellin",NA,"Plátano hartón verde Eje Cafetero",2855
+2023,12,"Medellin","F077","Pollo entero congelado sin vísceras",11372
+2023,12,"Medellin","G017","Queso campesino",22000
+2023,12,"Medellin","G018","Queso costeño",22753
+2023,12,"Medellin","G016","Queso cuajada",20134.5
+2023,12,"Medellin","G021","Queso doble crema",18900
+2023,12,"Medellin",NA,"Rábano rojo",3029
+2023,12,"Medellin",NA,"Remolacha",1202
+2023,12,"Medellin","B099","Repollo blanco",1128.5
+2023,12,"Medellin",NA,"Repollo morado",842
+2023,12,"Medellin",NA,"Róbalo, filete congelado",58625
+2023,12,"Medellin","L015","Sal yodada",1930.5
+2023,12,"Medellin","E038","Salmón, filete congelado",59775
+2023,12,"Medellin","L017","Salsa de tomate doy pack",18757
+2023,12,"Medellin","E039","Sardinas en lata",9896
+2023,12,"Medellin","E041","Sierra entera congelada",30656
+2023,12,"Medellin","E043","Tilapia roja entera congelada",15950
+2023,12,"Medellin","E030","Tilapia, filete congelado",24125
+2023,12,"Medellin",NA,"Tilapia, lomitos",17275
+2023,12,"Medellin",NA,"Tomate chonto regional",4111
+2023,12,"Medellin","C082","Tomate de árbol",1330.5
+2023,12,"Medellin","B103","Tomate larga vida",5286
+2023,12,"Medellin","E047","Trucha en corte mariposa",27500
+2023,12,"Medellin",NA,"Uchuva con cáscara",3844
+2023,12,"Medellin","C085","Uva importada",15540
+2023,12,"Medellin","C086","Uva Isabela",4426
+2023,12,"Medellin","C085","Uva red globe nacional",7032
+2023,12,"Medellin",NA,"Uva verde",7944
+2023,12,"Medellin",NA,"Yuca chirosa",1116
+2023,12,"Medellin",NA,"Yuca criolla",1431
+2023,12,"Medellin",NA,"Zanahoria larga vida",1354
+2023,12,"Montería",NA,"Aceite de palma",6088
+2023,12,"Montería",NA,"Aceite girasol",15972
+2023,12,"Montería","C002","Aguacate papelillo",8617
+2023,12,"Montería","B006","Ahuyama",1023
+2023,12,"Montería",NA,"Ají topito dulce",5865
+2023,12,"Montería",NA,"Ajo importado",8625
+2023,12,"Montería","F069","Alas de pollo con costillar",8263
+2023,12,"Montería","B014","Apio",1283
+2023,12,"Montería","A010","Arroz de primera",3546
+2023,12,"Montería",NA,"Arroz excelso",4090
+2023,12,"Montería",NA,"Azúcar refinada",4240
+2023,12,"Montería",NA,"Bagre rayado entero fresco",12938
+2023,12,"Montería",NA,"Banano Urabá",1795
+2023,12,"Montería",NA,"Berenjena",1548
+2023,12,"Montería",NA,"Blanquillo entero fresco",11750
+2023,12,"Montería",NA,"Bocachico criollo fresco",18125
+2023,12,"Montería","E010","Bocachico importado congelado",11706
+2023,12,"Montería",NA,"Cachama de cultivo fresca",9625
+2023,12,"Montería","L006","Café molido",31750
+2023,12,"Montería",NA,"Carne de cerdo, brazo con hueso",17063
+2023,12,"Montería","F008","Carne de cerdo, brazo sin hueso",20375
+2023,12,"Montería","F015","Carne de cerdo, costilla",18000
+2023,12,"Montería","F015","Carne de cerdo, espinazo",18000
+2023,12,"Montería",NA,"Carne de cerdo, lomo con hueso",18000
+2023,12,"Montería","F019","Carne de cerdo, lomo sin hueso",24813
+2023,12,"Montería",NA,"Carne de cerdo, pernil con hueso",18625
+2023,12,"Montería","F025","Carne de cerdo, pernil sin hueso",21938
+2023,12,"Montería","F118","Carne de res, bola de brazo",24000
+2023,12,"Montería","F118","Carne de res, bola de pierna",24000
+2023,12,"Montería",NA,"Carne de res, bota",24000
+2023,12,"Montería","F100","Carne de res, cadera",24000
+2023,12,"Montería",NA,"Carne de res, centro de pierna",24000
+2023,12,"Montería","F099","Carne de res, chatas",30313
+2023,12,"Montería",NA,"Carne de res, cogote",20375
+2023,12,"Montería","F107","Carne de res, costilla",12500
+2023,12,"Montería","F100","Carne de res, falda",23250
+2023,12,"Montería",NA,"Carne de res, lomo de brazo",24063
+2023,12,"Montería",NA,"Carne de res, lomo fino",40438
+2023,12,"Montería","F098","Carne de res, morrillo",20313
+2023,12,"Montería","F118","Carne de res, muchacho",24000
+2023,12,"Montería",NA,"Carne de res, murillo",19438
+2023,12,"Montería",NA,"Carne de res, paletero",24000
+2023,12,"Montería","F100","Carne de res, pecho",22125
+2023,12,"Montería","F100","Carne de res, punta de anca",30375
+2023,12,"Montería","F098","Carne de res, sobrebarriga",20313
+2023,12,"Montería",NA,"Cebolla cabezona blanca",1865
+2023,12,"Montería","B027","Cebolla cabezona roja importada",2165
+2023,12,"Montería",NA,"Cebolla cabezona roja peruana",1531
+2023,12,"Montería",NA,"Cebolla junca",1176
+2023,12,"Montería",NA,"Chocolate dulce",22250
+2023,12,"Montería","A053","Chócolo mazorca",1140
+2023,12,"Montería",NA,"Cilantro",5396
+2023,12,"Montería","C019","Coco",5125
+2023,12,"Montería","A044","Cuchuco de maíz",1955
+2023,12,"Montería",NA,"Fécula de maíz",22917
+2023,12,"Montería","C025","Fresa",4908
+2023,12,"Montería",NA,"Fríjol cabeza negra nacional",6781
+2023,12,"Montería",NA,"Fríjol verde en vaina",4948
+2023,12,"Montería",NA,"Fríjol Zaragoza",8150
+2023,12,"Montería","A027","Galletas saladas",13849
+2023,12,"Montería",NA,"Guayaba agria",2089
+2023,12,"Montería",NA,"Guayaba común",3400
+2023,12,"Montería","B052","Habichuela",3115
+2023,12,"Montería",NA,"Habichuela larga",5833
+2023,12,"Montería","A040","Harina de trigo",3520
+2023,12,"Montería","A034","Harina precocida de maíz",4667
+2023,12,"Montería","J004","Huevo rojo A",546
+2023,12,"Montería","J004","Huevo rojo AA",578
+2023,12,"Montería",NA,"Huevo rojo B",519
+2023,12,"Montería","K018","Jugo instantáneo (sobre)",33681
+2023,12,"Montería","B059","Lechuga Batavia",1797
+2023,12,"Montería","T026","Lenteja importada",7000
+2023,12,"Montería","C044","Limón común",1827
+2023,12,"Montería","E003","Lomitos de atún en lata",33824
+2023,12,"Montería","C045","Lulo",4833
+2023,12,"Montería",NA,"Maíz amarillo cáscara",1796
+2023,12,"Montería","A044","Maíz amarillo trillado",1983
+2023,12,"Montería","A046","Maíz blanco trillado",1991
+2023,12,"Montería",NA,"Maíz pira",5469
+2023,12,"Montería",NA,"Mandarina común",2161
+2023,12,"Montería","C050","Mandarina Oneco",1942
+2023,12,"Montería","C052","Mango Tommy",2047
+2023,12,"Montería","C054","Manzana roja importada",8936
+2023,12,"Montería","C054","Manzana royal gala importada",8843
+2023,12,"Montería","C054","Manzana verde importada",11552
+2023,12,"Montería",NA,"Maracuyá antioqueño",1760
+2023,12,"Montería",NA,"Menudencias de pollo",3775
+2023,12,"Montería",NA,"Mojarra lora entera fresca",10281
+2023,12,"Montería","C061","Mora de Castilla",4900
+2023,12,"Montería",NA,"Naranja común",763
+2023,12,"Montería",NA,"Naranja Valencia",1320
+2023,12,"Montería",NA,"Ñame criollo",3525
+2023,12,"Montería",NA,"Ñame diamante",1721
+2023,12,"Montería",NA,"Ñame espino",3492
+2023,12,"Montería",NA,"Panela cuadrada morena",2500
+2023,12,"Montería","K033","Panela redonda morena",3306
+2023,12,"Montería","B074","Papa capira",2352
+2023,12,"Montería","B071","Papa criolla limpia",3583
+2023,12,"Montería",NA,"Papa Puracé",2358
+2023,12,"Montería",NA,"Papaya tainung",850
+2023,12,"Montería","A072","Pastas alimenticias",7400
+2023,12,"Montería","C079","Patilla",1934
+2023,12,"Montería","F085","Pechuga de pollo",12000
+2023,12,"Montería","B077","Pepino cohombro",694
+2023,12,"Montería","C071","Pera importada",8830
+2023,12,"Montería","F091","Pierna pernil con rabadilla",7106
+2023,12,"Montería","B080","Pimentón",4313
+2023,12,"Montería","C072","Piña gold",2708
+2023,12,"Montería",NA,"Piña perolera",2400
+2023,12,"Montería","B092","Plátano hartón verde",1284
+2023,12,"Montería","F077","Pollo entero congelado sin vísceras",8988
+2023,12,"Montería","G017","Queso campesino",18625
+2023,12,"Montería","G018","Queso costeño",19875
+2023,12,"Montería",NA,"Remolacha",1856
+2023,12,"Montería","B099","Repollo blanco",1463
+2023,12,"Montería","L015","Sal yodada",1980
+2023,12,"Montería","L017","Salsa de tomate doy pack",19985
+2023,12,"Montería","E039","Sardinas en lata",13569
+2023,12,"Montería",NA,"Tilapia roja entera fresca",12094
+2023,12,"Montería",NA,"Tomate chonto regional",3831
+2023,12,"Montería","C082","Tomate de árbol",1446
+2023,12,"Montería",NA,"Tomate riñón valluno",5292
+2023,12,"Montería","C085","Uva red globe nacional",8009
+2023,12,"Montería",NA,"Vinagre",1708
+2023,12,"Montería",NA,"Yuca criolla",1096
+2023,12,"Montería",NA,"Zanahoria larga vida",1588
+2023,12,"Montería","C089","Zapote",6726
+2023,12,"Pasto",NA,"Acelga",3371
+2023,12,"Pasto",NA,"Ajo",7072
+2023,12,"Pasto",NA,"Ajo importado",8753
+2023,12,"Pasto",NA,"Arracacha blanca",2261
+2023,12,"Pasto",NA,"Arroz blanco importado",5090
+2023,12,"Pasto","A010","Arroz de primera",4458
+2023,12,"Pasto","B019","Arveja verde en vaina pastusa",4477
+2023,12,"Pasto","T003","Arveja verde seca importada",3425
+2023,12,"Pasto","B025","Brócoli",2117
+2023,12,"Pasto","F008","Carne de cerdo, brazo sin hueso",23500
+2023,12,"Pasto","F015","Carne de cerdo, costilla",21638
+2023,12,"Pasto","F015","Carne de cerdo, espinazo",18042
+2023,12,"Pasto","F019","Carne de cerdo, lomo sin hueso",25313
+2023,12,"Pasto","F025","Carne de cerdo, pernil sin hueso",24063
+2023,12,"Pasto","F118","Carne de res, bola de brazo",24313
+2023,12,"Pasto","F118","Carne de res, bola de pierna",24813
+2023,12,"Pasto","F100","Carne de res, cadera",25250
+2023,12,"Pasto","F099","Carne de res, chatas",27125
+2023,12,"Pasto","F107","Carne de res, costilla",21000
+2023,12,"Pasto","F100","Carne de res, falda",21750
+2023,12,"Pasto",NA,"Carne de res, lomo de brazo",24313
+2023,12,"Pasto",NA,"Carne de res, lomo fino",28188
+2023,12,"Pasto","F098","Carne de res, morrillo",22000
+2023,12,"Pasto","F118","Carne de res, muchacho",24625
+2023,12,"Pasto","F100","Carne de res, pecho",21938
+2023,12,"Pasto","F100","Carne de res, punta de anca",24625
+2023,12,"Pasto","F098","Carne de res, sobrebarriga",21375
+2023,12,"Pasto",NA,"Cebolla cabezona blanca pastusa",1528
+2023,12,"Pasto",NA,"Cebolla junca pastusa",1324
+2023,12,"Pasto","A053","Chócolo mazorca",1403
+2023,12,"Pasto",NA,"Cilantro",11133
+2023,12,"Pasto","B039","Coliflor",2242
+2023,12,"Pasto","B044","Espinaca",3215
+2023,12,"Pasto","C025","Fresa",6542
+2023,12,"Pasto","B046","Fríjol verde cargamanto",3717
+2023,12,"Pasto","K018","Gelatina",36607
+2023,12,"Pasto","C030","Guanábana",5141
+2023,12,"Pasto","C032","Guayaba pera",1528
+2023,12,"Pasto","B052","Habichuela",1719
+2023,12,"Pasto","A040","Harina de trigo",3345
+2023,12,"Pasto","A034","Harina precocida de maíz",3627
+2023,12,"Pasto","J004","Huevo rojo A",474
+2023,12,"Pasto","J004","Huevo rojo AA",503
+2023,12,"Pasto","J004","Huevo rojo extra",557
+2023,12,"Pasto","K018","Jugo instantáneo (sobre)",34010
+2023,12,"Pasto","G008","Leche en polvo",36207
+2023,12,"Pasto","B059","Lechuga Batavia",1084
+2023,12,"Pasto","T026","Lenteja importada",5253
+2023,12,"Pasto","C044","Limón Tahití",1070
+2023,12,"Pasto","C045","Lulo",2303
+2023,12,"Pasto","C052","Mango Tommy",2253
+2023,12,"Pasto","C054","Manzana royal gala importada",7045
+2023,12,"Pasto","C054","Manzana verde importada",8212
+2023,12,"Pasto","C056","Maracuyá",2678
+2023,12,"Pasto","C060","Melón Cantalup",4167
+2023,12,"Pasto",NA,"Menudencias de pollo",2750
+2023,12,"Pasto","C061","Mora de Castilla",3367
+2023,12,"Pasto","C062","Naranja Sweet",1179
+2023,12,"Pasto",NA,"Panela cuadrada morena",3202
+2023,12,"Pasto","B074","Papa capira",1737
+2023,12,"Pasto","B071","Papa criolla sucia",1807
+2023,12,"Pasto",NA,"Papa ICA-Huila",2088
+2023,12,"Pasto",NA,"Papa Morasurco",1591
+2023,12,"Pasto",NA,"Papa superior",1621
+2023,12,"Pasto","B074","Papa única",1411
+2023,12,"Pasto","C065","Papaya Maradol",1852
+2023,12,"Pasto","C079","Patilla",2033
+2023,12,"Pasto","F085","Pechuga de pollo",20063
+2023,12,"Pasto","B077","Pepino cohombro",1112
+2023,12,"Pasto","C071","Pera importada",7301
+2023,12,"Pasto",NA,"Perejil",3121
+2023,12,"Pasto","F091","Pierna pernil con rabadilla",9579
+2023,12,"Pasto","B080","Pimentón",3072
+2023,12,"Pasto",NA,"Plátano hartón verde ecuatoriano",1600
+2023,12,"Pasto",NA,"Pollo entero fresco sin vísceras",11088
+2023,12,"Pasto","B099","Repollo blanco",732
+2023,12,"Pasto","L015","Sal yodada",1930
+2023,12,"Pasto","E043","Tilapia roja entera congelada",14667
+2023,12,"Pasto","C082","Tomate de árbol",2207
+2023,12,"Pasto","B103","Tomate larga vida",2373
+2023,12,"Pasto",NA,"Trucha entera fresca",17667
+2023,12,"Pasto","P077","Ulluco",2504
+2023,12,"Pasto","C086","Uva Isabela",3253
+2023,12,"Pasto","C085","Uva red globe nacional",6075
+2023,12,"Pasto","B107","Yuca ICA",1093
+2023,12,"Pasto","B110","Zanahoria",746
+2023,12,"Pereira","D013","Aceite vegetal mezcla",9105
+2023,12,"Pereira",NA,"Acelga",2500
+2023,12,"Pereira","C002","Aguacate papelillo",8970.5
+2023,12,"Pereira","B006","Ahuyama",1628.5
+2023,12,"Pereira",NA,"Ajo",8986
+2023,12,"Pereira",NA,"Ajo importado",8943.5
+2023,12,"Pereira","B014","Apio",1845.5
+2023,12,"Pereira",NA,"Arracacha blanca",3095
+2023,12,"Pereira","A010","Arroz de primera",4058
+2023,12,"Pereira",NA,"Arveja enlatada",12203
+2023,12,"Pereira",NA,"Arveja verde en vaina",5730
+2023,12,"Pereira","T003","Arveja verde seca importada",4640
+2023,12,"Pereira","A029","Avena molida",12875
+2023,12,"Pereira",NA,"Azúcar refinada",4733
+2023,12,"Pereira","E005","Bagre rayado entero congelado",31000
+2023,12,"Pereira","C010","Banano criollo",1491.5
+2023,12,"Pereira",NA,"Berenjena",2392
+2023,12,"Pereira","E010","Bocachico importado congelado",11750
+2023,12,"Pereira","B025","Brócoli",2358
+2023,12,"Pereira","L006","Café molido",32018
+2023,12,"Pereira",NA,"Camarón tití precocido seco",27250
+2023,12,"Pereira","F008","Carne de cerdo, brazo sin hueso",20500
+2023,12,"Pereira","F015","Carne de cerdo, costilla",21500
+2023,12,"Pereira","F015","Carne de cerdo, espinazo",12750
+2023,12,"Pereira","F019","Carne de cerdo, lomo sin hueso",24500
+2023,12,"Pereira","F025","Carne de cerdo, pernil sin hueso",21500
+2023,12,"Pereira",NA,"Carne de cerdo, tocino barriga",23500
+2023,12,"Pereira","F029","Carne de cerdo, tocino papada",19500
+2023,12,"Pereira","F118","Carne de res, bola de brazo",27500
+2023,12,"Pereira","F118","Carne de res, bola de pierna",27500
+2023,12,"Pereira","F100","Carne de res, cadera",27500
+2023,12,"Pereira",NA,"Carne de res, centro de pierna",28000
+2023,12,"Pereira","F099","Carne de res, chatas",34000
+2023,12,"Pereira",NA,"Carne de res, cogote",22000
+2023,12,"Pereira","F107","Carne de res, costilla",11250
+2023,12,"Pereira","F100","Carne de res, falda",22000
+2023,12,"Pereira",NA,"Carne de res, lomo de brazo",27500
+2023,12,"Pereira",NA,"Carne de res, lomo fino",35750
+2023,12,"Pereira","F098","Carne de res, morrillo",25000
+2023,12,"Pereira","F118","Carne de res, muchacho",27500
+2023,12,"Pereira",NA,"Carne de res, paletero",27375
+2023,12,"Pereira","F100","Carne de res, pecho",24000
+2023,12,"Pereira","F100","Carne de res, punta de anca",34000
+2023,12,"Pereira","F098","Carne de res, sobrebarriga",25000
+2023,12,"Pereira",NA,"Cebolla cabezona blanca",2013.5
+2023,12,"Pereira",NA,"Cebolla cabezona roja",2001
+2023,12,"Pereira",NA,"Cebolla junca",2114.5
+2023,12,"Pereira",NA,"Cilantro",3078
+2023,12,"Pereira","C019","Coco",5933
+2023,12,"Pereira","B039","Coliflor",3386
+2023,12,"Pereira",NA,"Color (bolsita)",28833
+2023,12,"Pereira","C021","Curuba",2721
+2023,12,"Pereira","B044","Espinaca",3523
+2023,12,"Pereira","C025","Fresa",6800
+2023,12,"Pereira",NA,"Fríjol bolón",11690
+2023,12,"Pereira",NA,"Fríjol cargamanto rojo",9530
+2023,12,"Pereira",NA,"Fríjol Uribe rosado",7580
+2023,12,"Pereira",NA,"Fríjol verde en vaina",4857.5
+2023,12,"Pereira","A027","Galletas saladas",18209
+2023,12,"Pereira",NA,"Garbanzo importado",6890
+2023,12,"Pereira","K018","Gelatina",41607
+2023,12,"Pereira","C028","Granadilla",7550
+2023,12,"Pereira","C030","Guanábana",4257
+2023,12,"Pereira",NA,"Guayaba agria",2577.5
+2023,12,"Pereira","C032","Guayaba pera",2263.5
+2023,12,"Pereira","B052","Habichuela",2298.5
+2023,12,"Pereira","A040","Harina de trigo",4487
+2023,12,"Pereira","A034","Harina precocida de maíz",4226
+2023,12,"Pereira",NA,"Huevo blanco A",558
+2023,12,"Pereira",NA,"Huevo blanco AA",596
+2023,12,"Pereira",NA,"Huevo blanco B",500
+2023,12,"Pereira",NA,"Huevo blanco extra",642
+2023,12,"Pereira","C042","Kiwi",16885
+2023,12,"Pereira","G008","Leche en polvo",51055
+2023,12,"Pereira","B059","Lechuga Batavia",2179.5
+2023,12,"Pereira","T026","Lenteja importada",6970
+2023,12,"Pereira","C044","Limón común",2090
+2023,12,"Pereira","C044","Limón mandarino",2267
+2023,12,"Pereira","C044","Limón Tahití",1618
+2023,12,"Pereira","E003","Lomitos de atún en lata",38310
+2023,12,"Pereira","C045","Lulo",3354.5
+2023,12,"Pereira","A044","Maíz amarillo trillado",2464
+2023,12,"Pereira","A046","Maíz blanco trillado",2479
+2023,12,"Pereira","C050","Mandarina Oneco",2143.5
+2023,12,"Pereira","C051","Mango común",1692.5
+2023,12,"Pereira",NA,"Mango manzano",1379
+2023,12,"Pereira","C052","Mango Tommy",2356.5
+2023,12,"Pereira",NA,"Mango Yulima",1297.5
+2023,12,"Pereira","C054","Manzana roja importada",8591
+2023,12,"Pereira","C054","Manzana royal gala importada",7740
+2023,12,"Pereira","C054","Manzana verde importada",10236
+2023,12,"Pereira","C056","Maracuyá",3180.5
+2023,12,"Pereira","D018","Margarina",20272
+2023,12,"Pereira","C060","Melón Cantalup",4301
+2023,12,"Pereira","C061","Mora de Castilla",5144
+2023,12,"Pereira","C062","Naranja Sweet",1500
+2023,12,"Pereira",NA,"Naranja Valencia",1431
+2023,12,"Pereira","K033","Panela redonda morena",4811
+2023,12,"Pereira","B074","Papa capira",1953.5
+2023,12,"Pereira","B071","Papa criolla limpia",3484
+2023,12,"Pereira",NA,"Papa nevada",3438
+2023,12,"Pereira","B074","Papa parda pastusa",1475
+2023,12,"Pereira",NA,"Papa rubí",1731.5
+2023,12,"Pereira","B074","Papa única",1617.5
+2023,12,"Pereira","C065","Papaya Maradol",1433.5
+2023,12,"Pereira","E043","Pargo rojo entero congelado",45500
+2023,12,"Pereira","A072","Pastas alimenticias",6852
+2023,12,"Pereira","C079","Patilla",2001
+2023,12,"Pereira","C079","Patilla baby",3045
+2023,12,"Pereira","B077","Pepino cohombro",1085
+2023,12,"Pereira","C071","Pera importada",8068
+2023,12,"Pereira","E002","Pescado cabezas",3013
+2023,12,"Pereira","B080","Pimentón",3366.5
+2023,12,"Pereira","C072","Piña gold",4275
+2023,12,"Pereira",NA,"Pitahaya",18833
+2023,12,"Pereira",NA,"Plátano dominico hartón maduro",2102.5
+2023,12,"Pereira",NA,"Plátano dominico hartón verde",2102.5
+2023,12,"Pereira",NA,"Plátano hartón maduro",2102.5
+2023,12,"Pereira","B092","Plátano hartón verde",2102.5
+2023,12,"Pereira",NA,"Remolacha",1631
+2023,12,"Pereira","B099","Repollo blanco",1214.5
+2023,12,"Pereira",NA,"Repollo blanco bogotano",2179
+2023,12,"Pereira","L015","Sal yodada",2043
+2023,12,"Pereira","E039","Sardinas en lata",17554
+2023,12,"Pereira","E041","Sierra entera congelada",20750
+2023,12,"Pereira",NA,"Tangelo",2170
+2023,12,"Pereira","E043","Tilapia roja entera congelada",14325
+2023,12,"Pereira","B103","Tomate chonto",3738.5
+2023,12,"Pereira","C082","Tomate de árbol",1902
+2023,12,"Pereira",NA,"Tomate riñón valluno",5691
+2023,12,"Pereira","E047","Trucha en corte mariposa",21563
+2023,12,"Pereira","C085","Uva red globe nacional",7410
+2023,12,"Pereira",NA,"Uva roja",16722
+2023,12,"Pereira","B107","Yuca ICA",955.5
+2023,12,"Pereira","B110","Zanahoria bogotana",1857.5
+2023,12,"Villavicencio","D013","Aceite vegetal mezcla",10723
+2023,12,"Villavicencio",NA,"Acelga",1983
+2023,12,"Villavicencio","C002","Aguacate papelillo",10661
+2023,12,"Villavicencio",NA,"Ahuyamín (Sakata)",2181
+2023,12,"Villavicencio",NA,"Ajo",5792
+2023,12,"Villavicencio","F069","Alas de pollo con costillar",7469
+2023,12,"Villavicencio","B014","Apio",2017
+2023,12,"Villavicencio","B015","Arracacha amarilla",3938
+2023,12,"Villavicencio","A010","Arroz de primera",3920
+2023,12,"Villavicencio",NA,"Arveja verde en vaina",5429
+2023,12,"Villavicencio","T003","Arveja verde seca importada",4333
+2023,12,"Villavicencio","A012","Avena en hojuelas",8761
+2023,12,"Villavicencio","A029","Avena molida",11762
+2023,12,"Villavicencio","K004","Azúcar morena",5450
+2023,12,"Villavicencio",NA,"Azúcar refinada",5310
+2023,12,"Villavicencio","K003","Azúcar sulfitada",5044
+2023,12,"Villavicencio",NA,"Bagre rayado en postas congelado",29167
+2023,12,"Villavicencio","C010","Banano criollo",2777
+2023,12,"Villavicencio",NA,"Banano Urabá",1014
+2023,12,"Villavicencio","E007","Basa, entero congelado importado",10383
+2023,12,"Villavicencio",NA,"Bocachico criollo fresco",16750
+2023,12,"Villavicencio",NA,"Bocadillo veleño",369
+2023,12,"Villavicencio",NA,"Borojó",6865
+2023,12,"Villavicencio","B025","Brócoli",1736
+2023,12,"Villavicencio",NA,"Cachama de cultivo fresca",10283
+2023,12,"Villavicencio","L006","Café molido",31612
+2023,12,"Villavicencio",NA,"Calabaza",1219
+2023,12,"Villavicencio","F008","Carne de cerdo, brazo sin hueso",18406
+2023,12,"Villavicencio",NA,"Carne de cerdo, cabeza de lomo",18406
+2023,12,"Villavicencio","F015","Carne de cerdo, costilla",18406
+2023,12,"Villavicencio",NA,"Carne de cerdo, pernil con hueso",17738
+2023,12,"Villavicencio","F025","Carne de cerdo, pernil sin hueso",18700
+2023,12,"Villavicencio","F118","Carne de res, bola de pierna",24125
+2023,12,"Villavicencio",NA,"Carne de res, bota",24125
+2023,12,"Villavicencio","F100","Carne de res, cadera",24125
+2023,12,"Villavicencio",NA,"Carne de res, centro de pierna",24125
+2023,12,"Villavicencio","F099","Carne de res, chatas",26875
+2023,12,"Villavicencio","F107","Carne de res, costilla",21813
+2023,12,"Villavicencio",NA,"Carne de res, lomo fino",37000
+2023,12,"Villavicencio","F098","Carne de res, morrillo",21563
+2023,12,"Villavicencio","F118","Carne de res, muchacho",24125
+2023,12,"Villavicencio",NA,"Carne de res, murillo",21625
+2023,12,"Villavicencio","F100","Carne de res, punta de anca",25906
+2023,12,"Villavicencio","F098","Carne de res, sobrebarriga",22250
+2023,12,"Villavicencio",NA,"Cebolla cabezona blanca",1960
+2023,12,"Villavicencio",NA,"Cebolla junca",2375
+2023,12,"Villavicencio",NA,"Chocolate dulce",18268
+2023,12,"Villavicencio","A053","Chócolo mazorca",1873
+2023,12,"Villavicencio",NA,"Cidra",1202
+2023,12,"Villavicencio",NA,"Cilantro",3973
+2023,12,"Villavicencio","B039","Coliflor",3163
+2023,12,"Villavicencio","C021","Curuba",1601
+2023,12,"Villavicencio","B044","Espinaca",2942
+2023,12,"Villavicencio","C025","Fresa",7519
+2023,12,"Villavicencio",NA,"Fríjol bolón",11701
+2023,12,"Villavicencio",NA,"Fríjol cargamanto rojo",10448
+2023,12,"Villavicencio","B046","Fríjol verde cargamanto",4333
+2023,12,"Villavicencio","A027","Galletas saladas",13860
+2023,12,"Villavicencio",NA,"Garbanzo importado",7096
+2023,12,"Villavicencio","K018","Gelatina",39794
+2023,12,"Villavicencio","C028","Granadilla",6987
+2023,12,"Villavicencio","C030","Guanábana",6335
+2023,12,"Villavicencio","C032","Guayaba pera",1776
+2023,12,"Villavicencio","B052","Habichuela",2076
+2023,12,"Villavicencio","A040","Harina de trigo",3543
+2023,12,"Villavicencio","A034","Harina precocida de maíz",3559
+2023,12,"Villavicencio","J004","Huevo rojo A",500
+2023,12,"Villavicencio","J004","Huevo rojo AA",525
+2023,12,"Villavicencio",NA,"Huevo rojo B",471
+2023,12,"Villavicencio","J004","Huevo rojo extra",560
+2023,12,"Villavicencio","K018","Jugo instantáneo (sobre)",33785
+2023,12,"Villavicencio","C042","Kiwi",15583
+2023,12,"Villavicencio","G008","Leche en polvo",54146
+2023,12,"Villavicencio","B059","Lechuga Batavia",2383
+2023,12,"Villavicencio","B060","Lechuga crespa verde",8467
+2023,12,"Villavicencio","T026","Lenteja importada",7251
+2023,12,"Villavicencio","C044","Limón común",2163
+2023,12,"Villavicencio","C044","Limón mandarino",3067
+2023,12,"Villavicencio","C044","Limón Tahití",1993
+2023,12,"Villavicencio","E003","Lomitos de atún en lata",36557
+2023,12,"Villavicencio","C045","Lulo",3671
+2023,12,"Villavicencio","A046","Maíz blanco trillado",2293
+2023,12,"Villavicencio",NA,"Maíz pira",5371
+2023,12,"Villavicencio","C050","Mandarina Arrayana",2003
+2023,12,"Villavicencio","C052","Mango Tommy",2008
+2023,12,"Villavicencio","C054","Manzana roja importada",8317
+2023,12,"Villavicencio","C054","Manzana royal gala importada",7988
+2023,12,"Villavicencio","C054","Manzana verde importada",9649
+2023,12,"Villavicencio","C056","Maracuyá",2631
+2023,12,"Villavicencio","D018","Margarina",13763
+2023,12,"Villavicencio","D020","Mayonesa doy pack",18516
+2023,12,"Villavicencio","C060","Melón Cantalup",3847
+2023,12,"Villavicencio",NA,"Menudencias de pollo",2844
+2023,12,"Villavicencio","C061","Mora de Castilla",6223
+2023,12,"Villavicencio",NA,"Muslos de pollo sin rabadilla",11988
+2023,12,"Villavicencio",NA,"Naranja Valencia",863
+2023,12,"Villavicencio",NA,"Panela cuadrada morena",3935
+2023,12,"Villavicencio","B071","Papa criolla limpia",3210
+2023,12,"Villavicencio",NA,"Papa superior",1808
+2023,12,"Villavicencio",NA,"Papaya Paulina",643
+2023,12,"Villavicencio",NA,"Papaya tainung",643
+2023,12,"Villavicencio","A072","Pastas alimenticias",8046
+2023,12,"Villavicencio","C079","Patilla",2033
+2023,12,"Villavicencio","F085","Pechuga de pollo",13025
+2023,12,"Villavicencio","B077","Pepino cohombro",1175
+2023,12,"Villavicencio",NA,"Pepino de rellenar",4646
+2023,12,"Villavicencio","C071","Pera importada",7828
+2023,12,"Villavicencio",NA,"Pera nacional",5503
+2023,12,"Villavicencio","F091","Pierna pernil con rabadilla",9350
+2023,12,"Villavicencio","F091","Piernas de pollo",11869
+2023,12,"Villavicencio","B080","Pimentón",3090
+2023,12,"Villavicencio",NA,"Pitahaya",19833
+2023,12,"Villavicencio",NA,"Plátano guineo",1885
+2023,12,"Villavicencio","B092","Plátano hartón verde",1970
+2023,12,"Villavicencio",NA,"Pollo entero fresco sin vísceras",9994
+2023,12,"Villavicencio","G017","Queso campesino",15813
+2023,12,"Villavicencio","G018","Queso costeño",21125
+2023,12,"Villavicencio","G016","Queso cuajada",18650
+2023,12,"Villavicencio","G021","Queso doble crema",20600
+2023,12,"Villavicencio",NA,"Remolacha",1356
+2023,12,"Villavicencio","B099","Repollo blanco",2538
+2023,12,"Villavicencio","L015","Sal yodada",2064
+2023,12,"Villavicencio","L017","Salsa de tomate doy pack",18490
+2023,12,"Villavicencio","E039","Sardinas en lata",17500
+2023,12,"Villavicencio",NA,"Tangelo",2799
+2023,12,"Villavicencio",NA,"Tilapia roja entera fresca",12717
+2023,12,"Villavicencio","B103","Tomate chonto",3563
+2023,12,"Villavicencio","C082","Tomate de árbol",2288
+2023,12,"Villavicencio","C085","Uva importada",16010
+2023,12,"Villavicencio","C086","Uva Isabela",4295
+2023,12,"Villavicencio","C085","Uva red globe nacional",8050
+2023,12,"Villavicencio",NA,"Yuca llanera",1287
+2023,12,"Villavicencio","B110","Zanahoria",1707
