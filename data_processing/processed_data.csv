@@ -21,19 +21,23 @@ Barranquilla,E010,Bocachico importado congelado,Bocachico
 Barranquilla,B025,Brócoli,Brócoli
 Barranquilla,L005,Café instantáneo,Café instantáneo
 Barranquilla,L006,Café molido,Café molido
-Barranquilla,N/A,"Carne de cerdo, brazo con hueso","Carne de cerdo, brazo con hueso"
+Barranquilla,N/A,"Carne de cerdo, brazo con hueso",Cerdo brazo
 Barranquilla,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
 Barranquilla,F015,"Carne de cerdo, costilla",Costila cerdo
-Barranquilla,N/A,"Carne de cerdo, lomo con hueso","Carne de cerdo, lomo con hueso"
+Barranquilla,N/A,"Carne de cerdo, lomo con hueso",Cerdo lomo
 Barranquilla,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
-Barranquilla,N/A,"Carne de cerdo, pernil con hueso","Carne de cerdo, pernil con hueso"
+Barranquilla,N/A,"Carne de cerdo, pernil con hueso",Cerdo pernil
 Barranquilla,F118,"Carne de res, bola de brazo",Bola brazo res
-Barranquilla,N/A,"Carne de res, bota","Carne de res, bota"
+Barranquilla,F118,"Carne de res, bola de pierna",Bola pierna res
+Barranquilla,N/A,"Carne de res, bota",Res bota
 Barranquilla,F100,"Carne de res, cadera",Cadera res
-Barranquilla,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Barranquilla,N/A,"Carne de res, centro de pierna",Res pierna
 Barranquilla,F099,"Carne de res, chatas",Chatas res
 Barranquilla,F107,"Carne de res, costilla",Costilla res
-Barranquilla,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Barranquilla,F100,"Carne de res, falda",Falda res
+Barranquilla,N/A,"Carne de res, lomo fino",Res lomo
+Barranquilla,F118,"Carne de res, muchacho",Muchacho res
+Barranquilla,F100,"Carne de res, punta de anca",Punta de anca res
 Barranquilla,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Barranquilla,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Barranquilla,N/A,Cebolla cabezona roja peruana,Cebolla cabezona roja
@@ -64,6 +68,7 @@ Barranquilla,N/A,Habichuela larga,Habichuela larga
 Barranquilla,A040,Harina de trigo,Harina de trigo
 Barranquilla,A034,Harina precocida de maíz,Harina precocida de maíz
 Barranquilla,N/A,Jugo de frutas,Jugo de frutas
+Barranquilla,K018,Jugo instantáneo (sobre),Refesco en polvo
 Barranquilla,G008,Leche en polvo,Leche en polvo
 Barranquilla,B059,Lechuga Batavia,Lechuga Batavia
 Barranquilla,T026,Lenteja importada,Lenteja importada
@@ -124,6 +129,7 @@ Bogotá,N/A,Ajo importado,Ajo importado
 Bogotá,F069,Alas de pollo con costillar,Alas de pollo con costillar
 Bogotá,N/A,Alas de pollo sin costillar,Alas de pollo sin costillar
 Bogotá,E001,Almejas con concha,Almejas con concha
+Bogotá,E001,Almejas sin concha,Almejas sin concha
 Bogotá,B014,Apio,Apio
 Bogotá,B015,Arracacha amarilla,Arracacha amarilla
 Bogotá,A010,Arroz de primera,Arroz de primera
@@ -159,30 +165,37 @@ Bogotá,L006,Café molido,Café molido
 Bogotá,N/A,Calabacín,Calabacín
 Bogotá,N/A,Calabaza,Calabaza
 Bogotá,E015,Calamar anillos,Calamar anillos
+Bogotá,E015,Calamar blanco entero,Calamar
 Bogotá,E017,Camarón tigre precocido seco,Camarón tigre
 Bogotá,N/A,Camarón tití precocido seco,Camarón tití precocido seco
-Bogotá,N/A,"Carne de cerdo, brazo con hueso","Carne de cerdo, brazo con hueso"
+Bogotá,N/A,"Carne de cerdo, brazo con hueso",Cerdo brazo
 Bogotá,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
-Bogotá,N/A,"Carne de cerdo, cabeza de lomo","Carne de cerdo, cabeza de lomo"
+Bogotá,N/A,"Carne de cerdo, cabeza de lomo",Cerdo lomo
 Bogotá,F015,"Carne de cerdo, costilla",Costila cerdo
 Bogotá,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
-Bogotá,N/A,"Carne de cerdo, pernil con hueso","Carne de cerdo, pernil con hueso"
+Bogotá,N/A,"Carne de cerdo, pernil con hueso",Cerdo pernil
 Bogotá,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
-Bogotá,N/A,"Carne de cerdo, tocino barriga","Carne de cerdo, tocino barriga"
+Bogotá,N/A,"Carne de cerdo, tocino barriga",Cerdo tocino
 Bogotá,F029,"Carne de cerdo, tocino papada",Papada cerdo
 Bogotá,N/A,"Carne de res molida, murillo","Carne de res molida, murillo"
 Bogotá,F118,"Carne de res, bola de brazo",Bola brazo res
-Bogotá,N/A,"Carne de res, bota","Carne de res, bota"
+Bogotá,F118,"Carne de res, bola de pierna",Bola pierna res
+Bogotá,N/A,"Carne de res, bota",Res bota
 Bogotá,F100,"Carne de res, cadera",Cadera res
-Bogotá,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Bogotá,N/A,"Carne de res, centro de pierna",Res pierna
 Bogotá,F099,"Carne de res, chatas",Chatas res
 Bogotá,N/A,"Carne de res, cogote","Carne de res, cogote"
 Bogotá,F107,"Carne de res, costilla",Costilla res
-Bogotá,N/A,"Carne de res, lomo de brazo","Carne de res, lomo de brazo"
-Bogotá,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Bogotá,F100,"Carne de res, falda",Falda res
+Bogotá,N/A,"Carne de res, lomo de brazo",Res brazo
+Bogotá,N/A,"Carne de res, lomo fino",Res lomo
 Bogotá,F098,"Carne de res, morrillo",Morrillo res
-Bogotá,N/A,"Carne de res, murillo","Carne de res, murillo"
-Bogotá,N/A,"Carne de res, paletero","Carne de res, paletero"
+Bogotá,F118,"Carne de res, muchacho",Muchacho res
+Bogotá,N/A,"Carne de res, murillo",Res murillo
+Bogotá,N/A,"Carne de res, paletero",Res paletero
+Bogotá,F100,"Carne de res, pecho",Pechho res
+Bogotá,F100,"Carne de res, punta de anca",Punta de anca res
+Bogotá,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Bogotá,N/A,Cazuela de mariscos (paquete),Cazuela de mariscos (paquete)
 Bogotá,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Bogotá,N/A,Cebolla cabezona roja,Cebolla cabezona roja
@@ -226,15 +239,20 @@ Bogotá,A040,Harina de trigo,Harina de trigo
 Bogotá,A034,Harina precocida de maíz,Harina precocida de maíz
 Bogotá,N/A,Higo,Higo
 Bogotá,J004,Huevo rojo A,Huevo A
+Bogotá,J004,Huevo rojo AA,Huevo AA
 Bogotá,N/A,Huevo rojo B,Huevo rojo B
+Bogotá,J004,Huevo rojo extra,Huevo AAA
+Bogotá,K018,Jugo instantáneo (sobre),Refesco en polvo
 Bogotá,C042,Kiwi,Kiwi
 Bogotá,B059,Lechuga Batavia,Lechuga Batavia
 Bogotá,B060,Lechuga crespa verde,Lechuga crespa verde
 Bogotá,T026,Lenteja importada,Lenteja importada
+Bogotá,C044,Limón común,Limón común
 Bogotá,C044,Limón Tahití,Limón Tahití
 Bogotá,E003,Lomitos de atún en lata,Lomitos de atún en lata
 Bogotá,C045,Lulo,Lulo
 Bogotá,N/A,Maíz amarillo cáscara,Maíz amarillo cáscara
+Bogotá,A044,Maíz amarillo trillado,Maíz amarillo trillado
 Bogotá,A046,Maíz blanco trillado,Maíz blanco trillado
 Bogotá,N/A,Maíz pira,Maíz pira
 Bogotá,C050,Mandarina Arrayana,Mandarina Arrayana
@@ -243,10 +261,13 @@ Bogotá,C052,Mango Tommy,Mango Tommy
 Bogotá,N/A,Manteca,Manteca
 Bogotá,N/A,Manzana nacional,Manzana nacional
 Bogotá,C054,Manzana roja importada,Manzana roja importada
+Bogotá,C054,Manzana royal gala importada,Manzana royal
+Bogotá,C054,Manzana verde importada,Manzana verde importada
 Bogotá,C056,Maracuyá,Maracuyá
 Bogotá,D018,Margarina,Margarina
 Bogotá,D020,Mayonesa doy pack,Mayonesa doy pack
 Bogotá,C060,Melón Cantalup,Melón Cantalup
+Bogotá,E030,"Merluza, filete nacional","Merluza, filete nacional"
 Bogotá,C061,Mora de Castilla,Mora de Castilla
 Bogotá,N/A,Muslos de pollo sin rabadilla,Muslos de pollo sin rabadilla
 Bogotá,C062,Naranja Sweet,Naranja Sweet
@@ -255,17 +276,20 @@ Bogotá,N/A,Nicuro fresco,Nicuro fresco
 Bogotá,N/A,Palmitos de mar,Palmitos de mar
 Bogotá,N/A,Panela cuadrada morena,Panela cuadrada morena
 Bogotá,B071,Papa criolla limpia,Papa criolla lavada
+Bogotá,B071,Papa criolla sucia,Papa criolla sucia
 Bogotá,B074,Papa parda pastusa,Papa parda pastusa
 Bogotá,N/A,Papa R-12 negra,Papa R-12 negra
 Bogotá,N/A,Papa R-12 roja,Papa R-12 roja
 Bogotá,N/A,Papa rubí,Papa rubí
 Bogotá,N/A,Papa sabanera,Papa sabanera
 Bogotá,N/A,Papa superior,Papa superior
+Bogotá,B074,Papa única,Papa
 Bogotá,N/A,Papaya Paulina,Papaya Paulina
 Bogotá,N/A,Papaya tainung,Papaya tainung
 Bogotá,E043,Pargo rojo entero congelado,Pargo
 Bogotá,A072,Pastas alimenticias,Pastas alimenticias
 Bogotá,C079,Patilla,Sandía
+Bogotá,C079,Patilla baby,Patilla baby
 Bogotá,F085,Pechuga de pollo,Pechuga de pollo
 Bogotá,B077,Pepino cohombro,Pepino cohombro
 Bogotá,N/A,Pepino de rellenar,Pepino de rellenar
@@ -275,14 +299,15 @@ Bogotá,N/A,Perejil,Perejil
 Bogotá,E002,Pescado cabezas,Pescado cabezas
 Bogotá,F091,Pierna pernil con rabadilla,Pierna pernil con rabadilla
 Bogotá,N/A,Pierna pernil sin rabadilla,Pierna pernil sin rabadilla
+Bogotá,F091,Piernas de pollo,Piernas de pollo
 Bogotá,B080,Pimentón,Pimentón
 Bogotá,C072,Piña gold,Piña gold
 Bogotá,N/A,Piña perolera,Piña perolera
 Bogotá,N/A,Pitahaya,Pitahaya
 Bogotá,N/A,Plátano guineo,Plátano guineo
-Bogotá,N/A,Plátano hartón maduro,Plátano hartón maduro
+Bogotá,N/A,Plátano hartón maduro,Plátano maduro
 Bogotá,B092,Plátano hartón verde,Plátano verde
-Bogotá,N/A,Plátano hartón verde llanero,Plátano hartón verde llanero
+Bogotá,N/A,Plátano hartón verde llanero,Plátano verde
 Bogotá,N/A,Pollo entero fresco sin vísceras,Pollo entero fresco sin vísceras
 Bogotá,G017,Queso campesino,Queso campesino
 Bogotá,G018,Queso costeño,Queso costeño
@@ -300,13 +325,17 @@ Bogotá,E039,Sardinas en lata,Sardinas en lata
 Bogotá,E041,Sierra entera congelada,Sierra
 Bogotá,N/A,Sopa de pollo (caja),Sopa de pollo (caja)
 Bogotá,N/A,Tangelo,Tangelo
+Bogotá,E043,Tilapia roja entera congelada,Tilapia
 Bogotá,N/A,Tilapia roja entera fresca,Tilapia roja entera fresca
+Bogotá,E030,"Tilapia, filete congelado","Tilapia, filete congelado"
 Bogotá,B103,Tomate chonto,Tomate chonto
 Bogotá,C082,Tomate de árbol,Tomate de árbol
+Bogotá,B103,Tomate larga vida,Tomate larga vida
 Bogotá,E047,Trucha en corte mariposa,Trucha en corte mariposa
 Bogotá,N/A,Uchuva con cáscara,Uchuva con cáscara
 Bogotá,C085,Uva importada,Uva importada
 Bogotá,C086,Uva Isabela,Uva Isabela
+Bogotá,C085,Uva red globe nacional,Uva red globe nacional
 Bogotá,N/A,Uva verde,Uva verde
 Bogotá,N/A,Yuca llanera,Yuca llanera
 Bogotá,B110,Zanahoria,Zanahoria
@@ -337,14 +366,16 @@ Bucaramanga,B025,Brócoli,Brócoli
 Bucaramanga,N/A,Cachama de cultivo fresca,Cachama de cultivo fresca
 Bucaramanga,L006,Café molido,Café molido
 Bucaramanga,N/A,Calabacín,Calabacín
-Bucaramanga,N/A,"Carne de res, bota","Carne de res, bota"
+Bucaramanga,N/A,"Carne de res, bota",Res bota
 Bucaramanga,F100,"Carne de res, cadera",Cadera res
-Bucaramanga,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Bucaramanga,N/A,"Carne de res, centro de pierna",Res pierna
 Bucaramanga,F099,"Carne de res, chatas",Chatas res
 Bucaramanga,F107,"Carne de res, costilla",Costilla res
-Bucaramanga,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Bucaramanga,N/A,"Carne de res, lomo fino",Res lomo
 Bucaramanga,F118,"Carne de res, muchacho",Muchacho res
-Bucaramanga,N/A,"Carne de res, murillo","Carne de res, murillo"
+Bucaramanga,N/A,"Carne de res, murillo",Res murillo
+Bucaramanga,F100,"Carne de res, pecho",Pechho res
+Bucaramanga,F100,"Carne de res, punta de anca",Punta de anca res
 Bucaramanga,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Bucaramanga,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Bucaramanga,B027,Cebolla cabezona roja importada,Cebolla cabezona roja importada
@@ -382,6 +413,7 @@ Bucaramanga,G008,Leche en polvo,Leche en polvo
 Bucaramanga,B059,Lechuga Batavia,Lechuga Batavia
 Bucaramanga,B060,Lechuga crespa verde,Lechuga crespa verde
 Bucaramanga,T026,Lenteja importada,Lenteja importada
+Bucaramanga,C044,Limón común,Limón común
 Bucaramanga,C044,Limón Tahití,Limón Tahití
 Bucaramanga,E003,Lomitos de atún en lata,Lomitos de atún en lata
 Bucaramanga,C045,Lulo,Lulo
@@ -389,6 +421,8 @@ Bucaramanga,N/A,Maíz pira,Maíz pira
 Bucaramanga,N/A,Mandarina común,Mandarina
 Bucaramanga,C052,Mango Tommy,Mango Tommy
 Bucaramanga,C054,Manzana roja importada,Manzana roja importada
+Bucaramanga,C054,Manzana royal gala importada,Manzana royal
+Bucaramanga,C054,Manzana verde importada,Manzana verde importada
 Bucaramanga,C056,Maracuyá,Maracuyá
 Bucaramanga,D018,Margarina,Margarina
 Bucaramanga,D020,Mayonesa doy pack,Mayonesa doy pack
@@ -400,16 +434,19 @@ Bucaramanga,N/A,Panela cuadrada blanca,Panela cuadrada
 Bucaramanga,N/A,Panela cuadrada morena,Panela cuadrada morena
 Bucaramanga,B071,Papa criolla limpia,Papa criolla lavada
 Bucaramanga,B074,Papa parda pastusa,Papa parda pastusa
+Bucaramanga,B074,Papa única,Papa
 Bucaramanga,C065,Papaya Maradol,Papaya Maradol
 Bucaramanga,N/A,Papaya Paulina,Papaya Paulina
 Bucaramanga,A072,Pastas alimenticias,Pastas alimenticias
 Bucaramanga,C079,Patilla,Sandía
+Bucaramanga,C079,Patilla baby,Patilla baby
 Bucaramanga,F085,Pechuga de pollo,Pechuga de pollo
 Bucaramanga,B077,Pepino cohombro,Pepino cohombro
 Bucaramanga,C071,Pera importada,Pera importada
 Bucaramanga,N/A,Perejil,Perejil
 Bucaramanga,F091,Pierna pernil con rabadilla,Pierna pernil con rabadilla
 Bucaramanga,N/A,Pierna pernil sin rabadilla,Pierna pernil sin rabadilla
+Bucaramanga,F091,Piernas de pollo,Piernas de pollo
 Bucaramanga,B080,Pimentón,Pimentón
 Bucaramanga,N/A,Pimentón verde,Pimentón verde
 Bucaramanga,C072,Piña gold,Piña gold
@@ -433,6 +470,7 @@ Bucaramanga,N/A,Tomate riñón,Tomate
 Bucaramanga,N/A,Tomate Riogrande,Tomate Riogrande
 Bucaramanga,C085,Uva importada,Uva importada
 Bucaramanga,C086,Uva Isabela,Uva Isabela
+Bucaramanga,C085,Uva red globe nacional,Uva red globe nacional
 Bucaramanga,N/A,Vinagre,Vinagre
 Bucaramanga,N/A,Yuca criolla,Yuca
 Bucaramanga,B110,Zanahoria,Zanahoria
@@ -460,19 +498,29 @@ Cali,B025,Brócoli,Brócoli
 Cali,L005,Café instantáneo,Café instantáneo
 Cali,L006,Café molido,Café molido
 Cali,E015,Calamar anillos,Calamar anillos
+Cali,E015,Calamar blanco entero,Calamar
 Cali,E017,Camarón tigre precocido seco,Camarón tigre
 Cali,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
 Cali,F015,"Carne de cerdo, costilla",Costila cerdo
+Cali,F015,"Carne de cerdo, espinazo","Carne de cerdo, espinazo"
 Cali,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
 Cali,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
 Cali,F029,"Carne de cerdo, tocino papada",Papada cerdo
 Cali,F118,"Carne de res, bola de brazo",Bola brazo res
+Cali,F118,"Carne de res, bola de pierna",Bola pierna res
 Cali,F100,"Carne de res, cadera",Cadera res
 Cali,F099,"Carne de res, chatas",Chatas res
 Cali,F107,"Carne de res, costilla",Costilla res
+Cali,F100,"Carne de res, falda",Falda res
 Cali,F098,"Carne de res, morrillo",Morrillo res
+Cali,F118,"Carne de res, muchacho",Muchacho res
+Cali,F100,"Carne de res, pecho",Pechho res
+Cali,F100,"Carne de res, punta de anca",Punta de anca res
+Cali,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Cali,B027,Cebolla cabezona blanca bogotana,Cebolla cabezona blanca
+Cali,B027,Cebolla cabezona roja importada,Cebolla cabezona roja importada
 Cali,B029,Cebolla junca Aquitania,Cebolla junca
+Cali,B029,Cebolla junca Tenerife,Cebolla junca Tenerife
 Cali,L008,Chocolate amargo,Chocolate amargo
 Cali,A053,Chócolo mazorca,Chócolo mazorca
 Cali,N/A,Cilantro,Cilantro
@@ -493,40 +541,58 @@ Cali,B052,Habichuela,Habichuela
 Cali,A040,Harina de trigo,Harina de trigo
 Cali,A034,Harina precocida de maíz,Harina precocida de maíz
 Cali,J004,Huevo rojo A,Huevo A
+Cali,J004,Huevo rojo AA,Huevo AA
+Cali,J004,Huevo rojo extra,Huevo AAA
+Cali,K018,Jugo instantáneo (sobre),Refesco en polvo
 Cali,C042,Kiwi,Kiwi
 Cali,E024,Langostino 16-20,Langostino
+Cali,E024,Langostino U12,Langostino U12
 Cali,G008,Leche en polvo,Leche en polvo
 Cali,B059,Lechuga Batavia,Lechuga Batavia
 Cali,B060,Lechuga crespa verde,Lechuga crespa verde
 Cali,T026,Lenteja importada,Lenteja importada
+Cali,C044,Limón común,Limón común
 Cali,C044,Limón Tahití,Limón Tahití
 Cali,E003,Lomitos de atún en lata,Lomitos de atún en lata
 Cali,C045,Lulo,Lulo
+Cali,A044,Maíz amarillo trillado,Maíz amarillo trillado
 Cali,A046,Maíz blanco trillado,Maíz blanco trillado
 Cali,C050,Mandarina Arrayana,Mandarina Arrayana
+Cali,C050,Mandarina Oneco,Mandarina
 Cali,C051,Mango común,Mango
 Cali,C052,Mango Tommy,Mango Tommy
 Cali,C054,Manzana roja importada,Manzana roja importada
+Cali,C054,Manzana royal gala importada,Manzana royal
+Cali,C054,Manzana verde importada,Manzana verde importada
 Cali,C056,Maracuyá,Maracuyá
 Cali,D018,Margarina,Margarina
 Cali,D020,Mayonesa doy pack,Mayonesa doy pack
 Cali,C060,Melón Cantalup,Melón Cantalup
+Cali,E030,"Merluza, filete importado","Merluza, filete importado"
+Cali,E030,"Merluza, filete nacional","Merluza, filete nacional"
 Cali,C061,Mora de Castilla,Mora de Castilla
 Cali,C062,Naranja Sweet,Naranja Sweet
 Cali,K033,Panela redonda morena,Panela redonda morena
 Cali,B074,Papa capira,Papa capira
 Cali,B071,Papa criolla limpia,Papa criolla lavada
+Cali,B071,Papa criolla sucia,Papa criolla sucia
+Cali,B074,Papa parda pastusa,Papa parda pastusa
+Cali,B074,Papa suprema,Papa suprema
+Cali,B074,Papa única,Papa
 Cali,C065,Papaya Maradol,Papaya Maradol
 Cali,E043,Pargo rojo entero congelado,Pargo
 Cali,A072,Pastas alimenticias,Pastas alimenticias
 Cali,C079,Patilla,Sandía
+Cali,C079,Patilla baby,Patilla baby
 Cali,F085,Pechuga de pollo,Pechuga de pollo
 Cali,B077,Pepino cohombro,Pepino cohombro
 Cali,C071,Pera importada,Pera importada
 Cali,E002,Pescado cabezas,Pescado cabezas
 Cali,F091,Pierna pernil con rabadilla,Pierna pernil con rabadilla
+Cali,F091,Piernas de pollo,Piernas de pollo
 Cali,B080,Pimentón,Pimentón
 Cali,C072,Piña gold,Piña gold
+Cali,C072,Piña manzana,Piña manzana
 Cali,B092,Plátano hartón verde,Plátano verde
 Cali,F077,Pollo entero congelado sin vísceras,Pollo entero sin vísceras
 Cali,G017,Queso campesino,Queso campesino
@@ -541,13 +607,18 @@ Cali,E038,"Salmón, filete congelado",Filete salmón
 Cali,L017,Salsa de tomate doy pack,Salsa de tomate doy pack
 Cali,E039,Sardinas en lata,Sardinas en lata
 Cali,E041,Sierra entera congelada,Sierra
+Cali,E043,Tilapia roja entera congelada,Tilapia
+Cali,E030,"Tilapia, filete congelado","Tilapia, filete congelado"
 Cali,B103,Tomate chonto,Tomate chonto
 Cali,C082,Tomate de árbol,Tomate de árbol
+Cali,B103,Tomate larga vida,Tomate larga vida
 Cali,E047,Trucha en corte mariposa,Trucha en corte mariposa
 Cali,C085,Uva importada,Uva importada
 Cali,C086,Uva Isabela,Uva Isabela
+Cali,C085,Uva red globe nacional,Uva red globe nacional
 Cali,B107,Yuca ICA,Yuca
 Cali,B110,Zanahoria,Zanahoria
+Cali,B110,Zanahoria bogotana,Zanahoria
 Cartagena,N/A,Aceite girasol,Aceite girasol
 Cartagena,D013,Aceite vegetal mezcla,Aceite vegetal mezcla
 Cartagena,N/A,Ají topito dulce,Ají topito
@@ -567,14 +638,18 @@ Cartagena,L005,Café instantáneo,Café instantáneo
 Cartagena,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
 Cartagena,F015,"Carne de cerdo, costilla",Costila cerdo
 Cartagena,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
-Cartagena,N/A,"Carne de cerdo, pernil con hueso","Carne de cerdo, pernil con hueso"
+Cartagena,N/A,"Carne de cerdo, pernil con hueso",Cerdo pernil
 Cartagena,F118,"Carne de res, bola de brazo",Bola brazo res
-Cartagena,N/A,"Carne de res, bota","Carne de res, bota"
+Cartagena,F118,"Carne de res, bola de pierna",Bola pierna res
+Cartagena,N/A,"Carne de res, bota",Res bota
 Cartagena,F100,"Carne de res, cadera",Cadera res
-Cartagena,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Cartagena,N/A,"Carne de res, centro de pierna",Res pierna
 Cartagena,F099,"Carne de res, chatas",Chatas res
 Cartagena,F107,"Carne de res, costilla",Costilla res
-Cartagena,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Cartagena,F100,"Carne de res, falda",Falda res
+Cartagena,N/A,"Carne de res, lomo fino",Res lomo
+Cartagena,F118,"Carne de res, muchacho",Muchacho res
+Cartagena,F100,"Carne de res, punta de anca",Punta de anca res
 Cartagena,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Cartagena,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Cartagena,N/A,Cebolla cabezona roja,Cebolla cabezona roja
@@ -599,9 +674,12 @@ Cartagena,B052,Habichuela,Habichuela
 Cartagena,A040,Harina de trigo,Harina de trigo
 Cartagena,A034,Harina precocida de maíz,Harina precocida de maíz
 Cartagena,J004,Huevo rojo A,Huevo A
+Cartagena,J004,Huevo rojo AA,Huevo AA
 Cartagena,N/A,Jugo de frutas,Jugo de frutas
+Cartagena,K018,Jugo instantáneo (sobre),Refesco en polvo
 Cartagena,B059,Lechuga Batavia,Lechuga Batavia
 Cartagena,T026,Lenteja importada,Lenteja importada
+Cartagena,C044,Limón común,Limón común
 Cartagena,C044,Limón Tahití,Limón Tahití
 Cartagena,C045,Lulo,Lulo
 Cartagena,A044,Maíz amarillo trillado,Maíz amarillo trillado
@@ -609,6 +687,7 @@ Cartagena,A046,Maíz blanco trillado,Maíz blanco trillado
 Cartagena,N/A,Mandarina común,Mandarina
 Cartagena,C052,Mango Tommy,Mango Tommy
 Cartagena,C054,Manzana roja importada,Manzana roja importada
+Cartagena,C054,Manzana verde importada,Manzana verde importada
 Cartagena,D020,Mayonesa doy pack,Mayonesa doy pack
 Cartagena,N/A,Mojarra lora entera fresca,Mojarra
 Cartagena,C061,Mora de Castilla,Mora de Castilla
@@ -668,25 +747,32 @@ Cúcuta,N/A,Cachama de cultivo fresca,Cachama de cultivo fresca
 Cúcuta,L005,Café instantáneo,Café instantáneo
 Cúcuta,L006,Café molido,Café molido
 Cúcuta,N/A,Calabaza,Calabaza
-Cúcuta,N/A,"Carne de cerdo, brazo con hueso","Carne de cerdo, brazo con hueso"
-Cúcuta,N/A,"Carne de cerdo, cabeza de lomo","Carne de cerdo, cabeza de lomo"
+Cúcuta,N/A,"Carne de cerdo, brazo con hueso",Cerdo brazo
+Cúcuta,N/A,"Carne de cerdo, cabeza de lomo",Cerdo lomo
 Cúcuta,F015,"Carne de cerdo, costilla",Costila cerdo
-Cúcuta,N/A,"Carne de cerdo, lomo con hueso","Carne de cerdo, lomo con hueso"
+Cúcuta,F015,"Carne de cerdo, espinazo","Carne de cerdo, espinazo"
+Cúcuta,N/A,"Carne de cerdo, lomo con hueso",Cerdo lomo
 Cúcuta,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
-Cúcuta,N/A,"Carne de cerdo, pernil con hueso","Carne de cerdo, pernil con hueso"
+Cúcuta,N/A,"Carne de cerdo, pernil con hueso",Cerdo pernil
 Cúcuta,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
 Cúcuta,F029,"Carne de cerdo, tocino papada",Papada cerdo
 Cúcuta,F118,"Carne de res, bola de brazo",Bola brazo res
-Cúcuta,N/A,"Carne de res, bota","Carne de res, bota"
+Cúcuta,F118,"Carne de res, bola de pierna",Bola pierna res
+Cúcuta,N/A,"Carne de res, bota",Res bota
 Cúcuta,F100,"Carne de res, cadera",Cadera res
-Cúcuta,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Cúcuta,N/A,"Carne de res, centro de pierna",Res pierna
 Cúcuta,F099,"Carne de res, chatas",Chatas res
 Cúcuta,F107,"Carne de res, costilla",Costilla res
-Cúcuta,N/A,"Carne de res, lomo de brazo","Carne de res, lomo de brazo"
-Cúcuta,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Cúcuta,F100,"Carne de res, falda",Falda res
+Cúcuta,N/A,"Carne de res, lomo de brazo",Res brazo
+Cúcuta,N/A,"Carne de res, lomo fino",Res lomo
 Cúcuta,F098,"Carne de res, morrillo",Morrillo res
-Cúcuta,N/A,"Carne de res, murillo","Carne de res, murillo"
-Cúcuta,N/A,"Carne de res, paletero","Carne de res, paletero"
+Cúcuta,F118,"Carne de res, muchacho",Muchacho res
+Cúcuta,N/A,"Carne de res, murillo",Res murillo
+Cúcuta,N/A,"Carne de res, paletero",Res paletero
+Cúcuta,F100,"Carne de res, pecho",Pechho res
+Cúcuta,F100,"Carne de res, punta de anca",Punta de anca res
+Cúcuta,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Cúcuta,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Cúcuta,N/A,Cebolla cabezona roja,Cebolla cabezona roja
 Cúcuta,N/A,Cebolla junca Berlín,Cebolla junca
@@ -714,12 +800,15 @@ Cúcuta,B052,Habichuela,Habichuela
 Cúcuta,A040,Harina de trigo,Harina de trigo
 Cúcuta,A034,Harina precocida de maíz,Harina precocida de maíz
 Cúcuta,J004,Huevo rojo A,Huevo A
+Cúcuta,J004,Huevo rojo AA,Huevo AA
 Cúcuta,N/A,Huevo rojo B,Huevo rojo B
+Cúcuta,J004,Huevo rojo extra,Huevo AAA
 Cúcuta,C042,Kiwi,Kiwi
 Cúcuta,G008,Leche en polvo,Leche en polvo
 Cúcuta,B059,Lechuga Batavia,Lechuga Batavia
 Cúcuta,B060,Lechuga crespa verde,Lechuga crespa verde
 Cúcuta,T026,Lenteja importada,Lenteja importada
+Cúcuta,C044,Limón común,Limón común
 Cúcuta,C044,Limón Tahití,Limón Tahití
 Cúcuta,E003,Lomitos de atún en lata,Lomitos de atún en lata
 Cúcuta,C045,Lulo,Lulo
@@ -729,6 +818,8 @@ Cúcuta,N/A,Mandarina común,Mandarina
 Cúcuta,C052,Mango Tommy,Mango Tommy
 Cúcuta,N/A,Manteca,Manteca
 Cúcuta,C054,Manzana roja importada,Manzana roja importada
+Cúcuta,C054,Manzana royal gala importada,Manzana royal
+Cúcuta,C054,Manzana verde importada,Manzana verde importada
 Cúcuta,C056,Maracuyá,Maracuyá
 Cúcuta,D020,Mayonesa doy pack,Mayonesa doy pack
 Cúcuta,C060,Melón Cantalup,Melón Cantalup
@@ -746,11 +837,12 @@ Cúcuta,B077,Pepino cohombro,Pepino cohombro
 Cúcuta,C071,Pera importada,Pera importada
 Cúcuta,N/A,Perejil,Perejil
 Cúcuta,F091,Pierna pernil con rabadilla,Pierna pernil con rabadilla
+Cúcuta,F091,Piernas de pollo,Piernas de pollo
 Cúcuta,B080,Pimentón,Pimentón
 Cúcuta,C072,Piña gold,Piña gold
 Cúcuta,N/A,Piña perolera,Piña perolera
 Cúcuta,N/A,Pitahaya,Pitahaya
-Cúcuta,N/A,Plátano hartón maduro,Plátano hartón maduro
+Cúcuta,N/A,Plátano hartón maduro,Plátano maduro
 Cúcuta,B092,Plátano hartón verde,Plátano verde
 Cúcuta,N/A,Pollo entero fresco sin vísceras,Pollo entero fresco sin vísceras
 Cúcuta,G017,Queso campesino,Queso campesino
@@ -773,9 +865,11 @@ Cúcuta,C086,Uva Isabela,Uva Isabela
 Cúcuta,N/A,Vinagre,Vinagre
 Cúcuta,N/A,Yuca criolla,Yuca
 Cúcuta,B110,Zanahoria,Zanahoria
+Cúcuta,B110,Zanahoria bogotana,Zanahoria
 Ibagué,D013,Aceite vegetal mezcla,Aceite vegetal mezcla
 Ibagué,N/A,Acelga,Acelga
 Ibagué,C002,Aguacate común,Aguacate común
+Ibagué,C002,Aguacate papelillo,Aguacate papelillo
 Ibagué,B006,Ahuyama,Ahuyama
 Ibagué,N/A,Ahuyamín (Sakata),Ahuyamín (Sakata)
 Ibagué,N/A,Ajo importado,Ajo importado
@@ -797,25 +891,31 @@ Ibagué,B025,Brócoli,Brócoli
 Ibagué,N/A,Cachama de cultivo fresca,Cachama de cultivo fresca
 Ibagué,L006,Café molido,Café molido
 Ibagué,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
-Ibagué,N/A,"Carne de cerdo, cabeza de lomo","Carne de cerdo, cabeza de lomo"
+Ibagué,N/A,"Carne de cerdo, cabeza de lomo",Cerdo lomo
 Ibagué,F015,"Carne de cerdo, costilla",Costila cerdo
 Ibagué,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
-Ibagué,N/A,"Carne de cerdo, pernil con hueso","Carne de cerdo, pernil con hueso"
+Ibagué,N/A,"Carne de cerdo, pernil con hueso",Cerdo pernil
 Ibagué,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
-Ibagué,N/A,"Carne de cerdo, tocino barriga","Carne de cerdo, tocino barriga"
+Ibagué,N/A,"Carne de cerdo, tocino barriga",Cerdo tocino
 Ibagué,F029,"Carne de cerdo, tocino papada",Papada cerdo
 Ibagué,N/A,"Carne de res molida, murillo","Carne de res molida, murillo"
 Ibagué,F118,"Carne de res, bola de brazo",Bola brazo res
-Ibagué,N/A,"Carne de res, bota","Carne de res, bota"
+Ibagué,F118,"Carne de res, bola de pierna",Bola pierna res
+Ibagué,N/A,"Carne de res, bota",Res bota
 Ibagué,F100,"Carne de res, cadera",Cadera res
-Ibagué,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Ibagué,N/A,"Carne de res, centro de pierna",Res pierna
 Ibagué,F099,"Carne de res, chatas",Chatas res
 Ibagué,N/A,"Carne de res, cogote","Carne de res, cogote"
 Ibagué,F107,"Carne de res, costilla",Costilla res
-Ibagué,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Ibagué,F100,"Carne de res, falda",Falda res
+Ibagué,N/A,"Carne de res, lomo fino",Res lomo
 Ibagué,F098,"Carne de res, morrillo",Morrillo res
-Ibagué,N/A,"Carne de res, murillo","Carne de res, murillo"
-Ibagué,N/A,"Carne de res, paletero","Carne de res, paletero"
+Ibagué,F118,"Carne de res, muchacho",Muchacho res
+Ibagué,N/A,"Carne de res, murillo",Res murillo
+Ibagué,N/A,"Carne de res, paletero",Res paletero
+Ibagué,F100,"Carne de res, pecho",Pechho res
+Ibagué,F100,"Carne de res, punta de anca",Punta de anca res
+Ibagué,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Ibagué,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Ibagué,B029,Cebolla junca Aquitania,Cebolla junca
 Ibagué,L008,Chocolate amargo,Chocolate amargo
@@ -838,18 +938,26 @@ Ibagué,B052,Habichuela,Habichuela
 Ibagué,A040,Harina de trigo,Harina de trigo
 Ibagué,A034,Harina precocida de maíz,Harina precocida de maíz
 Ibagué,J004,Huevo rojo A,Huevo A
+Ibagué,J004,Huevo rojo AA,Huevo AA
 Ibagué,N/A,Huevo rojo B,Huevo rojo B
+Ibagué,J004,Huevo rojo extra,Huevo AAA
+Ibagué,K018,Jugo instantáneo (sobre),Refesco en polvo
 Ibagué,C042,Kiwi,Kiwi
 Ibagué,G008,Leche en polvo,Leche en polvo
 Ibagué,B059,Lechuga Batavia,Lechuga Batavia
 Ibagué,T026,Lenteja importada,Lenteja importada
+Ibagué,C044,Limón común,Limón común
+Ibagué,C044,Limón mandarino,Limón mandarino
 Ibagué,C044,Limón Tahití,Limón Tahití
 Ibagué,C045,Lulo,Lulo
 Ibagué,A046,Maíz blanco trillado,Maíz blanco trillado
 Ibagué,C050,Mandarina Arrayana,Mandarina Arrayana
+Ibagué,C050,Mandarina Oneco,Mandarina
 Ibagué,C052,Mango Tommy,Mango Tommy
 Ibagué,N/A,Manteca,Manteca
 Ibagué,C054,Manzana roja importada,Manzana roja importada
+Ibagué,C054,Manzana royal gala importada,Manzana royal
+Ibagué,C054,Manzana verde importada,Manzana verde importada
 Ibagué,C056,Maracuyá,Maracuyá
 Ibagué,D018,Margarina,Margarina
 Ibagué,D020,Mayonesa doy pack,Mayonesa doy pack
@@ -871,7 +979,7 @@ Ibagué,N/A,Perejil,Perejil
 Ibagué,F091,Pierna pernil con rabadilla,Pierna pernil con rabadilla
 Ibagué,B080,Pimentón,Pimentón
 Ibagué,C072,Piña gold,Piña gold
-Ibagué,N/A,Plátano hartón maduro,Plátano hartón maduro
+Ibagué,N/A,Plátano hartón maduro,Plátano maduro
 Ibagué,B092,Plátano hartón verde,Plátano verde
 Ibagué,N/A,Pollo entero fresco sin vísceras,Pollo entero fresco sin vísceras
 Ibagué,G017,Queso campesino,Queso campesino
@@ -903,18 +1011,24 @@ Manizales,E010,Bocachico importado congelado,Bocachico
 Manizales,B025,Brócoli,Brócoli
 Manizales,L006,Café molido,Café molido
 Manizales,F015,"Carne de cerdo, costilla",Costila cerdo
+Manizales,F015,"Carne de cerdo, espinazo","Carne de cerdo, espinazo"
 Manizales,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
 Manizales,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
 Manizales,N/A,"Carne de cerdo, tocineta plancha",Cerdo tocineta
 Manizales,F029,"Carne de cerdo, tocino papada",Papada cerdo
 Manizales,F118,"Carne de res, bola de brazo",Bola brazo res
-Manizales,N/A,"Carne de res, bota","Carne de res, bota"
+Manizales,F118,"Carne de res, bola de pierna",Bola pierna res
+Manizales,N/A,"Carne de res, bota",Res bota
 Manizales,F100,"Carne de res, cadera",Cadera res
-Manizales,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Manizales,N/A,"Carne de res, centro de pierna",Res pierna
 Manizales,F107,"Carne de res, costilla",Costilla res
-Manizales,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
-Manizales,N/A,"Carne de res, murillo","Carne de res, murillo"
-Manizales,N/A,"Carne de res, paletero","Carne de res, paletero"
+Manizales,F100,"Carne de res, falda",Falda res
+Manizales,N/A,"Carne de res, lomo fino",Res lomo
+Manizales,F118,"Carne de res, muchacho",Muchacho res
+Manizales,N/A,"Carne de res, murillo",Res murillo
+Manizales,N/A,"Carne de res, paletero",Res paletero
+Manizales,F100,"Carne de res, pecho",Pechho res
+Manizales,F100,"Carne de res, punta de anca",Punta de anca res
 Manizales,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Manizales,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Manizales,N/A,Cebolla junca,Cebolla junca
@@ -952,6 +1066,8 @@ Manizales,C050,Mandarina Oneco,Mandarina
 Manizales,C052,Mango Tommy,Mango Tommy
 Manizales,N/A,Manteca,Manteca
 Manizales,C054,Manzana roja importada,Manzana roja importada
+Manizales,C054,Manzana royal gala importada,Manzana royal
+Manizales,C054,Manzana verde importada,Manzana verde importada
 Manizales,C056,Maracuyá,Maracuyá
 Manizales,D018,Margarina,Margarina
 Manizales,D020,Mayonesa doy pack,Mayonesa doy pack
@@ -961,7 +1077,9 @@ Manizales,N/A,Naranja Valencia,Naranja Valencia
 Manizales,K033,Panela redonda morena,Panela redonda morena
 Manizales,B074,Papa capira,Papa capira
 Manizales,B071,Papa criolla limpia,Papa criolla lavada
+Manizales,B074,Papa parda pastusa,Papa parda pastusa
 Manizales,N/A,Papa R-12 negra,Papa R-12 negra
+Manizales,B074,Papa única,Papa
 Manizales,C065,Papaya Maradol,Papaya Maradol
 Manizales,F085,Pechuga de pollo,Pechuga de pollo
 Manizales,B077,Pepino cohombro,Pepino cohombro
@@ -1000,6 +1118,7 @@ Medellin,N/A,Ajo,Ajo
 Medellin,N/A,Ajo importado,Ajo importado
 Medellin,N/A,Alas de pollo sin costillar,Alas de pollo sin costillar
 Medellin,E001,Almejas con concha,Almejas con concha
+Medellin,E001,Almejas sin concha,Almejas sin concha
 Medellin,B014,Apio,Apio
 Medellin,N/A,Arracacha blanca,Arracacha
 Medellin,A010,Arroz de primera,Arroz de primera
@@ -1031,20 +1150,27 @@ Medellin,E015,Calamar anillos,Calamar anillos
 Medellin,E017,Camarón tigre precocido seco,Camarón tigre
 Medellin,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
 Medellin,F015,"Carne de cerdo, costilla",Costila cerdo
+Medellin,F015,"Carne de cerdo, espinazo","Carne de cerdo, espinazo"
 Medellin,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
 Medellin,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
-Medellin,N/A,"Carne de cerdo, tocino barriga","Carne de cerdo, tocino barriga"
+Medellin,N/A,"Carne de cerdo, tocino barriga",Cerdo tocino
 Medellin,F029,"Carne de cerdo, tocino papada",Papada cerdo
 Medellin,F118,"Carne de res, bola de brazo",Bola brazo res
-Medellin,N/A,"Carne de res, bota","Carne de res, bota"
+Medellin,F118,"Carne de res, bola de pierna",Bola pierna res
+Medellin,N/A,"Carne de res, bota",Res bota
 Medellin,F100,"Carne de res, cadera",Cadera res
-Medellin,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Medellin,N/A,"Carne de res, centro de pierna",Res pierna
 Medellin,F099,"Carne de res, chatas",Chatas res
 Medellin,F107,"Carne de res, costilla",Costilla res
-Medellin,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Medellin,F100,"Carne de res, falda",Falda res
+Medellin,N/A,"Carne de res, lomo fino",Res lomo
 Medellin,F098,"Carne de res, morrillo",Morrillo res
-Medellin,N/A,"Carne de res, murillo","Carne de res, murillo"
-Medellin,N/A,"Carne de res, paletero","Carne de res, paletero"
+Medellin,F118,"Carne de res, muchacho",Muchacho res
+Medellin,N/A,"Carne de res, murillo",Res murillo
+Medellin,N/A,"Carne de res, paletero",Res paletero
+Medellin,F100,"Carne de res, pecho",Pechho res
+Medellin,F100,"Carne de res, punta de anca",Punta de anca res
+Medellin,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Medellin,N/A,Cazuela de mariscos (paquete),Cazuela de mariscos (paquete)
 Medellin,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Medellin,B027,Cebolla cabezona roja importada,Cebolla cabezona roja importada
@@ -1086,13 +1212,19 @@ Medellin,B052,Habichuela,Habichuela
 Medellin,A040,Harina de trigo,Harina de trigo
 Medellin,N/A,Higo,Higo
 Medellin,J004,Huevo rojo A,Huevo A
+Medellin,J004,Huevo rojo AA,Huevo AA
 Medellin,N/A,Huevo rojo B,Huevo rojo B
+Medellin,J004,Huevo rojo extra,Huevo AAA
+Medellin,K018,Jugo instantáneo (sobre),Refesco en polvo
 Medellin,C042,Kiwi,Kiwi
 Medellin,E024,Langostino 16-20,Langostino
+Medellin,E024,Langostino U12,Langostino U12
 Medellin,G008,Leche en polvo,Leche en polvo
 Medellin,B059,Lechuga Batavia,Lechuga Batavia
 Medellin,B060,Lechuga crespa verde,Lechuga crespa verde
 Medellin,T026,Lenteja importada,Lenteja importada
+Medellin,C044,Limón común,Limón común
+Medellin,C044,Limón mandarino,Limón mandarino
 Medellin,C044,Limón Tahití,Limón Tahití
 Medellin,E003,Lomitos de atún en lata,Lomitos de atún en lata
 Medellin,C045,Lulo,Lulo
@@ -1109,11 +1241,14 @@ Medellin,C052,Mango Tommy,Mango Tommy
 Medellin,N/A,Mango Yulima,Mango Yulima
 Medellin,N/A,Manzana nacional,Manzana nacional
 Medellin,C054,Manzana roja importada,Manzana roja importada
+Medellin,C054,Manzana royal gala importada,Manzana royal
+Medellin,C054,Manzana verde importada,Manzana verde importada
 Medellin,C056,Maracuyá,Maracuyá
 Medellin,N/A,Maracuyá antioqueño,Maracuyá
 Medellin,D018,Margarina,Margarina
 Medellin,D020,Mayonesa doy pack,Mayonesa doy pack
 Medellin,C060,Melón Cantalup,Melón Cantalup
+Medellin,E030,"Merluza, filete importado","Merluza, filete importado"
 Medellin,C061,Mora de Castilla,Mora de Castilla
 Medellin,N/A,Muslos de pollo con rabadilla,Muslos de pollo con rabadilla
 Medellin,N/A,Muslos de pollo sin rabadilla,Muslos de pollo sin rabadilla
@@ -1132,6 +1267,7 @@ Medellin,N/A,Papaya tainung,Papaya tainung
 Medellin,E043,Pargo rojo entero congelado,Pargo
 Medellin,A072,Pastas alimenticias,Pastas alimenticias
 Medellin,C079,Patilla,Sandía
+Medellin,C079,Patilla baby,Patilla baby
 Medellin,F085,Pechuga de pollo,Pechuga de pollo
 Medellin,B077,Pepino cohombro,Pepino cohombro
 Medellin,N/A,Pepino de rellenar,Pepino de rellenar
@@ -1139,6 +1275,7 @@ Medellin,C071,Pera importada,Pera importada
 Medellin,N/A,Pera nacional,Pera nacional
 Medellin,N/A,Perejil,Perejil
 Medellin,F091,Pierna pernil con rabadilla,Pierna pernil con rabadilla
+Medellin,F091,Piernas de pollo,Piernas de pollo
 Medellin,B080,Pimentón,Pimentón
 Medellin,N/A,Pimentón verde,Pimentón verde
 Medellin,C072,Piña gold,Piña gold
@@ -1146,7 +1283,7 @@ Medellin,N/A,Pitahaya,Pitahaya
 Medellin,N/A,Plátano comino,Plátano comino
 Medellin,N/A,Plátano dominico verde,Plátano verde
 Medellin,N/A,Plátano guineo,Plátano guineo
-Medellin,N/A,Plátano hartón maduro,Plátano hartón maduro
+Medellin,N/A,Plátano hartón maduro,Plátano maduro
 Medellin,B092,Plátano hartón verde,Plátano verde
 Medellin,N/A,Plátano hartón verde Eje Cafetero,Plátano verde
 Medellin,F077,Pollo entero congelado sin vísceras,Pollo entero sin vísceras
@@ -1164,6 +1301,8 @@ Medellin,E038,"Salmón, filete congelado",Filete salmón
 Medellin,L017,Salsa de tomate doy pack,Salsa de tomate doy pack
 Medellin,E039,Sardinas en lata,Sardinas en lata
 Medellin,E041,Sierra entera congelada,Sierra
+Medellin,E043,Tilapia roja entera congelada,Tilapia
+Medellin,E030,"Tilapia, filete congelado","Tilapia, filete congelado"
 Medellin,N/A,"Tilapia, lomitos","Tilapia, lomitos"
 Medellin,N/A,Tomate chonto regional,Tomate chonto regional
 Medellin,C082,Tomate de árbol,Tomate de árbol
@@ -1172,6 +1311,7 @@ Medellin,E047,Trucha en corte mariposa,Trucha en corte mariposa
 Medellin,N/A,Uchuva con cáscara,Uchuva con cáscara
 Medellin,C085,Uva importada,Uva importada
 Medellin,C086,Uva Isabela,Uva Isabela
+Medellin,C085,Uva red globe nacional,Uva red globe nacional
 Medellin,N/A,Uva verde,Uva verde
 Medellin,N/A,Yuca chirosa,Yuca
 Medellin,N/A,Yuca criolla,Yuca
@@ -1195,25 +1335,32 @@ Montería,N/A,Bocachico criollo fresco,Bocachico criollo fresco
 Montería,E010,Bocachico importado congelado,Bocachico
 Montería,N/A,Cachama de cultivo fresca,Cachama de cultivo fresca
 Montería,L006,Café molido,Café molido
-Montería,N/A,"Carne de cerdo, brazo con hueso","Carne de cerdo, brazo con hueso"
+Montería,N/A,"Carne de cerdo, brazo con hueso",Cerdo brazo
 Montería,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
 Montería,F015,"Carne de cerdo, costilla",Costila cerdo
-Montería,N/A,"Carne de cerdo, lomo con hueso","Carne de cerdo, lomo con hueso"
+Montería,F015,"Carne de cerdo, espinazo","Carne de cerdo, espinazo"
+Montería,N/A,"Carne de cerdo, lomo con hueso",Cerdo lomo
 Montería,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
-Montería,N/A,"Carne de cerdo, pernil con hueso","Carne de cerdo, pernil con hueso"
+Montería,N/A,"Carne de cerdo, pernil con hueso",Cerdo pernil
 Montería,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
 Montería,F118,"Carne de res, bola de brazo",Bola brazo res
-Montería,N/A,"Carne de res, bota","Carne de res, bota"
+Montería,F118,"Carne de res, bola de pierna",Bola pierna res
+Montería,N/A,"Carne de res, bota",Res bota
 Montería,F100,"Carne de res, cadera",Cadera res
-Montería,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Montería,N/A,"Carne de res, centro de pierna",Res pierna
 Montería,F099,"Carne de res, chatas",Chatas res
 Montería,N/A,"Carne de res, cogote","Carne de res, cogote"
 Montería,F107,"Carne de res, costilla",Costilla res
-Montería,N/A,"Carne de res, lomo de brazo","Carne de res, lomo de brazo"
-Montería,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Montería,F100,"Carne de res, falda",Falda res
+Montería,N/A,"Carne de res, lomo de brazo",Res brazo
+Montería,N/A,"Carne de res, lomo fino",Res lomo
 Montería,F098,"Carne de res, morrillo",Morrillo res
-Montería,N/A,"Carne de res, murillo","Carne de res, murillo"
-Montería,N/A,"Carne de res, paletero","Carne de res, paletero"
+Montería,F118,"Carne de res, muchacho",Muchacho res
+Montería,N/A,"Carne de res, murillo",Res murillo
+Montería,N/A,"Carne de res, paletero",Res paletero
+Montería,F100,"Carne de res, pecho",Pechho res
+Montería,F100,"Carne de res, punta de anca",Punta de anca res
+Montería,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Montería,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Montería,B027,Cebolla cabezona roja importada,Cebolla cabezona roja importada
 Montería,N/A,Cebolla cabezona roja peruana,Cebolla cabezona roja
@@ -1236,6 +1383,7 @@ Montería,N/A,Habichuela larga,Habichuela larga
 Montería,A040,Harina de trigo,Harina de trigo
 Montería,A034,Harina precocida de maíz,Harina precocida de maíz
 Montería,J004,Huevo rojo A,Huevo A
+Montería,J004,Huevo rojo AA,Huevo AA
 Montería,N/A,Huevo rojo B,Huevo rojo B
 Montería,K018,Jugo instantáneo (sobre),Refesco en polvo
 Montería,B059,Lechuga Batavia,Lechuga Batavia
@@ -1244,12 +1392,15 @@ Montería,C044,Limón común,Limón común
 Montería,E003,Lomitos de atún en lata,Lomitos de atún en lata
 Montería,C045,Lulo,Lulo
 Montería,N/A,Maíz amarillo cáscara,Maíz amarillo cáscara
+Montería,A044,Maíz amarillo trillado,Maíz amarillo trillado
 Montería,A046,Maíz blanco trillado,Maíz blanco trillado
 Montería,N/A,Maíz pira,Maíz pira
 Montería,N/A,Mandarina común,Mandarina
 Montería,C050,Mandarina Oneco,Mandarina
 Montería,C052,Mango Tommy,Mango Tommy
 Montería,C054,Manzana roja importada,Manzana roja importada
+Montería,C054,Manzana royal gala importada,Manzana royal
+Montería,C054,Manzana verde importada,Manzana verde importada
 Montería,N/A,Maracuyá antioqueño,Maracuyá
 Montería,N/A,Menudencias de pollo,Menudencias de pollo
 Montería,N/A,Mojarra lora entera fresca,Mojarra
@@ -1303,15 +1454,22 @@ Pasto,T003,Arveja verde seca importada,Arveja
 Pasto,B025,Brócoli,Brócoli
 Pasto,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
 Pasto,F015,"Carne de cerdo, costilla",Costila cerdo
+Pasto,F015,"Carne de cerdo, espinazo","Carne de cerdo, espinazo"
 Pasto,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
 Pasto,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
 Pasto,F118,"Carne de res, bola de brazo",Bola brazo res
+Pasto,F118,"Carne de res, bola de pierna",Bola pierna res
 Pasto,F100,"Carne de res, cadera",Cadera res
 Pasto,F099,"Carne de res, chatas",Chatas res
 Pasto,F107,"Carne de res, costilla",Costilla res
-Pasto,N/A,"Carne de res, lomo de brazo","Carne de res, lomo de brazo"
-Pasto,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Pasto,F100,"Carne de res, falda",Falda res
+Pasto,N/A,"Carne de res, lomo de brazo",Res brazo
+Pasto,N/A,"Carne de res, lomo fino",Res lomo
 Pasto,F098,"Carne de res, morrillo",Morrillo res
+Pasto,F118,"Carne de res, muchacho",Muchacho res
+Pasto,F100,"Carne de res, pecho",Pechho res
+Pasto,F100,"Carne de res, punta de anca",Punta de anca res
+Pasto,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Pasto,N/A,Cebolla cabezona blanca pastusa,Cebolla cabezona blanca
 Pasto,N/A,Cebolla junca pastusa,Cebolla junca
 Pasto,A053,Chócolo mazorca,Chócolo mazorca
@@ -1327,6 +1485,9 @@ Pasto,B052,Habichuela,Habichuela
 Pasto,A040,Harina de trigo,Harina de trigo
 Pasto,A034,Harina precocida de maíz,Harina precocida de maíz
 Pasto,J004,Huevo rojo A,Huevo A
+Pasto,J004,Huevo rojo AA,Huevo AA
+Pasto,J004,Huevo rojo extra,Huevo AAA
+Pasto,K018,Jugo instantáneo (sobre),Refesco en polvo
 Pasto,G008,Leche en polvo,Leche en polvo
 Pasto,B059,Lechuga Batavia,Lechuga Batavia
 Pasto,T026,Lenteja importada,Lenteja importada
@@ -1334,6 +1495,7 @@ Pasto,C044,Limón Tahití,Limón Tahití
 Pasto,C045,Lulo,Lulo
 Pasto,C052,Mango Tommy,Mango Tommy
 Pasto,C054,Manzana royal gala importada,Manzana royal
+Pasto,C054,Manzana verde importada,Manzana verde importada
 Pasto,C056,Maracuyá,Maracuyá
 Pasto,C060,Melón Cantalup,Melón Cantalup
 Pasto,N/A,Menudencias de pollo,Menudencias de pollo
@@ -1345,6 +1507,7 @@ Pasto,B071,Papa criolla sucia,Papa criolla sucia
 Pasto,N/A,Papa ICA-Huila,Papa ICA-Huila
 Pasto,N/A,Papa Morasurco,Papa
 Pasto,N/A,Papa superior,Papa superior
+Pasto,B074,Papa única,Papa
 Pasto,C065,Papaya Maradol,Papaya Maradol
 Pasto,C079,Patilla,Sandía
 Pasto,F085,Pechuga de pollo,Pechuga de pollo
@@ -1389,20 +1552,27 @@ Pereira,L006,Café molido,Café molido
 Pereira,N/A,Camarón tití precocido seco,Camarón tití precocido seco
 Pereira,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
 Pereira,F015,"Carne de cerdo, costilla",Costila cerdo
+Pereira,F015,"Carne de cerdo, espinazo","Carne de cerdo, espinazo"
 Pereira,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
 Pereira,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
-Pereira,N/A,"Carne de cerdo, tocino barriga","Carne de cerdo, tocino barriga"
+Pereira,N/A,"Carne de cerdo, tocino barriga",Cerdo tocino
 Pereira,F029,"Carne de cerdo, tocino papada",Papada cerdo
 Pereira,F118,"Carne de res, bola de brazo",Bola brazo res
+Pereira,F118,"Carne de res, bola de pierna",Bola pierna res
 Pereira,F100,"Carne de res, cadera",Cadera res
-Pereira,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Pereira,N/A,"Carne de res, centro de pierna",Res pierna
 Pereira,F099,"Carne de res, chatas",Chatas res
 Pereira,N/A,"Carne de res, cogote","Carne de res, cogote"
 Pereira,F107,"Carne de res, costilla",Costilla res
-Pereira,N/A,"Carne de res, lomo de brazo","Carne de res, lomo de brazo"
-Pereira,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Pereira,F100,"Carne de res, falda",Falda res
+Pereira,N/A,"Carne de res, lomo de brazo",Res brazo
+Pereira,N/A,"Carne de res, lomo fino",Res lomo
 Pereira,F098,"Carne de res, morrillo",Morrillo res
-Pereira,N/A,"Carne de res, paletero","Carne de res, paletero"
+Pereira,F118,"Carne de res, muchacho",Muchacho res
+Pereira,N/A,"Carne de res, paletero",Res paletero
+Pereira,F100,"Carne de res, pecho",Pechho res
+Pereira,F100,"Carne de res, punta de anca",Punta de anca res
+Pereira,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Pereira,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Pereira,N/A,Cebolla cabezona roja,Cebolla cabezona roja
 Pereira,N/A,Cebolla junca,Cebolla junca
@@ -1435,6 +1605,8 @@ Pereira,C042,Kiwi,Kiwi
 Pereira,G008,Leche en polvo,Leche en polvo
 Pereira,B059,Lechuga Batavia,Lechuga Batavia
 Pereira,T026,Lenteja importada,Lenteja importada
+Pereira,C044,Limón común,Limón común
+Pereira,C044,Limón mandarino,Limón mandarino
 Pereira,C044,Limón Tahití,Limón Tahití
 Pereira,E003,Lomitos de atún en lata,Lomitos de atún en lata
 Pereira,C045,Lulo,Lulo
@@ -1446,6 +1618,8 @@ Pereira,N/A,Mango manzano,Mango manzano
 Pereira,C052,Mango Tommy,Mango Tommy
 Pereira,N/A,Mango Yulima,Mango Yulima
 Pereira,C054,Manzana roja importada,Manzana roja importada
+Pereira,C054,Manzana royal gala importada,Manzana royal
+Pereira,C054,Manzana verde importada,Manzana verde importada
 Pereira,C056,Maracuyá,Maracuyá
 Pereira,D018,Margarina,Margarina
 Pereira,C060,Melón Cantalup,Melón Cantalup
@@ -1456,11 +1630,14 @@ Pereira,K033,Panela redonda morena,Panela redonda morena
 Pereira,B074,Papa capira,Papa capira
 Pereira,B071,Papa criolla limpia,Papa criolla lavada
 Pereira,N/A,Papa nevada,Papa
+Pereira,B074,Papa parda pastusa,Papa parda pastusa
 Pereira,N/A,Papa rubí,Papa rubí
+Pereira,B074,Papa única,Papa
 Pereira,C065,Papaya Maradol,Papaya Maradol
 Pereira,E043,Pargo rojo entero congelado,Pargo
 Pereira,A072,Pastas alimenticias,Pastas alimenticias
 Pereira,C079,Patilla,Sandía
+Pereira,C079,Patilla baby,Patilla baby
 Pereira,B077,Pepino cohombro,Pepino cohombro
 Pereira,C071,Pera importada,Pera importada
 Pereira,E002,Pescado cabezas,Pescado cabezas
@@ -1469,7 +1646,7 @@ Pereira,C072,Piña gold,Piña gold
 Pereira,N/A,Pitahaya,Pitahaya
 Pereira,N/A,Plátano dominico hartón maduro,Plátano maduro
 Pereira,N/A,Plátano dominico hartón verde,Plátano verde
-Pereira,N/A,Plátano hartón maduro,Plátano hartón maduro
+Pereira,N/A,Plátano hartón maduro,Plátano maduro
 Pereira,B092,Plátano hartón verde,Plátano verde
 Pereira,N/A,Remolacha,Remolacha
 Pereira,B099,Repollo blanco,Repollo blanco
@@ -1478,6 +1655,7 @@ Pereira,L015,Sal yodada,Sal yodada
 Pereira,E039,Sardinas en lata,Sardinas en lata
 Pereira,E041,Sierra entera congelada,Sierra
 Pereira,N/A,Tangelo,Tangelo
+Pereira,E043,Tilapia roja entera congelada,Tilapia
 Pereira,B103,Tomate chonto,Tomate chonto
 Pereira,C082,Tomate de árbol,Tomate de árbol
 Pereira,N/A,Tomate riñón valluno,Tomate chonto
@@ -1514,19 +1692,22 @@ Villavicencio,N/A,Cachama de cultivo fresca,Cachama de cultivo fresca
 Villavicencio,L006,Café molido,Café molido
 Villavicencio,N/A,Calabaza,Calabaza
 Villavicencio,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
-Villavicencio,N/A,"Carne de cerdo, cabeza de lomo","Carne de cerdo, cabeza de lomo"
+Villavicencio,N/A,"Carne de cerdo, cabeza de lomo",Cerdo lomo
 Villavicencio,F015,"Carne de cerdo, costilla",Costila cerdo
-Villavicencio,N/A,"Carne de cerdo, pernil con hueso","Carne de cerdo, pernil con hueso"
+Villavicencio,N/A,"Carne de cerdo, pernil con hueso",Cerdo pernil
 Villavicencio,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
 Villavicencio,F118,"Carne de res, bola de pierna",Bola pierna res
-Villavicencio,N/A,"Carne de res, bota","Carne de res, bota"
+Villavicencio,N/A,"Carne de res, bota",Res bota
 Villavicencio,F100,"Carne de res, cadera",Cadera res
-Villavicencio,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Villavicencio,N/A,"Carne de res, centro de pierna",Res pierna
 Villavicencio,F099,"Carne de res, chatas",Chatas res
 Villavicencio,F107,"Carne de res, costilla",Costilla res
-Villavicencio,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Villavicencio,N/A,"Carne de res, lomo fino",Res lomo
 Villavicencio,F098,"Carne de res, morrillo",Morrillo res
-Villavicencio,N/A,"Carne de res, murillo","Carne de res, murillo"
+Villavicencio,F118,"Carne de res, muchacho",Muchacho res
+Villavicencio,N/A,"Carne de res, murillo",Res murillo
+Villavicencio,F100,"Carne de res, punta de anca",Punta de anca res
+Villavicencio,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Villavicencio,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Villavicencio,N/A,Cebolla junca,Cebolla junca
 Villavicencio,N/A,Chocolate dulce,Chocolate dulce
@@ -1550,12 +1731,17 @@ Villavicencio,B052,Habichuela,Habichuela
 Villavicencio,A040,Harina de trigo,Harina de trigo
 Villavicencio,A034,Harina precocida de maíz,Harina precocida de maíz
 Villavicencio,J004,Huevo rojo A,Huevo A
+Villavicencio,J004,Huevo rojo AA,Huevo AA
 Villavicencio,N/A,Huevo rojo B,Huevo rojo B
+Villavicencio,J004,Huevo rojo extra,Huevo AAA
+Villavicencio,K018,Jugo instantáneo (sobre),Refesco en polvo
 Villavicencio,C042,Kiwi,Kiwi
 Villavicencio,G008,Leche en polvo,Leche en polvo
 Villavicencio,B059,Lechuga Batavia,Lechuga Batavia
 Villavicencio,B060,Lechuga crespa verde,Lechuga crespa verde
 Villavicencio,T026,Lenteja importada,Lenteja importada
+Villavicencio,C044,Limón común,Limón común
+Villavicencio,C044,Limón mandarino,Limón mandarino
 Villavicencio,C044,Limón Tahití,Limón Tahití
 Villavicencio,E003,Lomitos de atún en lata,Lomitos de atún en lata
 Villavicencio,C045,Lulo,Lulo
@@ -1564,6 +1750,8 @@ Villavicencio,N/A,Maíz pira,Maíz pira
 Villavicencio,C050,Mandarina Arrayana,Mandarina Arrayana
 Villavicencio,C052,Mango Tommy,Mango Tommy
 Villavicencio,C054,Manzana roja importada,Manzana roja importada
+Villavicencio,C054,Manzana royal gala importada,Manzana royal
+Villavicencio,C054,Manzana verde importada,Manzana verde importada
 Villavicencio,C056,Maracuyá,Maracuyá
 Villavicencio,D018,Margarina,Margarina
 Villavicencio,D020,Mayonesa doy pack,Mayonesa doy pack
@@ -1585,6 +1773,7 @@ Villavicencio,N/A,Pepino de rellenar,Pepino de rellenar
 Villavicencio,C071,Pera importada,Pera importada
 Villavicencio,N/A,Pera nacional,Pera nacional
 Villavicencio,F091,Pierna pernil con rabadilla,Pierna pernil con rabadilla
+Villavicencio,F091,Piernas de pollo,Piernas de pollo
 Villavicencio,B080,Pimentón,Pimentón
 Villavicencio,N/A,Pitahaya,Pitahaya
 Villavicencio,N/A,Plátano guineo,Plátano guineo
@@ -1605,5 +1794,6 @@ Villavicencio,B103,Tomate chonto,Tomate chonto
 Villavicencio,C082,Tomate de árbol,Tomate de árbol
 Villavicencio,C085,Uva importada,Uva importada
 Villavicencio,C086,Uva Isabela,Uva Isabela
+Villavicencio,C085,Uva red globe nacional,Uva red globe nacional
 Villavicencio,N/A,Yuca llanera,Yuca llanera
 Villavicencio,B110,Zanahoria,Zanahoria

@@ -9,7 +9,6 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import ua_generator
 import platform as pf
-import json
 import time
 import csv
 import os
@@ -162,125 +161,121 @@ def click_submit_button(driver):
     submit_button.click()
 
 
-def get_product(city, store, product_name):
-    if not os.path.exists("results"):
-        os.makedirs("results")
-
-    json_file_path = os.path.join("results", f"{product_name}.json")
-    if os.path.exists(json_file_path):
-        print(f"JSON file for {product_name} already exists. Skipping scraping.")
-        with open(json_file_path, "r", encoding="utf-8") as f:
-            products = json.load(f)
-        return products
-
+def get_product(city, store, product_name, sipsa_name):
     driver = initialize_webdriver(headless=False)
-
-    click_selected_city_button(
-        path=f"https://www.exito.com/s?q={product_name}&sort=score_desc&page=0",
-        driver=driver,
-        city_id=city["city_id"],
-    )
-    click_selected_store_button(driver=driver, store_id=store["store_id"])
-    click_submit_button(driver=driver)
-
-    time.sleep(5)
-
-    WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable(
-            (By.CSS_SELECTOR, "div[data-fs-product-card-image='true']")
-        )
-    )
-
-    soup = BeautifulSoup(driver.page_source, "html.parser")
-    ul_content = soup.find(
-        "ul", {"data-fs-product-grid": "true", "data-fs-product-grid-list": "true"}
-    )
-    article_elements = ul_content.find_all("li")
-
     products = []
-    for article in article_elements:
-        url = article.find("a", {"data-testid": "product-link"})["href"]
-        # It'd be better to use a more general selector for the product name in case the class name changes in the future.
-        name = (
-            article.find("div", {"class": "productCard_productInfo__yn2lK"})
-            .find("p")
-            .text.strip()
+
+    try:
+        click_selected_city_button(
+            path=f"https://www.exito.com/s?q={product_name}&sort=score_desc&page=0",
+            driver=driver,
+            city_id=city["city_id"],
         )
-        image = (
-            article.find("div", {"data-fs-product-card-image": "true"})
-            .find("a", {"data-testid": "product-link"})
-            .find("img")["src"]
-        )
-        price = (
-            article.find("div", {"data-fs-container-price-otros-geral": "true"})
-            .find("p")
-            .text.strip()
-        )
-        unit_price = (
-            article.find_all("a", {"data-testid": "product-link"})[1]
-            .find("span")
-            .text.strip()
-            .replace("(", "")
-            .replace(")", "")
+        click_selected_store_button(driver=driver, store_id=store["store_id"])
+        click_submit_button(driver=driver)
+
+        time.sleep(5)
+
+        WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable(
+                (By.CSS_SELECTOR, "div[data-fs-product-card-image='true']")
+            )
         )
 
-        try:
-            discount = (
-                article.find("div", {"data-fs-product-card-prices": "true"})
-                .find("span", {"data-percentage": "true"})
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        ul_content = soup.find(
+            "ul", {"data-fs-product-grid": "true", "data-fs-product-grid-list": "true"}
+        )
+        article_elements = ul_content.find_all("li")
+
+        for article in article_elements:
+            url = article.find("a", {"data-testid": "product-link"})["href"]
+            name = article.find("h3").text.strip()
+            image = (
+                article.find("div", {"data-fs-product-card-image": "true"})
+                .find("a", {"data-testid": "product-link"})
+                .find("img")["src"]
+            )
+            price = (
+                article.find("div", {"data-fs-container-price-otros-geral": "true"})
+                .find("p")
                 .text.strip()
             )
-        except AttributeError:
-            discount = 0
+            try:
+                product_links = article.find_all("a", {"data-testid": "product-link"})
+                if len(product_links) > 1 and product_links[1].find("span"):
+                    unit_price = (
+                        product_links[1]
+                        .find("span")
+                        .text.strip()
+                        .replace("(", "")
+                        .replace(")", "")
+                    )
+                else:
+                    unit_price = "N/A"
+            except Exception:
+                unit_price = "N/A"
 
-        products.append(
-            {
-                "city": city["city_name"],
-                "store": store["store_name"],
-                "url": "https://www.exito.com" + url,
-                "name": name,
-                "price": price,
-                "unit_price": unit_price,
-                "discount": float(discount),
-                "image": image,
-                "timestamp": datetime.now(timezone.utc).isoformat(),
-            }
-        )
+            try:
+                discount = (
+                    article.find("div", {"data-fs-product-card-prices": "true"})
+                    .find("span", {"data-percentage": "true"})
+                    .text.strip()
+                )
+            except AttributeError:
+                discount = 0
 
-    with open(json_file_path, "w", encoding="utf-8") as f:
-        json.dump(products, f, ensure_ascii=False, indent=4)
-
-    with open(
-        os.path.join("results", "products.csv"), "a", newline="", encoding="utf-8"
-    ) as csvfile:
-        fieldnames = [
-            "city",
-            "store",
-            "url",
-            "name",
-            "price",
-            "unit_price",
-            "discount",
-            "image",
-            "timestamp",
-        ]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
-        for product in products:
-            writer.writerow(
+            products.append(
                 {
-                    "city": product["city"],
-                    "store": product["store"],
-                    "url": product["url"],
-                    "name": product["name"],
-                    "price": product["price"],
-                    "unit_price": product["unit_price"],
-                    "discount": product["discount"],
-                    "image": product["image"],
-                    "timestamp": product["timestamp"],
+                    "city": city["city_name"],
+                    "store": store["store_name"],
+                    "url": "https://www.exito.com" + url,
+                    "name": name,
+                    "price": price,
+                    "unit_price": unit_price,
+                    "discount": float(discount),
+                    "image": image,
+                    "timestamp": datetime.now(timezone.utc).isoformat(),
+                    "exito_name": product_name,
+                    "sipsa_name": sipsa_name,
                 }
             )
 
-    driver.quit()
+        with open(
+            os.path.join("results", "products.csv"), "a", newline="", encoding="utf-8"
+        ) as csvfile:
+            fieldnames = [
+                "city",
+                "store",
+                "url",
+                "name",
+                "price",
+                "unit_price",
+                "discount",
+                "image",
+                "timestamp",
+                "exito_name",
+                "sipsa_name",
+            ]
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+            for product in products:
+                writer.writerow(
+                    {
+                        "city": product["city"],
+                        "store": product["store"],
+                        "url": product["url"],
+                        "name": product["name"],
+                        "price": product["price"],
+                        "unit_price": product["unit_price"],
+                        "discount": product["discount"],
+                        "image": product["image"],
+                        "timestamp": product["timestamp"],
+                        "exito_name": product_name,
+                        "sipsa_name": sipsa_name,
+                    }
+                )
+    finally:
+        driver.quit()
 
     return products

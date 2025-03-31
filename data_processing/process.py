@@ -13,13 +13,13 @@ df_filtered = df[columns_to_keep].rename(columns=column_mapping)
 df_filtered["tcac_code"] = df_filtered["tcac_code"].fillna("N/A")
 df_filtered.loc[df_filtered["tcac_code"].str.strip() == "", "tcac_code"] = "N/A"
 
-# Sort and drop duplicates, keeping all rows where tcac_code is "N/A"
-mask = df_filtered["tcac_code"] != "N/A"
-df_filtered.loc[mask] = (
-    df_filtered.loc[mask]
-    .sort_values(by=["city", "sipsa_name", "tcac_code"])
-    .drop_duplicates(subset=["city", "tcac_code"], keep="first")
-)
+# # Sort and drop duplicates, keeping all rows where tcac_code is "N/A"
+# mask = df_filtered["tcac_code"] != "N/A"
+# df_filtered.loc[mask] = (
+#     df_filtered.loc[mask]
+#     .sort_values(by=["city", "sipsa_name", "tcac_code"])
+#     .drop_duplicates(subset=["city", "tcac_code"], keep="first")
+# )
 
 # Ensure no empty rows made it through
 df_filtered = df_filtered[

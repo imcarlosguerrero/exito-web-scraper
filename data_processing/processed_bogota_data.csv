@@ -12,6 +12,7 @@ Bogotá,N/A,Ajo importado,Ajo importado
 Bogotá,F069,Alas de pollo con costillar,Alas de pollo con costillar
 Bogotá,N/A,Alas de pollo sin costillar,Alas de pollo sin costillar
 Bogotá,E001,Almejas con concha,Almejas con concha
+Bogotá,E001,Almejas sin concha,Almejas sin concha
 Bogotá,B014,Apio,Apio
 Bogotá,B015,Arracacha amarilla,Arracacha amarilla
 Bogotá,A010,Arroz de primera,Arroz de primera
@@ -47,30 +48,37 @@ Bogotá,L006,Café molido,Café molido
 Bogotá,N/A,Calabacín,Calabacín
 Bogotá,N/A,Calabaza,Calabaza
 Bogotá,E015,Calamar anillos,Calamar anillos
+Bogotá,E015,Calamar blanco entero,Calamar
 Bogotá,E017,Camarón tigre precocido seco,Camarón tigre
 Bogotá,N/A,Camarón tití precocido seco,Camarón tití precocido seco
-Bogotá,N/A,"Carne de cerdo, brazo con hueso","Carne de cerdo, brazo con hueso"
+Bogotá,N/A,"Carne de cerdo, brazo con hueso",Cerdo brazo
 Bogotá,F008,"Carne de cerdo, brazo sin hueso",Brazo cerdo
-Bogotá,N/A,"Carne de cerdo, cabeza de lomo","Carne de cerdo, cabeza de lomo"
+Bogotá,N/A,"Carne de cerdo, cabeza de lomo",Cerdo lomo
 Bogotá,F015,"Carne de cerdo, costilla",Costila cerdo
 Bogotá,F019,"Carne de cerdo, lomo sin hueso",Lomo cerdo
-Bogotá,N/A,"Carne de cerdo, pernil con hueso","Carne de cerdo, pernil con hueso"
+Bogotá,N/A,"Carne de cerdo, pernil con hueso",Cerdo pernil
 Bogotá,F025,"Carne de cerdo, pernil sin hueso",Pernil cerdo
-Bogotá,N/A,"Carne de cerdo, tocino barriga","Carne de cerdo, tocino barriga"
+Bogotá,N/A,"Carne de cerdo, tocino barriga",Cerdo tocino
 Bogotá,F029,"Carne de cerdo, tocino papada",Papada cerdo
 Bogotá,N/A,"Carne de res molida, murillo","Carne de res molida, murillo"
 Bogotá,F118,"Carne de res, bola de brazo",Bola brazo res
-Bogotá,N/A,"Carne de res, bota","Carne de res, bota"
+Bogotá,F118,"Carne de res, bola de pierna",Bola pierna res
+Bogotá,N/A,"Carne de res, bota",Res bota
 Bogotá,F100,"Carne de res, cadera",Cadera res
-Bogotá,N/A,"Carne de res, centro de pierna","Carne de res, centro de pierna"
+Bogotá,N/A,"Carne de res, centro de pierna",Res pierna
 Bogotá,F099,"Carne de res, chatas",Chatas res
 Bogotá,N/A,"Carne de res, cogote","Carne de res, cogote"
 Bogotá,F107,"Carne de res, costilla",Costilla res
-Bogotá,N/A,"Carne de res, lomo de brazo","Carne de res, lomo de brazo"
-Bogotá,N/A,"Carne de res, lomo fino","Carne de res, lomo fino"
+Bogotá,F100,"Carne de res, falda",Falda res
+Bogotá,N/A,"Carne de res, lomo de brazo",Res brazo
+Bogotá,N/A,"Carne de res, lomo fino",Res lomo
 Bogotá,F098,"Carne de res, morrillo",Morrillo res
-Bogotá,N/A,"Carne de res, murillo","Carne de res, murillo"
-Bogotá,N/A,"Carne de res, paletero","Carne de res, paletero"
+Bogotá,F118,"Carne de res, muchacho",Muchacho res
+Bogotá,N/A,"Carne de res, murillo",Res murillo
+Bogotá,N/A,"Carne de res, paletero",Res paletero
+Bogotá,F100,"Carne de res, pecho",Pechho res
+Bogotá,F100,"Carne de res, punta de anca",Punta de anca res
+Bogotá,F098,"Carne de res, sobrebarriga",Sobrebarriga res
 Bogotá,N/A,Cazuela de mariscos (paquete),Cazuela de mariscos (paquete)
 Bogotá,N/A,Cebolla cabezona blanca,Cebolla cabezona blanca
 Bogotá,N/A,Cebolla cabezona roja,Cebolla cabezona roja
@@ -114,15 +122,20 @@ Bogotá,A040,Harina de trigo,Harina de trigo
 Bogotá,A034,Harina precocida de maíz,Harina precocida de maíz
 Bogotá,N/A,Higo,Higo
 Bogotá,J004,Huevo rojo A,Huevo A
+Bogotá,J004,Huevo rojo AA,Huevo AA
 Bogotá,N/A,Huevo rojo B,Huevo rojo B
+Bogotá,J004,Huevo rojo extra,Huevo AAA
+Bogotá,K018,Jugo instantáneo (sobre),Refesco en polvo
 Bogotá,C042,Kiwi,Kiwi
 Bogotá,B059,Lechuga Batavia,Lechuga Batavia
 Bogotá,B060,Lechuga crespa verde,Lechuga crespa verde
 Bogotá,T026,Lenteja importada,Lenteja importada
+Bogotá,C044,Limón común,Limón común
 Bogotá,C044,Limón Tahití,Limón Tahití
 Bogotá,E003,Lomitos de atún en lata,Lomitos de atún en lata
 Bogotá,C045,Lulo,Lulo
 Bogotá,N/A,Maíz amarillo cáscara,Maíz amarillo cáscara
+Bogotá,A044,Maíz amarillo trillado,Maíz amarillo trillado
 Bogotá,A046,Maíz blanco trillado,Maíz blanco trillado
 Bogotá,N/A,Maíz pira,Maíz pira
 Bogotá,C050,Mandarina Arrayana,Mandarina Arrayana
@@ -131,10 +144,13 @@ Bogotá,C052,Mango Tommy,Mango Tommy
 Bogotá,N/A,Manteca,Manteca
 Bogotá,N/A,Manzana nacional,Manzana nacional
 Bogotá,C054,Manzana roja importada,Manzana roja importada
+Bogotá,C054,Manzana royal gala importada,Manzana royal
+Bogotá,C054,Manzana verde importada,Manzana verde importada
 Bogotá,C056,Maracuyá,Maracuyá
 Bogotá,D018,Margarina,Margarina
 Bogotá,D020,Mayonesa doy pack,Mayonesa doy pack
 Bogotá,C060,Melón Cantalup,Melón Cantalup
+Bogotá,E030,"Merluza, filete nacional","Merluza, filete nacional"
 Bogotá,C061,Mora de Castilla,Mora de Castilla
 Bogotá,N/A,Muslos de pollo sin rabadilla,Muslos de pollo sin rabadilla
 Bogotá,C062,Naranja Sweet,Naranja Sweet
@@ -143,17 +159,20 @@ Bogotá,N/A,Nicuro fresco,Nicuro fresco
 Bogotá,N/A,Palmitos de mar,Palmitos de mar
 Bogotá,N/A,Panela cuadrada morena,Panela cuadrada morena
 Bogotá,B071,Papa criolla limpia,Papa criolla lavada
+Bogotá,B071,Papa criolla sucia,Papa criolla sucia
 Bogotá,B074,Papa parda pastusa,Papa parda pastusa
 Bogotá,N/A,Papa R-12 negra,Papa R-12 negra
 Bogotá,N/A,Papa R-12 roja,Papa R-12 roja
 Bogotá,N/A,Papa rubí,Papa rubí
 Bogotá,N/A,Papa sabanera,Papa sabanera
 Bogotá,N/A,Papa superior,Papa superior
+Bogotá,B074,Papa única,Papa
 Bogotá,N/A,Papaya Paulina,Papaya Paulina
 Bogotá,N/A,Papaya tainung,Papaya tainung
 Bogotá,E043,Pargo rojo entero congelado,Pargo
 Bogotá,A072,Pastas alimenticias,Pastas alimenticias
 Bogotá,C079,Patilla,Sandía
+Bogotá,C079,Patilla baby,Patilla baby
 Bogotá,F085,Pechuga de pollo,Pechuga de pollo
 Bogotá,B077,Pepino cohombro,Pepino cohombro
 Bogotá,N/A,Pepino de rellenar,Pepino de rellenar
@@ -163,14 +182,15 @@ Bogotá,N/A,Perejil,Perejil
 Bogotá,E002,Pescado cabezas,Pescado cabezas
 Bogotá,F091,Pierna pernil con rabadilla,Pierna pernil con rabadilla
 Bogotá,N/A,Pierna pernil sin rabadilla,Pierna pernil sin rabadilla
+Bogotá,F091,Piernas de pollo,Piernas de pollo
 Bogotá,B080,Pimentón,Pimentón
 Bogotá,C072,Piña gold,Piña gold
 Bogotá,N/A,Piña perolera,Piña perolera
 Bogotá,N/A,Pitahaya,Pitahaya
 Bogotá,N/A,Plátano guineo,Plátano guineo
-Bogotá,N/A,Plátano hartón maduro,Plátano hartón maduro
+Bogotá,N/A,Plátano hartón maduro,Plátano maduro
 Bogotá,B092,Plátano hartón verde,Plátano verde
-Bogotá,N/A,Plátano hartón verde llanero,Plátano hartón verde llanero
+Bogotá,N/A,Plátano hartón verde llanero,Plátano verde
 Bogotá,N/A,Pollo entero fresco sin vísceras,Pollo entero fresco sin vísceras
 Bogotá,G017,Queso campesino,Queso campesino
 Bogotá,G018,Queso costeño,Queso costeño
@@ -188,13 +208,17 @@ Bogotá,E039,Sardinas en lata,Sardinas en lata
 Bogotá,E041,Sierra entera congelada,Sierra
 Bogotá,N/A,Sopa de pollo (caja),Sopa de pollo (caja)
 Bogotá,N/A,Tangelo,Tangelo
+Bogotá,E043,Tilapia roja entera congelada,Tilapia
 Bogotá,N/A,Tilapia roja entera fresca,Tilapia roja entera fresca
+Bogotá,E030,"Tilapia, filete congelado","Tilapia, filete congelado"
 Bogotá,B103,Tomate chonto,Tomate chonto
 Bogotá,C082,Tomate de árbol,Tomate de árbol
+Bogotá,B103,Tomate larga vida,Tomate larga vida
 Bogotá,E047,Trucha en corte mariposa,Trucha en corte mariposa
 Bogotá,N/A,Uchuva con cáscara,Uchuva con cáscara
 Bogotá,C085,Uva importada,Uva importada
 Bogotá,C086,Uva Isabela,Uva Isabela
+Bogotá,C085,Uva red globe nacional,Uva red globe nacional
 Bogotá,N/A,Uva verde,Uva verde
 Bogotá,N/A,Yuca llanera,Yuca llanera
 Bogotá,B110,Zanahoria,Zanahoria
