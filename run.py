@@ -5,6 +5,7 @@ from data_processing.models.food import Food
 from beanie import init_beanie
 import json
 import asyncio
+import urllib
 import os
 
 # Dictionary of cities and stores with their IDs
@@ -181,18 +182,31 @@ def should_scrape(product_info, city_name, store_name):
     return not os.path.exists(json_file_path)
 
 
-async def initialize_motor():
-    client = AsyncIOMotorClient("mongodb://localhost:27017")
-    await init_beanie(
-        database=client["foodprice"],
-        document_models=[Food],
-    )
-
-
 async def get_food_data():
-    await initialize_motor()
-    food_data = await Food.find_all().to_list(length=None)
-    return food_data
+    # Read food data from the JSON file
+    try:
+        with open("data_processing/foods.json", "r", encoding="utf-8") as file:
+            food_json_data = json.load(file)
+
+        # Convert JSON data to Food objects
+        food_data = []
+        for item in food_json_data:
+            food = Food(
+                id=item.get("id"),
+                sipsa_name=item.get("sipsa_name"),
+                exito_name=item.get("exito_name"),
+                tcac_code=item.get("tcac_code"),
+            )
+            food_data.append(food)
+
+        print(f"Loaded {len(food_data)} food items from foods.json")
+        return food_data
+    except FileNotFoundError:
+        print("Error: foods.json file not found.")
+        return []
+    except json.JSONDecodeError:
+        print("Error: Invalid JSON format in foods.json.")
+        return []
 
 
 def clean_results_folder(sipsa_names):
@@ -302,7 +316,7 @@ if __name__ == "__main__":
     print(
         f"Preparing to scrape {len(all_tasks)} tasks across {len(CITIES_AND_STORES)} cities"
     )
-    with ProcessPoolExecutor(max_workers=8) as executor:
+    with ProcessPoolExecutor(max_workers=2) as executor:
         futures = [executor.submit(scrape_product, *task) for task in all_tasks]
         for future in futures:
             try:
