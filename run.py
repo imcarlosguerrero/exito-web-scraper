@@ -1,11 +1,8 @@
 from app import get_product
 from concurrent.futures import ProcessPoolExecutor
-from motor.motor_asyncio import AsyncIOMotorClient
 from data_processing.models.food import Food
-from beanie import init_beanie
 import json
 import asyncio
-import urllib
 import os
 
 # Dictionary of cities and stores with their IDs
