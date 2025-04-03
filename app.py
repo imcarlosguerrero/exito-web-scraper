@@ -167,7 +167,7 @@ def get_product(city, store, product_name, sipsa_name):
 
     try:
         click_selected_city_button(
-            path=f"https://www.exito.com/s?q={product_name}category-1=mercado&facets=category-1&sort=score_desc&page=0",
+            path=f"https://www.exito.com/s?q={product_name}&category-1=mercado&facets=category-1&sort=score_desc&page=0",
             driver=driver,
             city_id=city["city_id"],
         )
