@@ -188,7 +188,7 @@ async def get_food_data(items_file="data_processing/foods.json"):
         with open(items_file, "r", encoding="utf-8") as file:
             food_json_data = json.load(file)
 
-        # Convert JSON data to Food objects, keeping city as a separate attribute
+        # Convert JSON data to Food objects
         food_data = []
         for item in food_json_data:
             food = Food(
@@ -197,8 +197,7 @@ async def get_food_data(items_file="data_processing/foods.json"):
                 exito_name=item.get("exito_name"),
                 tcac_code=item.get("tcac_code"),
             )
-            # Store the city separately
-            food_data.append((food, item.get("city")))
+            food_data.append(food)
 
         print(f"Loaded {len(food_data)} food items from {items_file}")
         return food_data
@@ -307,6 +306,11 @@ def main():
         action="store_true",
         help="Skip validation after scraping",
     )
+    parser.add_argument(
+        "--city",
+        "-c",
+        help="Scrape only a specific city (e.g., 'Bogotá', 'Medellín')",
+    )
 
     args = parser.parse_args()
 
@@ -317,14 +321,14 @@ def main():
         print("No items to scrape. Exiting.")
         sys.exit(1)
 
-    # Extract products and city information
-    products_with_cities = []
-    for food, city in food_data:
+    # Extract products info
+    products_info = []
+    for food in food_data:
         exito_name = food.exito_name if food.exito_name else food.sipsa_name
-        products_with_cities.append(((exito_name, food.sipsa_name), city))
+        products_info.append((exito_name, food.sipsa_name))
 
     # Get unique SIPSA names for folder cleaning
-    sipsa_names = {food.sipsa_name for food, _ in food_data}
+    sipsa_names = {food.sipsa_name for food in food_data}
 
     # Clean results folder if not skipped
     if not args.skip_clean:
@@ -336,34 +340,43 @@ def main():
     all_tasks = []
     skipped_tasks = 0
 
-    # For each item, determine which city to scrape from
-    for product_info, city_name in products_with_cities:
-        # Skip items with missing or invalid city
-        if not city_name or city_name not in CITIES_AND_STORES:
-            print(f"Skipping item with missing or invalid city: {product_info[1]}")
-            continue
+    # Filter cities if specified
+    cities_to_scrape = {}
+    if args.city:
+        if args.city in CITIES_AND_STORES:
+            cities_to_scrape = {args.city: CITIES_AND_STORES[args.city]}
+        else:
+            print(
+                f"Warning: City '{args.city}' not found in the list of available cities."
+            )
+            print(f"Available cities: {', '.join(CITIES_AND_STORES.keys())}")
+            sys.exit(1)
+    else:
+        cities_to_scrape = CITIES_AND_STORES
 
-        city_data = CITIES_AND_STORES[city_name]
-        city_id = city_data["city_id"]
+    # For each product, scrape from all cities and stores
+    for product_info in products_info:
+        for city_name, city_data in cities_to_scrape.items():
+            city_id = city_data["city_id"]
 
-        for store in city_data["stores"]:
-            # Only add task if the file doesn't already exist
-            if should_scrape(product_info, city_name, store["store_name"]):
-                all_tasks.append(
-                    (
-                        product_info,
-                        city_name,
-                        city_id,
-                        store["store_name"],
-                        store["store_id"],
+            for store in city_data["stores"]:
+                # Only add task if the file doesn't already exist
+                if should_scrape(product_info, city_name, store["store_name"]):
+                    all_tasks.append(
+                        (
+                            product_info,
+                            city_name,
+                            city_id,
+                            store["store_name"],
+                            store["store_id"],
+                        )
                     )
-                )
-            else:
-                skipped_tasks += 1
+                else:
+                    skipped_tasks += 1
 
     print(f"Skipping {skipped_tasks} tasks that already have results")
     print(
-        f"Preparing to scrape {len(all_tasks)} tasks across {len(set(city for _, city, _, _, _ in all_tasks)) if all_tasks else 0} cities"
+        f"Preparing to scrape {len(all_tasks)} tasks across {len(cities_to_scrape)} cities"
     )
 
     # Run the scraping tasks
