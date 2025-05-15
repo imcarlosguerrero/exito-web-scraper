@@ -1,9 +1,12 @@
-from app import get_product
+from scraper import get_product
 from concurrent.futures import ProcessPoolExecutor
 from data_processing.models.food import Food
 import json
 import asyncio
 import os
+import argparse
+import sys
+import subprocess
 
 # Dictionary of cities and stores with their IDs
 CITIES_AND_STORES = {
@@ -170,7 +173,7 @@ CITIES_AND_STORES = {
 
 def should_scrape(product_info, city_name, store_name):
     # Create sanitized names for folders and check if file exists
-    exito_name, sipsa_name = product_info
+    _, sipsa_name = product_info  # Using _ to indicate unused variable
     safe_city_name = sanitize_filename(city_name)
     safe_store_name = sanitize_filename(store_name)
     json_file_path = os.path.join(
@@ -179,13 +182,13 @@ def should_scrape(product_info, city_name, store_name):
     return not os.path.exists(json_file_path)
 
 
-async def get_food_data():
+async def get_food_data(items_file="data_processing/foods.json"):
     # Read food data from the JSON file
     try:
-        with open("data_processing/foods.json", "r", encoding="utf-8") as file:
+        with open(items_file, "r", encoding="utf-8") as file:
             food_json_data = json.load(file)
 
-        # Convert JSON data to Food objects
+        # Convert JSON data to Food objects, keeping city as a separate attribute
         food_data = []
         for item in food_json_data:
             food = Food(
@@ -194,15 +197,16 @@ async def get_food_data():
                 exito_name=item.get("exito_name"),
                 tcac_code=item.get("tcac_code"),
             )
-            food_data.append(food)
+            # Store the city separately
+            food_data.append((food, item.get("city")))
 
-        print(f"Loaded {len(food_data)} food items from foods.json")
+        print(f"Loaded {len(food_data)} food items from {items_file}")
         return food_data
     except FileNotFoundError:
-        print("Error: foods.json file not found.")
+        print(f"Error: {items_file} file not found.")
         return []
     except json.JSONDecodeError:
-        print("Error: Invalid JSON format in foods.json.")
+        print(f"Error: Invalid JSON format in {items_file}.")
         return []
 
 
@@ -265,58 +269,140 @@ def scrape_product(product_info, city_name, city_id, store_name, store_id):
         return
 
     # Execute scraping for this city, store, and product
-    product = get_product(
+    results = get_product(
         city={"city_name": city_name, "city_id": city_id},
         store={"store_name": store_name, "store_id": store_id},
         product_name=exito_name,
         sipsa_name=sipsa_name,
     )
 
-    json.dump(
-        product,
-        open(json_file_path, "w", encoding="utf-8"),
-        ensure_ascii=False,
-        indent=4,
+    # Save results to file (which now will always have the correct structure)
+    with open(json_file_path, "w", encoding="utf-8") as f:
+        json.dump(results, f, ensure_ascii=False, indent=4)
+
+    # Log whether products were found
+    if not results.get("products"):
+        print(f"No products found for {exito_name} at {store_name} in {city_name}")
+    else:
+        print(
+            f"Found {len(results['products'])} products for {exito_name} at {store_name} in {city_name}"
+        )
+
+
+def main():
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(description="Scrape product data from Éxito")
+    parser.add_argument(
+        "--items-file",
+        "-i",
+        default="data_processing/foods.json",
+        help="Path to the JSON file with items to scrape",
+    )
+    parser.add_argument(
+        "--skip-clean", "-s", action="store_true", help="Skip cleaning results folder"
+    )
+    parser.add_argument(
+        "--skip-validation",
+        "-v",
+        action="store_true",
+        help="Skip validation after scraping",
     )
 
+    args = parser.parse_args()
 
-if __name__ == "__main__":
-    food_data = asyncio.run(get_food_data())
+    # Load food data from specified file
+    food_data = asyncio.run(get_food_data(args.items_file))
 
-    products = [(food.exito_name, food.sipsa_name) for food in food_data]
+    if not food_data:
+        print("No items to scrape. Exiting.")
+        sys.exit(1)
 
-    sipsa_names = {food.sipsa_name for food in food_data}
+    # Extract products and city information
+    products_with_cities = []
+    for food, city in food_data:
+        exito_name = food.exito_name if food.exito_name else food.sipsa_name
+        products_with_cities.append(((exito_name, food.sipsa_name), city))
 
-    clean_results_folder(sipsa_names)
+    # Get unique SIPSA names for folder cleaning
+    sipsa_names = {food.sipsa_name for food, _ in food_data}
 
+    # Clean results folder if not skipped
+    if not args.skip_clean:
+        clean_results_folder(sipsa_names)
+    else:
+        print("Skipping results folder cleaning")
+
+    # Prepare scraping tasks
     all_tasks = []
     skipped_tasks = 0
-    for city_name, city_data in CITIES_AND_STORES.items():
+
+    # For each item, determine which city to scrape from
+    for product_info, city_name in products_with_cities:
+        # Skip items with missing or invalid city
+        if not city_name or city_name not in CITIES_AND_STORES:
+            print(f"Skipping item with missing or invalid city: {product_info[1]}")
+            continue
+
+        city_data = CITIES_AND_STORES[city_name]
         city_id = city_data["city_id"]
+
         for store in city_data["stores"]:
-            for product_info in products:
-                # Only add task if the file doesn't already exist
-                if should_scrape(product_info, city_name, store["store_name"]):
-                    all_tasks.append(
-                        (
-                            product_info,
-                            city_name,
-                            city_id,
-                            store["store_name"],
-                            store["store_id"],
-                        )
+            # Only add task if the file doesn't already exist
+            if should_scrape(product_info, city_name, store["store_name"]):
+                all_tasks.append(
+                    (
+                        product_info,
+                        city_name,
+                        city_id,
+                        store["store_name"],
+                        store["store_id"],
                     )
-                else:
-                    skipped_tasks += 1
+                )
+            else:
+                skipped_tasks += 1
 
     print(f"Skipping {skipped_tasks} tasks that already have results")
     print(
-        f"Preparing to scrape {len(all_tasks)} tasks across {len(CITIES_AND_STORES)} cities"
+        f"Preparing to scrape {len(all_tasks)} tasks across {len(set(city for _, city, _, _, _ in all_tasks)) if all_tasks else 0} cities"
     )
-    with ProcessPoolExecutor(max_workers=2) as executor:
+
+    # Run the scraping tasks
+    with ProcessPoolExecutor(max_workers=8) as executor:
         futures = [executor.submit(scrape_product, *task) for task in all_tasks]
         for future in futures:
             try:
                 future.result()
             except Exception as e:
                 print(f"Error during scraping: {e}")
+
+    # Run validation after scraping completes
+    if not args.skip_validation:
+        print("\n=== Running validation and re-scraping missing items ===")
+        try:
+            validator_process = subprocess.run(
+                [
+                    "python",
+                    "results_validator.py",
+                    "--rescrape",
+                    "--items-file",
+                    args.items_file,
+                ],
+                check=True,
+                text=True,
+                capture_output=True,
+            )
+            print(validator_process.stdout)
+            if validator_process.stderr:
+                print("Validation errors:", validator_process.stderr)
+        except subprocess.CalledProcessError as e:
+            print(f"Validation failed with error: {e}")
+            if e.stdout:
+                print(e.stdout)
+            if e.stderr:
+                print(e.stderr)
+        except Exception as e:
+            print(f"Error running validation: {e}")
+
+
+if __name__ == "__main__":
+    main()

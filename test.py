@@ -1,4 +1,4 @@
-from app import initialize_webdriver, get_product
+from scraper import initialize_webdriver, get_product
 
 """
 This test ensures that the get_product function returns a list of dictionaries with the correct schema for the product data.

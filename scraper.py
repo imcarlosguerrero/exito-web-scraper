@@ -176,6 +176,28 @@ def get_product(city, store, product_name, sipsa_name):
 
         time.sleep(5)
 
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+
+        empty_state = soup.find(
+            "section", {"data-fs-empty-state": "true"}
+        ) or soup.find("div", {"data-fs-empty-gallery-container": "true"})
+
+        if empty_state:
+            print(
+                f"Product '{product_name}' not found in {city['city_name']} at {store['store_name']}"
+            )
+            # Return an empty result with metadata
+            return [
+                {
+                    "city": city["city_name"],
+                    "store": store["store_name"],
+                    "product_name": product_name,
+                    "sipsa_name": sipsa_name,
+                    "timestamp": datetime.now(timezone.utc).isoformat(),
+                    "products": [],
+                }
+            ]
+
         WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable(
                 (By.CSS_SELECTOR, "div[data-fs-product-card-image='true']")
@@ -183,9 +205,26 @@ def get_product(city, store, product_name, sipsa_name):
         )
 
         soup = BeautifulSoup(driver.page_source, "html.parser")
+
         ul_content = soup.find(
             "ul", {"data-fs-product-grid": "true", "data-fs-product-grid-list": "true"}
         )
+
+        if not ul_content:
+            print(
+                f"No product grid found for '{product_name}' in {city['city_name']} at {store['store_name']}"
+            )
+            return [
+                {
+                    "city": city["city_name"],
+                    "store": store["store_name"],
+                    "product_name": product_name,
+                    "sipsa_name": sipsa_name,
+                    "timestamp": datetime.now(timezone.utc).isoformat(),
+                    "products": [],
+                }
+            ]
+
         article_elements = ul_content.find_all("li")
 
         for article in article_elements:
@@ -241,6 +280,17 @@ def get_product(city, store, product_name, sipsa_name):
                 }
             )
 
+        # Create a structured result
+        result = {
+            "city": city["city_name"],
+            "store": store["store_name"],
+            "product_name": product_name,
+            "sipsa_name": sipsa_name,
+            "timestamp": datetime.now(timezone.utc).isoformat(),
+            "products": products,
+        }
+
+        # Write to CSV
         with open(
             os.path.join("results", "products.csv"), "a", newline="", encoding="utf-8"
         ) as csvfile:
@@ -275,7 +325,22 @@ def get_product(city, store, product_name, sipsa_name):
                         "sipsa_name": sipsa_name,
                     }
                 )
+
+        return result
+
+    except Exception as e:
+        print(f"Error scraping product '{product_name}': {e}")
+        # Return an empty result on error
+        return [
+            {
+                "city": city["city_name"],
+                "store": store["store_name"],
+                "product_name": product_name,
+                "sipsa_name": sipsa_name,
+                "timestamp": datetime.now(timezone.utc).isoformat(),
+                "products": [],
+            }
+        ]
+
     finally:
         driver.quit()
-
-    return products
